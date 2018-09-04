@@ -5,7 +5,7 @@
 </p>
   <p>
 <!--
-  --><a href="https://discord.gg/MupFvDN"><img src="https://discordapp.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="Join Discord Server"/></a>
+  --><a href="https://discord.gg/MupFvDN"><img src="https://discordapp.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="Join Discord Server" width="32" height="32"/></a>
   </p>
 </div>
 
