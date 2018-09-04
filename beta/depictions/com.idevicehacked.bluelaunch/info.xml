@@ -1,0 +1,34 @@
+<package>
+	<id>com.idevicehacked.bluelaunch</id>
+	<name>BlueLaunch</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4.0</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Launch an app when BlueTootch connects. Includes "WeatherVane BlueTooth by AndyWiik" to give quick access to your bluetooth devices.
+        </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>AE</description>
+            <image>aetheme1.jpg</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+        <name>Website!</name>
+        <url>https://www.idevicehacked.com</url>
+        <iconclass>fa fa-desktop</iconclass>
+    </links>
+</package>

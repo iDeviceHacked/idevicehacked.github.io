@@ -1,0 +1,10 @@
+Package: com.ducksrepo.slimmerbanners
+Name: SlimmerBanners
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make those banners slimmer, Apple is getting lazy.
+Maintainer: Turnt Ducky
+Author: Turnt Ducky
+Section: Tweaks
+Version: 1.0-1+debug
+Installed-Size: 120

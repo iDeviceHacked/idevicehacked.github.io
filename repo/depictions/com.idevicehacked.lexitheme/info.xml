@@ -1,0 +1,54 @@
+<package>
+	<id>com.idevicehacked.lexitheme</id>
+	<name>Lexi</name>
+	<version>1.2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.1.2</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A wonderful theme by a great artist, Jim Andrews (@jima6636)
+        </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Lexi</description>
+            <image>lexi1.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Lexi</description>
+            <image>lexi2.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Lexi</description>
+            <image>lexi3.jpg</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Added new icons</change>
+	</changelog>
+	<links>
+        <link>
+            <name>Follow @jima6636 on Twitter!</name>
+            <url>https://twitter.com/jima6636</url>
+            <iconclass>fa fa-twitter</iconclass>
+            </link>
+        <link>
+            <name>Buy James a coffee</name>
+            <url>https://paypal.me/jima6636</url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>

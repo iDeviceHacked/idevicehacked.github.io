@@ -1,0 +1,15 @@
+Package: com.idevicehacked.bluelaunch
+Version: 0.0.1
+Section: Tweaks
+Maintainer: LucifersCircle
+Depends: mobilesubstrate, applist
+Architecture: iphoneos-arm
+Filename: noDebsHere//com.idevicehacked.bluelaunch_0.0.1_iphoneos-arm.deb
+Size: 14794
+Installed-Size: 280
+MD5sum: aa3c1f7d919bfbbd6065c3e5bb185fb2
+Description: An awesome MobileSubstrate tweak!
+author: LucifersCircle
+name: BlueLaunch
+depiction: https://idevicehacked.com/beta/depictions/?p=com.idevicehacked.bluelaunch
+

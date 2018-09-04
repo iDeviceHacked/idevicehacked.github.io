@@ -1,0 +1,36 @@
+<package>
+	<id>com.idevicehacked.simplepowerdownmenu</id>
+	<name>Simple Power Down Menu</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.3.1</maxiOS>
+            <miniOS>9.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Completely customizable power down meu!
+        </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Preferences</description>
+            <image>settings.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+        <change>(UPDATE) iPhoneX support has been added. To activate menu, tap home bar once or doubel tap the dock. (Floating Dock compatible)<br/>Better Depiction coming soon!</change>
+	</changelog>
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>

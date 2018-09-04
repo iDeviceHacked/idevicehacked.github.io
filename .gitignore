@@ -1,0 +1,22 @@
+# Node modules need to be installed through yarn
+node_modules/
+
+# Environment variables
+.env
+
+# Any logs created
+*.log
+
+# VSCode settings
+.vscode/
+
+# MacOS Settings
+.DS_Store
+
+# Data folders
+src/data/databases/*
+src/data/dist/*
+
+# Folder keep
+!**/*.gitkeep
+

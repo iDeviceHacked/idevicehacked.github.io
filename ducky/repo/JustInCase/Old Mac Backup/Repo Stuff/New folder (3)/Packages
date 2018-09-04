@@ -1,0 +1,67 @@
+Package: com.idevicehacked.aetheme
+Version: 1.0
+Section: Themes
+Maintainer: Jim Andrews
+Architecture: iphoneos-arm
+Filename: noDebsHere//AE.deb
+Size: 524410
+MD5sum: 63a504020ebb1f85eee1685362953f43
+Description: A beautiful theme by @jima6636
+name: AE
+author: Jim Andrews
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.aetheme
+
+Package: com.idevicehacked.coletontheme
+Version: 1.0
+Section: Themes
+Maintainer: Jim Andrews
+Architecture: iphoneos-arm
+Filename: noDebsHere//ColeTon.deb
+Size: 2362082
+MD5sum: 312e054bdd8cbc5ce3da9bca15638404
+Description: A beautiful theme by @jima6636
+name: ColeTon
+author: Jim Andrews
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.coletontheme
+
+Package: com.idevicehacked.lexitheme
+Version: 1.2
+Section: Themes
+Maintainer: Jim Andrews
+Architecture: iphoneos-arm
+Filename: noDebsHere//LexiTheme.deb
+Size: 7025366
+MD5sum: 966dbca9fd8a204308c957389eb72239
+Description: A beautiful theme by @jima6636
+name: Lexi
+author: Jim Andrews
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.lexitheme
+
+Package: com.idevicehacked.miscsettings
+Version: 2.0.7
+Section: Tweaks
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: noDebsHere//com.idevicehacked.miscsettings_2.0.7_iphoneos-arm.deb
+Size: 166592
+Installed-Size: 576
+MD5sum: a54b598ee437c607a5a0c7e8b97dfbf0
+Description: So far has 46+ Miscellaneous toggles!
+name: MiscSettings
+author: Lucifers Circle <luciferscircle@gmail.com>
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.miscsettings
+
+Package: com.idevicehacked.v4theme
+Version: 1.0
+Section: Themes
+Maintainer: Jim Andrews
+Architecture: iphoneos-arm
+Filename: noDebsHere//v4.deb
+Size: 64238332
+MD5sum: 84c97c5405bc2234aa52bff04203c6b0
+Description: A beautiful theme by @jima6636
+name: v4 1.3
+author: Jim Andrews
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.v4theme
+

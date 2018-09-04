@@ -1,0 +1,112 @@
+Package: com.idevicehacked.aetheme
+Version: 1.0
+Section: Themes
+Maintainer: Jim Andrews
+Architecture: iphoneos-arm
+Filename: noDebsHere//AE.deb
+Size: 524410
+MD5sum: 63a504020ebb1f85eee1685362953f43
+Description: A beautiful theme by @jima6636
+author: Jim Andrews
+name: AE
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.aetheme
+
+Package: com.idevicehacked.coletontheme
+Version: 1.0
+Section: Themes
+Maintainer: Jim Andrews
+Architecture: iphoneos-arm
+Filename: noDebsHere//ColeTon.deb
+Size: 2362082
+MD5sum: 312e054bdd8cbc5ce3da9bca15638404
+Description: A beautiful theme by @jima6636
+author: Jim Andrews
+name: ColeTon
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.coletontheme
+
+Package: com.idevicehacked.lexitheme
+Version: 1.2
+Section: Themes
+Maintainer: Jim Andrews
+Architecture: iphoneos-arm
+Filename: noDebsHere//LexiTheme.deb
+Size: 7025366
+MD5sum: 966dbca9fd8a204308c957389eb72239
+Description: A beautiful theme by @jima6636
+author: Jim Andrews
+name: Lexi
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.lexitheme
+
+Package: com.idevicehacked.lockpage
+Version: 1.0.1
+Section: Tweaks
+Maintainer: iDeviceHacked
+Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common (>= 1.11)
+Architecture: iphoneos-arm
+Filename: noDebsHere//com.idevicehacked.lockpage_1.0.1_iphoneos-arm.deb
+Size: 682036
+Installed-Size: 960
+MD5sum: c336cbbf2a6d2fd10a784e18d7410fb1
+Description: Lock apps in the app switcher!
+author: iDeviceHacked
+name: LockPage
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.lockpage
+
+Package: com.idevicehacked.miscsettings
+Version: 2.1.0
+Section: Tweaks
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Architecture: iphoneos-arm
+Filename: noDebsHere//com.idevicehacked.miscsettings_2.1.0_iphoneos-arm.deb
+Size: 155106
+Installed-Size: 472
+MD5sum: a4ef11ac09a92e82ffd66451cfea57f9
+Description: So far has 46+ Miscellaneous toggles!
+author: Lucifers Circle <luciferscircle@gmail.com>
+name: MiscSettings
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.miscsettings
+
+Package: com.idevicehacked.simplepowerdownmenu
+Version: 0.0.1
+Section: Tweaks
+Maintainer: LucifersCircle
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Architecture: iphoneos-arm
+Filename: noDebsHere//com.idevicehacked.simplepowerdownmenu_0.0.1_iphoneos-arm.deb
+Size: 54950
+Installed-Size: 448
+MD5sum: 2fe7a4136ba33e321c0f0689c83c7a26
+Description: A Completely customizable power down menu! BETA
+author: LucifersCircle
+name: Simple Power Down Menu
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.simplepowerdownmenu
+
+Package: com.idevicehacked.v4theme
+Version: 1.0
+Section: Themes
+Maintainer: Jim Andrews
+Architecture: iphoneos-arm
+Filename: noDebsHere//v4.deb
+Size: 64238332
+MD5sum: 84c97c5405bc2234aa52bff04203c6b0
+Description: A beautiful theme by @jima6636
+author: Jim Andrews
+name: v4 1.3
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.v4theme
+
+Package: com.kaitouiet.fastforwardtime
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Kiet Ha
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: noDebsHere//com.kaitouiet.fastforwardtime_1.0.2_iphoneos-arm.deb
+Size: 4974
+Installed-Size: 120
+MD5sum: 788af5c6b39107284ae96173180a652c
+Description: Adds seconds to your lockscreen clock!
+author: Kiet Ha
+name: FastForwardTime
+depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.fastforwardtime
+

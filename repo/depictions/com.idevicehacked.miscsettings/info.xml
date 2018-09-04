@@ -1,0 +1,129 @@
+<package>
+	<id>com.idevicehacked.miscsettings</id>
+	<name>MiscSettings</name>
+	<version>2.1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+    
+    <changelog>
+        <change>Added RealCC</change>
+        <change>Small re-write</change>
+    </changelog>
+    
+    <screenshots>
+        <screenshot>
+            <description>Preferences</description>
+            <image>prefs.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description>StatusBar Preferences</description>
+            <image>statusbarprefs.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>LockScreen Preferences</description>
+            <image>lsprefs.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description>SpringBoard Preferences</description>
+            <image>sbprefs.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>ControlCenter Preferences</description>
+            <image>ccprefs.PNG</image>
+        </screenshot>
+    </screenshots>
+    
+	<descriptionlist>
+		<description>MiscSettings is a free "General" tweak, with over 50 options, made for iOS 11!<br/>
+        If you have a bug report or feature request, please email me in Cydia!
+        </description>
+        <description><![CDATA[Status Bar:<br/>
+        <ul>
+            <li>Hide status bar</li><br/>
+            <li>Disable status bar in apps</li><br/>
+            <li>Hide Location</li><br/>
+            <li>Hide VPN</li><br/>
+            <li>Hide AirPlay</li><br/>
+            <li>Hide orientation lock</li><br/>
+            <li>Hide Bluetooth</li><br/>
+            <li>Hide Bluetooth Accessory</li><br/>
+            <li>Hide airplane</li><br/>
+            <li>Hide CarPlay</li><br/>
+            <li>Hide signal strength</li><br/>
+            <li>Hide carrier</li><br/>
+            <li>Hide WiFi</li><br/>
+            <li>Hide Do Not Disturb</li><br/>
+            <li>Hide Battery</li><br/>
+            <li>Hide charging icon</li><br/>
+            <li>Hide time</li><br/>
+            <li>Hide alarm</li><br/>
+            <li>Show status bar in folders</li>
+        </ul>
+        ]]></description>
+        <description><![CDATA[Lock Screen:<br/>
+        <ul>
+            <li>Hide today view</li><br/>
+            <li>Hide "Now Playing"</li><br/>
+            <li>Set notification transparency</li><br/>
+            <li>Remove blur on NC</li><br/>
+            <li>Hide "No Older Notifications"</li><br/>
+            <li>Custom Notif + Widget corner radius</li><br/>
+            iPhoneX only:<br/>
+            <li>Hide unlock text</li><br/>
+            <li>Hide grabber</li><br/>
+            <li>Hide flashlight</li><br/>
+            <li>Hide camera</li>
+        </ul>
+        ]]></description>
+        <description><![CDATA[SpringBoard:<br/>
+        <ul>
+        <li>Hide icon labels</li><br/>
+        <li>Hide page dots</li><br/>
+        <li>Hide updated dots</li><br/>
+        <li>Show app download progress</li><br/>
+        <li>Pinch to close folders</li><br/>
+        <li>Close folders on app launch</li><br/>
+        <li>No folder animations</li><br/>
+        <li>Hide folder background</li><br/>
+        <li>Custom folder icon transparency</li><br/>
+        <li>Remove switcher blur</li><br/>
+        <li>Hide widgets page text</li><br/>
+        <li>Hide today view</li><br/>
+        <li>Disable SpotLight</li><br/>
+        <li>Disable large titles</li><br/>
+        <li>Disable paralax</li><br/>
+        <li>Hide 3rd party apps in Settings</li><br/>
+        <li>Hide icons in Settings</li><br/>
+        <li>Touch pass through animation</li><br/>
+        <li>Hide camera bars</li><br/>
+        </ul>
+        ]]></description>
+        <description><![CDATA[ControlCenter: <br/>
+        <ul>
+            <li>Add percentage to sliders</li><br/>
+            <li>Add battery percentage to LPM toggle</li><br/>
+            <li>Hide Chevron</li><br/>
+            <li>RealCC(disable wifi&bluetooth reconnect)</li><br/>
+            <li>Customize CC tints</li><br/>
+        </ul>
+        
+        ]]></description>
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>

@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/turntducky</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+      <link>
+        <name>Buy me coffee</name>
+        <url>https://www.paypal.me/turntducky</url>
+        <iconclass>fa fa-paypal</iconclass>
+       </link>
+	</footerlinks>
+</repo>

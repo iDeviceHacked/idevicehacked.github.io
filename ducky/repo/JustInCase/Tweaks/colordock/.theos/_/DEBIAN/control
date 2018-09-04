@@ -1,0 +1,10 @@
+Package: com.ducksrepo.colordock
+Name: ColorDock
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Turnt Ducky
+Author: Turnt Ducky
+Section: Tweaks
+Version: 1.0.0-9+debug
+Installed-Size: 120

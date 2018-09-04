@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+	<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>Get a popup when your device does a successful respring.</string>
+	 </dict>
+	 <dict>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <true/>
+      <key>defaults</key>
+      <string>com.ducksrepo.testtweakprefs</string>
+      <key>key</key>
+      <string>popup</string>
+      <key>label</key>
+      <string>Enable popup</string>
+      <key>PostNotificaton</key>
+      <string>com.ducksrepo.mastertweak/preferences.changed</string>
+	</dict>
+	<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>Show percentage on CC sliders (NEEDS RESPRING).</string>
+	 </dict>
+	 <dict>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.ducksrepo.testtweakprefs</string>
+      <key>key</key>
+      <string>percent</string>
+      <key>label</key>
+      <string>Enable CC percentage</string>
+      <key>PostNotificaton</key>
+      <string>com.ducksrepo.mastertweak/preferences.changed</string>
+	</dict>
+	<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>Disable Large Tiles in iOS.</string>
+	 </dict>
+	 <dict>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.ducksrepo.testtweakprefs</string>
+      <key>key</key>
+      <string>nobigfellas</string>
+      <key>label</key>
+      <string>Disable Large Titles</string>
+      <key>PostNotificaton</key>
+      <string>com.ducksrepo.mastertweak/preferences.changed</string>
+	</dict>
+	<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>Hide Breadcrums in Statusbar after changing apps.</string>
+	 </dict>
+	 <dict>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.ducksrepo.testtweakprefs</string>
+      <key>key</key>
+      <string>nobredplz</string>
+      <key>label</key>
+      <string>Disable Breadcrums</string>
+      <key>PostNotificaton</key>
+      <string>com.ducksrepo.mastertweak/preferences.changed</string>
+	</dict>
+	<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Remove setting's update badge.</string>
+	 </dict>
+	 <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ducksrepo.testtweakprefs</string>
+			<key>key</key>
+			<string>noupdates</string>
+			<key>label</key>
+			<string>Hide update badge</string>
+			<key>PostNotificaton</key>
+			<string>com.ducksrepo.testtweak/preferences.changed</string>
+	</dict>
+	<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>Hide blue dots after app update.</string>
+	 </dict>
+	 <dict>
+      <key>cell</key>
+      <string>PSSwitchCell</string>
+      <key>default</key>
+      <false/>
+      <key>defaults</key>
+      <string>com.ducksrepo.testtweakprefs</string>
+      <key>key</key>
+      <string>noblue</string>
+      <key>label</key>
+      <string>Hide blue dots</string>
+      <key>PostNotificaton</key>
+      <string>com.ducksrepo.testtweak/preferences.changed</string>
+	</dict>
+	<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Remove "No Older Notifications" text in NC and LS.</string>
+	 </dict>
+	 <dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ducksrepo.testtweakprefs</string>
+			<key>key</key>
+			<string>noold</string>
+			<key>label</key>
+			<string>Hide No Older Notifications</string>
+			<key>PostNotificaton</key>
+			<string>com.ducksrepo.testtweak/preferences.changed</string>
+	</dict>
+	<dict>
+	    <key>cell</key>
+	    <string>PSGroupCell</string>
+	    <key>label</key>
+	    <string>Darkmodes (Requires Respring)</string>
+	</dict>
+	<dict>
+		  <key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ducksrepo.testtweakprefs</string>
+			<key>key</key>
+			<string>darkkeyboard</string>
+			<key>label</key>
+			<string>Dark Keyboard</string>
+			<key>PostNotificaton</key>
+		  <string>com.ducksrepo.testtweak/preferences.changed</string>
+	</dict>
+	<dict>
+		  <key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ducksrepo.testtweakprefs</string>
+			<key>key</key>
+			<string>darkfolders</string>
+			<key>label</key>
+			<string>Dark Springboard Folders</string>
+			<key>PostNotificaton</key>
+		  <string>com.ducksrepo.testtweak/preferences.changed</string>
+	</dict>
+	<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerText</key>
+			<string>Hide the lockscreen StatusBar.</string>
+	 </dict>
+	<dict>
+		<key>cell</key>
+		<string>PSSwitchCell</string>
+		<key>default</key>
+		<false/>
+		<key>defaults</key>
+		<string>com.ducksrepo.testtweakprefs</string>
+		<key>key</key>
+		<string>hidestatusbar</string>
+		<key>label</key>
+		<string>Hide Statusbar</string>
+		<key>PostNotification</key>
+		<string>com.ducksrepo.testtweak/preferences.changed</string>
+	</dict>
+	<dict>
+		<key>cell</key>
+		<string>PSGroupCell</string>
+		<key>label</key>
+		<string>Hide iPhoneX lockscreen items</string>
+	</dict>
+	<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ducksrepo.testtweakprefs</string>
+			<key>key</key>
+			<string>hideccline</string>
+			<key>label</key>
+			<string>Hide Control Center line</string>
+			<key>PostNotification</key>
+			<string>com.ducksrepo.testtweak/preferences.changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ducksrepo.testtweakprefs</string>
+			<key>key</key>
+			<string>hidehome</string>
+			<key>label</key>
+			<string>Hide Home</string>
+			<key>PostNotification</key>
+			<string>com.ducksrepo.testtweak/preferences.changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ducksrepo.testtweakprefs</string>
+			<key>key</key>
+			<string>hidehometext</string>
+			<key>label</key>
+			<string>Hide Home Text</string>
+			<key>PostNotification</key>
+			<string>com.ducksrepo.testtweak/preferences.changed</string>
+		</dict>
+		<dict>
+				<key>cell</key>
+				<string>PSSwitchCell</string>
+				<key>default</key>
+				<false/>
+				<key>defaults</key>
+				<string>com.ducksrepo.testtweakprefs</string>
+				<key>key</key>
+				<string>hidelock</string>
+				<key>label</key>
+				<string>Hide Lock Icon</string>
+				<key>PostNotification</key>
+				<string>com.ducksrepo.testtweak/preferences.changed</string>
+			</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ducksrepo.testtweakprefs</string>
+			<key>key</key>
+			<string>hidecamera</string>
+			<key>label</key>
+			<string>Hide Camera</string>
+			<key>PostNotification</key>
+			<string>com.ducksrepo.testtweak/preferences.changed</string>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSSwitchCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.ducksrepo.testtweakprefs</string>
+			<key>key</key>
+			<string>hideflashlight</string>
+			<key>label</key>
+			<string>Hide Flashlight</string>
+			<key>PostNotification</key>
+			<string>com.ducksrepo.testtweak/preferences.changed</string>
+		</dict>
+	<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+	</dict>
+	<dict>
+      <key>cell</key>
+      <string>PSTextCell</string>
+      <key>label</key>
+      <string>Made by Turnt Ducky</string>
+	</dict>
+	<dict>
+	    <key>cell</key>
+			<string>PSLinkCell</string>
+	    <key>detail</key>
+	    <string>DTCRootListController</string>
+	    <key>isController</key>
+	    <true/>
+	    <key>label</key>
+	     <string>Contributors</string>
+  </dict>
+	<dict>
+      <key>cell</key>
+      <string>PSTextCell</string>
+      <key>label</key>
+      <string>Version 2.0</string>
+	</dict>
+	<dict>
+      <key>cell</key>
+      <string>PSGroupCell</string>
+      <key>footerText</key>
+      <string>Resprings your device (NOTE: Not everything needs a respring to apply)</string>
+  </dict>
+  <dict>
+	    <key>action</key>
+      <string>respring:</string>
+      <key>cell</key>
+      <string>PSButtonCell</string>
+      <key>label</key>
+      <string>Respring</string>
+    </dict>
+	</array>
+	<key>title</key>
+	<string>Master Tweak</string>
+</dict>
+</plist>

@@ -1,0 +1,10 @@
+Package: com.ducksrepo.darksnap
+Name: SnapDark
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Make SnapChat dark
+Maintainer: Turnt Ducky
+Author: Turnt Ducky
+Section: Tweaks
+Version: 1.0-11+debug
+Installed-Size: 132

@@ -1,0 +1,17 @@
+Package: com.ducksrepo.mastertweak
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Turnt Ducky
+Installed-Size: 560
+Depends: mobilesubstrate
+Filename: noDebsHere/com.ducksrepo.mastertweak_1.0.9_iphoneos-arm.deb
+Size: 293134
+MD5sum: ae0e4f3aeddf6a4847320dbce9c73ddc
+SHA1: c91c5eb1c39575f95469d1ca28e06cee2efeb31f
+SHA256: 039ad1fec6416f14620c14bc31482790f9ecd90c6411eb1a32d5b5631f758781
+Section: Tweaks
+Description: A Master tweak with small tweaks added to it!
+Author: Turnt Ducky
+Depiction: https://idevicehacked.com/ducky/repo/depictions/?p=com.ducksrepo.mastertweak
+Name: Master Tweak
+

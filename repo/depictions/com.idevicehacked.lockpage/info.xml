@@ -1,0 +1,36 @@
+<package>
+	<id>com.idevicehacked.lockpage</id>
+	<name>LockPage</name>
+	<version>1.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Lock apps in the app switcher! You can select apps in settings, or use a long-hold gesture to lock and unlock them!
+        </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Preferences</description>
+            <image>settings.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+        <change>Added Custom (Locked) Text!</change>
+	</changelog>
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>

@@ -1,0 +1,14 @@
+<repo>
+	<footerlinks>
+		<link>
+			<name>Follow me on Twitter</name>
+			<url>https://twitter.com/lucifers_circle</url>
+			<iconclass>fa fa-twitter</iconclass>
+		</link>
+        <link>
+            <name>Throw me a bone</name>
+            <url>https://paypal.me/luciferscircle</url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+	</footerlinks>
+</repo>

@@ -1,0 +1,51 @@
+{
+    "name": "auxbot",
+    "version": "1.0.0",
+    "description": "Custom made bot for the Auxilium Discord server",
+    "author": "Auxilium (https://auxiliumdev.com/)",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "main": "src/app.js",
+    "homepage": "https://github.com/Auxilium-Development/postbot",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Auxilium-Development/postbot.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Auxilium-Development/postbot/issues"
+    },
+    "scripts": {
+        "lint": "./node_modules/.bin/eslint src/*.js",
+        "lint:fix": "./node_modules/.bin/eslint --fix src/*.js",
+        "start": "node src/app.js"
+    },
+    "keywords": [
+        "bot",
+        "discord",
+        "discord.js",
+        "Auxilium-Development",
+        "NodeJS",
+        "Auxilium"
+    ],
+    "engines": {
+        "node": ">=8.0.0 <11.0"
+    },
+    "dependencies": {
+        "better-sqlite3": "4.0.0",
+        "common-tags": "^1.8.0",
+        "discord.js": "favna/discord.js#main",
+        "discord.js-commando": "favna/commando#ribbon",
+        "dotenv": "^5.0.1",
+        "erlpack": "hammerandchisel/erlpack",
+        "moment": "2.22.2",
+        "moment-duration-format": "^2.2.2",
+        "path": "^0.12.7",
+        "simple-git": "^1.95.1",
+        "snekfetch": "^3.6.4",
+        "speedtest-net": "^1.4.2",
+        "uws": "^9.148.0",
+        "zlib-sync": "^0.1.4"
+    },
+    "devDependencies": {
+        "eslint": "^4.19.1"
+    }
+}

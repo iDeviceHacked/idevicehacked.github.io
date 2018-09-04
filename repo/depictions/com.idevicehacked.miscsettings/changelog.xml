@@ -1,0 +1,120 @@
+<changelog>
+	<changes>
+		<version>1.0.0</version>
+		<change>Initial release</change>
+	</changes>
+    <changes>
+        <version>1.1.0</version>
+        <change>Added 6 New options. New design.</change>
+    </changes>
+    <changes>
+        <version>1.2.0</version>
+        <change>Added 3 New options.</change>
+    </changes>
+    <changes>
+        <version>1.2.1</version>
+        <change>Fixed TransFolders bugs, added slider for custom transparency.</change>
+    </changes>
+    <changes>
+        <version>1.3.0</version>
+        <change>Fixed TransFolders Slider, added slider for both color and white alpha. Added slider for custom transparency for notifications.</change>
+        <change>Added "I know it was updated"</change>
+    </changes>
+    <changes>
+        <version>1.3.1</version>
+        <change>New "Status Bar" Settings!</change>
+            <change>New prefs icons! Added "FullScreenApps"! Added StatusFolders! Added hiding of status bar items!</change>
+    </changes>
+    <changes>
+        <version>1.3.2</version>
+        <change>New "Clean Settings" toggle!</change>
+        <change>Added "OpenClosey"(close folders on app launch)! Fixes for "BornWithNoName coming very soon!</change>
+    </changes>
+    <changes>
+        <version>1.3.3</version>
+        <change>Fixed icon and folder labels not hiding properly (BornWithNoName).</change>
+        <change>Added "ClearPull" to LockScreen Settings!</change>
+    </changes>
+    <changes>
+        <version>1.3.4</version>
+        <change>Added It Done Yet? (shows % complete for downloading apps)</change>
+            <change>Added BarsBegone (Removes black camera bars)</change>
+            <change>Added NoWhiteDots (Removes page dots)</change>
+            <change>Added ShadedCC (Change 4 tint options for the control center)</change>
+    </changes>
+    <changes>
+        <version>1.3.5</version>
+        <change>Bug fixes and stability improvements! Added compatibility for Twittomizer!
+        </change>
+    </changes>
+    <changes>
+        <version>1.3.6</version>
+        <change>Added CowBell!</change>
+        <change>Fixed an issue some people may have had with ShadedCC settings not disabling correctly!
+        </change>
+    </changes>
+    <changes>
+        <version>1.4.0</version>
+        <change>Added "Boxed In" - Custom Notifications + Widget Corner Radius</change>
+        <change>Added "Hide DoNotDisturb"</change>
+        <change>Added "Hide Battery Icon"</change>
+        <change>Added "NoSloFoldo" - No Folder Animations</change>
+        <change>Added "Hide LS StatusBar"</change>
+        <change>Added "Great Story MArk" - Hide Today Views on LS or SB</change>
+        <change>Added "NoSpots" - Disables Spotlight Everywhere</change>
+        <change>Added "Hide iPhoneXLS Items" - Unlock Text; Grabber; FlashLight; Camera</change>
+        <change>Added "NoTubbyTitles" - Removes Large titles</change>
+        <change>Added "StopRightThere" - Disables Paralax</change>
+        <change>Added "StatusSwitcher" - Adds status bar to app switcher</change>
+        <change>Added "LaterG8tor" - Removes 3rd party apps in Settings</change>
+        <change>Added "LaterB8tor" - Removes Icons in Settings</change>
+    </changes>
+    <changes>
+        <version>2.0.0</version>
+        <change>Rewrote all the preferences, some settings no longer need a respring to save, but it's still good practice :)</change>
+        <change>Fixed some minor bugs!</change>
+        <change>Added "Experimental" tab</change>
+        <change>Added "Simple Power Down Menu"</change>
+    </changes>
+    <changes>
+        <version>2.0.1</version>
+        <change>Fixed Duplicate CleanSettings entry</change>
+        <change>ReWrote Simple Power Down Menu</change>
+    </changes>
+    <changes>
+        <version>2.0.2</version>
+        <change>Fixed page dots unhiding after orientation change</change>
+        <change>New Banner!</change>
+    </changes>
+    <changes>
+        <version>2.0.3</version>
+        <change>Fixed safemode crash some devices were experiencing</change>
+    </changes>
+    <changes>
+        <version>2.0.4</version>
+        <change>Fixed LockScreen status bar not hiding</change>
+    </changes>
+    <changes>
+        <version>2.0.5</version>
+        <change>Added animations and custom position slider to Simple Power Down Menu</change>
+        <change>smol bug fixes</change>
+    </changes>
+    <changes>
+        <version>2.0.6</version>
+        <change>Added "Hide Percentage Sign" - StatusBar</change>
+        <change>Added "Hide Charging Icon" - StatusBar</change>
+    </changes>
+    <changes>
+        <version>2.0.7</version>
+        <change>Removed "Hide Percentage Sign" - StatusBar (It was causing Cydia and Crash Reporter to crash on first launch. I will Re-add this option once I find a way to work around this.)</change>
+    </changes>
+    <changes>
+        <version>2.0.8</version>
+        <change>Added compatibility for "Simple Power Down Menu"</change>
+    </changes>
+    <changes>
+        <version>2.1.0</version>
+        <change>Added RealCC</change>
+        <change>Small re-write</change>
+    </changes>
+</changelog>
