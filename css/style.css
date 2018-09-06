@@ -1,0 +1,143 @@
+@import url("https://fonts.googleapis.com/css?family=Varela+Round");
+:root {
+  --color-1: #4f8bea;
+  --color-2: #55B49E;
+  --color-3: #272727;
+  --color-4: #272727;
+}
+body {
+  background-color: #F8F8F8;
+
+  overflow-y: scroll;
+  font-family: 'Varela Round', sans-serif;
+}
+.Header {
+  position: relative;
+  height: 80vh;
+  display: block;
+}
+.Header-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to right, var(--color-1), var(--color-2));
+  -webkit-transform-origin: 0px 0px;
+          transform-origin: 0px 0px;
+  -webkit-transform: skewY(-10deg);
+          transform: skewY(-10deg);
+  overflow: hidden;
+  z-index: -1;
+}
+.Header-background::before,
+.Header-background::after {
+  display: block;
+  position: absolute;
+  content: '';
+  width: 80%;
+  height: 33.333333333333336%;
+  opacity: 0.3;
+  -webkit-filter: blur(15px);
+          filter: blur(15px);
+}
+
+.mobile {
+
+  height: 40%!important;
+}
+
+.fanka {
+margin-top:-30%!important;
+}
+
+.Header-content {
+  text-align: center;
+  padding: 4rem 4rem;
+  margin: 0 auto;
+}
+@media (min-width: 58rem) {
+  .Header-content {
+    text-align: left;
+    padding: 10rem 4rem;
+    max-width: 54rem;
+    display: flex;
+    justify-content: space-between;
+  }
+}
+.Header-hero h1,
+.Header-hero p {
+  color: #fff;
+  text-shadow: 0 0.5rem 1rem rgba(50,0,100,0.1);
+}
+.Header-hero h1 {
+  margin: 0;
+  font-size: 3rem;
+}
+.Header-hero p {
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+}
+.Header-visuals {
+  position: relative;
+  margin-top: 5rem;
+  -webkit-transform: rotate(-10deg);
+          transform: rotate(-10deg);
+}
+@media (min-width: 58rem) {
+  .Header-visuals {
+    margin: 0;
+    -webkit-transform: translateY(-5rem) rotate(-10deg);
+            transform: translateY(-5rem) rotate(-10deg);
+  }
+}
+.Button {
+  padding: 1.5rem 2rem;
+  border: 0;
+  color: var(--color-3);
+  font-size: 1.2rem;
+  font-weight: bold;
+  background: #fff;
+  border-radius: 3px;
+  transition: all 0.2s;
+  cursor: pointer;
+  box-shadow: 0 1.75rem 2rem -0.4rem rgba(50,0,100,0.15);
+}
+.Button:hover {
+  color: var(--color-4);
+  box-shadow: 0 1.75rem 3rem 0rem rgba(50,0,100,0.1);
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+.Button:active {
+  box-shadow: 0 1.75rem 2.5rem -0.2rem rgba(50,0,100,0.125);
+  -webkit-transform: scale(1.025);
+          transform: scale(1.025);
+}
+.Iphone {
+  display: inline-block;
+  background: #fff;
+  padding: 4rem 0.6rem 0;
+  border-radius: 2rem;
+  box-shadow: -1rem 1.75rem 2rem -0.4rem rgba(50,0,100,0.1), -0.2rem 0.2rem 0.5rem rgba(50,0,100,0.05), inset 0.5rem -0.5rem 0.5rem -0.4rem rgba(50,0,100,0.1);
+  text-align: center;
+}
+.Iphone::before,
+.Iphone::after {
+  content: '';
+  display: block;
+}
+.Iphone::before {
+  background-color: var(--color-3);
+  background-image: linear-gradient(0deg, var(--color-3) 0%, var(--color-4) 100%);
+  width: 16rem;
+  padding-top: 177.5%;
+}
+.Iphone::after {
+  display: inline-block;
+  margin: 0.6rem;
+  padding: 1.4rem;
+  border: 1px solid #d0d0d0;
+  border-radius: 2rem;
+  box-shadow: inset -0.05rem 0.05rem 0.5rem 0rem rgba(50,0,100,0.05);
+}

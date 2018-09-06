@@ -1,0 +1,161 @@
+
+.end {
+
+  width:100%;
+  height:5%;
+  background-color:#4f8bea
+}
+h1 {
+  font-size: 2em;
+}
+
+figcaption , h2 {
+
+  text-align:center
+}
+main {
+
+  margin-top: 15%;
+}
+figure,
+aside,
+.img {
+  width: 200px;
+  height: 200px;
+  position: relative;
+  display: inline-block;
+  border-radius: 50%;
+}
+figure {
+  vertical-align: top;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+  margin: 210px 50px 80px;
+  outline: none;
+  background: #3ac6f3;
+  background: -moz-linear-gradient(top, #4f8bea 0%, #55B49E 100%);
+  background: -webkit-linear-gradient(top, #4f8bea 0%, #55B49E 100%);
+  background: linear-gradient(to bottom, #4f8bea 0%, #55B49E 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#3ac6f3', endColorstr='#7cff83', GradientType=0);
+}
+figure:nth-child(odd) {
+  margin-top: 70px;
+}
+figure * {
+  -webkit-transition: all ease-in-out 0.25s;
+  -moz-transition: all ease-in-out 0.25s;
+  -ms-transition: all ease-in-out 0.25s;
+  -o-transition: all ease-in-out 0.25s;
+  transition: all ease-in-out 0.25s;
+}
+figure .socials {
+  cursor: pointer;
+  width: 194px;
+  height: 194px;
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  -webkit-transition: transform ease-in-out 0.5s;
+  -moz-transition: -moz-transform ease-in-out 0.5s;
+  -ms-transition: -ms-transform ease-in-out 0.5s;
+  -o-transition: -o-transform ease-in-out 0.5s;
+  transition: transform ease-in-out 0.5s;
+  -webkit-transform: rotateY(180deg);
+  -moz-transform: rotateY(180deg);
+  -ms-transform: rotateY(180deg);
+  -o-transform: rotateY(180deg);
+  transform: rotateY(180deg);
+}
+figure .socials a {
+  top: 42%;
+  bottom: 0;
+  position: absolute;
+  width: 32px;
+  height: 32px;
+}
+figure .socials a.vk {
+  left: 12%;
+}
+figure .socials a.twitter {
+  left: 40%;
+}
+figure .socials a.linkedin {
+  left: 54%;
+}
+figure .socials a.facebook {
+  left: 75%;
+}
+figure .socials a:hover {
+  top: 40%;
+}
+figure .socials.flip {
+  background-color: rgba(255, 255, 255, 0.5);
+  -webkit-transform: rotateY(360deg);
+  -moz-transform: rotateY(360deg);
+  -ms-transform: rotateY(360deg);
+  -o-transform: rotateY(360deg);
+  transform: rotateY(360deg);
+}
+figure .socials.flip a.vk {
+  background: url("http://image.flaticon.com/icons/svg/145/145813.svg") no-repeat center / cover;
+}
+figure .socials.flip a.twitter {
+  background: url("http://image.flaticon.com/icons/svg/145/145812.svg") no-repeat center / cover;
+}
+figure .socials.flip a.facebook {
+  background: url("http://image.flaticon.com/icons/svg/145/145802.svg") no-repeat center / cover;
+}
+figure .socials.flip a.linkedin {
+  background: url("http://image.flaticon.com/icons/svg/145/145807.svg") no-repeat center / cover;
+}
+figure .img {
+  opacity: 0.8;
+  width: 194px;
+  height: 194px;
+  position: absolute;
+  left: 3px;
+  top: 3px;
+}
+figure figcaption,
+figure h2 {
+  position: absolute;
+  bottom: -35px;
+  left: 0;
+  right: 0;
+
+  cursor: pointer;
+}
+figure h2 {
+  text-transform: uppercase;
+  font-size: 1.4em;
+  position: absolute;
+  top: -65px;
+  bottom: 0;
+
+}
+figure:hover h2,
+figure:active h2 {
+  letter-spacing: 2px;
+  text-shadow: 3px 3px 1px rgba(58, 198, 243, 0.5);
+}
+figure:hover figcaption,
+figure:active figcaption {
+  letter-spacing: 2px;
+  text-shadow: 3px 3px 1px rgba(124, 255, 131, 0.5);
+}
+figure:hover .img,
+figure:active .img {
+  opacity: 1;
+}
+address {
+  font-style: normal;
+  font-size: 0.6em;
+  padding: 10px 0;
+}
+address a {
+  cursor: pointer;
+  text-decoration: none;
+  color: #7cff83;
+}
+address a:hover {
+  color: #3ac6f3;
+}
