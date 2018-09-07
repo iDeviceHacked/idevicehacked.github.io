@@ -1,0 +1,57 @@
+<package>
+	<id>com.pknauf.nsa</id>
+	<name>NoSlowAnimationsXI</name>
+	<version>5.1.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+    
+    <changelog>
+        <change>Added Aerify Mode</change>
+    </changelog>
+    
+    <screenshots>
+    </screenshots>
+    
+	<descriptionlist>
+		<description>Don't get slowed down by animations on iOS 11!<br/>
+        </description>
+        <description>Sped up animations:
+        
+        - App opening/closing
+        
+        -Screen Fade
+        
+        -Volume HUD
+        
+        -3D Touch
+        
+        -Notification Banners
+        
+        -Control Center
+        
+        -Reachability
+        </description>
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+        <link>
+          <name>Source Code</name>
+          <url>https://github.com/Patrickk17/noslowanimationsxi</url>
+          <iconclass>fa fa-github</iconclass>
+        </link>
+    </links>  
+</package>
