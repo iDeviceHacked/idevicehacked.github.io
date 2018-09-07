@@ -14,11 +14,13 @@
 	</compatibility>
 	<dependencies></dependencies>
     
-    <changelog>
-        <change>Added Aerify Mode</change>
-    </changelog>   
-	<screenshots>
-	</screenshots>
+     <changelog>
+        <change>Added aerify mode</change>
+        <change>Fixed freezing issue</change>
+    </changelog>
+    
+    <screenshots>
+    </screenshots>
 	<descriptionlist>
 		<description>Don't get slowed down by animations on iOS 11!<br/>
         </description>
