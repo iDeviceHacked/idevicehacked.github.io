@@ -1,1 +1,8 @@
-
+<changelog>
+	<changes>
+		<version>5.1.1</version>
+		<change>Added an Aerfiy Mode</change>
+    		<version>5.1</version>
+		<change>Fixed freezing issue</change>
+	</changes>
+</changelog>
