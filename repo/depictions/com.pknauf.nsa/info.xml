@@ -20,21 +20,8 @@
 	<descriptionlist>
 		<description>Don't get slowed down by animations on iOS 11!<br/>
         </description>
-        <description>Sped up animations:
+        <description>Speeds up animations for the app opening/closing, screen wake/fade, Volume HUD, 3D touch, notification banners, reachability, and the control center! You can even cutomize the speeds from settings!
         
-        - App opening/closing
-        
-        -Screen Fade
-        
-        -Volume HUD
-        
-        -3D Touch
-        
-        -Notification Banners
-        
-        -Control Center
-        
-        -Reachability
         </description>
 	</descriptionlist>
 
@@ -49,5 +36,10 @@
           <url>https://github.com/Patrickk17/noslowanimationsxi</url>
           <iconclass>fa fa-github</iconclass>
         </link>
+	<link>
+		<name>Twitter</name>
+		<url>https://twitter.com/patrckk1734</url>
+		<iconclass> fa fa-twitter</iconclass>
+		</link>	
     </links>  
 </package>
