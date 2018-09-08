@@ -11,20 +11,15 @@
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
-    
-     <changelog>
-        <change>Added a preference bundle and a new effect!</change>
-    </changelog>
-    
-    <screenshots>
-    </screenshots>
 	<descriptionlist>
 		<description>A trampoline for your springboard!<br/>
         </description>
         <description>Add springiness to your iPhone or iPad's app opening and closing animations with trampoline! There are two effects to choose from: Icon Bounce, and Wallpaper spin. Add a nice satisfying bounce, or make your wallpaper do a backflip and make opening apps more fun!
         </description>
 	</descriptionlist>
-
+	   <changelog>
+        	<change>Added a preference bundle and a new effect!</change>
+    	   </changelog>
 	<links>
         <link>
             <name>Website!</name>
