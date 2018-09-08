@@ -1,8 +1,9 @@
+
 <changelog>
 	<changes>
-	<version>2.0</version>
-	<change>Added a preference bundle and a new effect!</change>
-    	<version>1.0</version>
-   	<change>Initial release</change>
+		<version>2.0</version>
+		<change>Added a preference bundle and a new effect!</change>
+		<version>1.0</version>
+		<change>Initial release</change>
 	</changes>
 </changelog>
