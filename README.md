@@ -1,6 +1,6 @@
 <div align="center">
 <p>
-<h1>iDevice Hacked Repo</h1>
+<h1>iDeviceHacked Repo</h1>
 <h3>Cydia repository for ios development</h3>
 </p>
   <p>
