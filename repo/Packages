@@ -160,6 +160,23 @@ Author: Patrick Knauf <patrickknauf17@gmail.com>
 Depiction: https://idevicehacked.com/repo/depictions/?p=com.pknauf.nsa
 Name: NoSlowAnimationsXI
 
+Package: com.idevicehacked.nsa
+Version: 5.1.2-6+debug
+Architecture: iphoneos-arm
+Maintainer: Patrick Knauf
+Installed-Size: 192
+Depends: mobilesubstrate
+Filename: ./noDebsHere/com.pknauf.nsa_5.1.2-6debug_iphoneos-arm.deb
+Size: 20980
+MD5sum: 1c9c3ac2a7b66a2fdc55e7924b01d239
+SHA1: 0d6855c454dddd52c5e5be3dbaaefead8442b7d7
+SHA256: 76e964e57661104af13ddaad616f6445c07a109894c17ed7d363e8825baf02b7
+Section: Tweaks
+Description: Don’t get slowed down by animations on iOS 11!
+Author: Patrick Knauf
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.pknauf.nsa
+Name: NoSlowAnimationsXI
+
 Package: com.idevicehacked.trampoline
 Version: 2.0-10+debug
 Architecture: iphoneos-arm
