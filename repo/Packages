@@ -146,7 +146,7 @@ Name: FastForwardTime
 Package: com.idevicehacked.nsa
 Version: 0.0.1-35+debug
 Architecture: iphoneos-arm
-Maintainer: Patrick Knauf
+Maintainer: Patrick Knauf <patrickknauf17@gmail.com>
 Installed-Size: 188
 Depends: mobilesubstrate
 Filename: ./noDebsHere/com.pknauf.nsa_0.0.1-35debug_iphoneos-arm.deb
@@ -156,8 +156,25 @@ SHA1: b0f095ca070016dfc33f12c445d2511aee59b28e
 SHA256: a2dbe5a224a54418eb97c125b88980826e010bf7724d2af2541a33267058b9bd
 Section: Tweaks
 Description: Don't get slowed down by animations on iOS 11!
-Author: Patrick Knauf
-Depiction: http://idevicehacked.com/repo/depictions/?p=com.pknauf.nsa
+Author: Patrick Knauf <patrickknauf17@gmail.com>
+Depiction: https://idevicehacked.com./repo/depictions/?p=com.pknauf.nsa
 Name: NoSlowAnimationsXI
+
+Package: com.idevicehacked.trampoline
+Version: 2.0-10+debug
+Architecture: iphoneos-arm
+Maintainer: Patrick Knauf <patrickknauf17@gmail.com>
+Installed-Size: 164
+Depends: mobilesubstrate
+Filename: ./noDebsHere/com.pknauf.trampoline_2.0-10debug_iphoneos-arm.deb
+Size: 10142
+MD5sum: 4993c2491db6d817283bd605ac9e5747
+SHA1: be30dee9d1fcc533f84e870ca15e705b8eca9e84
+SHA256: 1bd132a12679ef7c32ad84ed22b58a66d393244b3996836b130a2e7d788ce4fc
+Section: Tweaks
+Description: A trampoline for your springboard
+Author: Patrick Knauf <patrickknauf17@gmail.com>
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.trampoline
+Name: Trampoline
 
 
