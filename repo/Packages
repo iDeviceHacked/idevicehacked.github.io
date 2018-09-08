@@ -157,7 +157,7 @@ SHA256: a2dbe5a224a54418eb97c125b88980826e010bf7724d2af2541a33267058b9bd
 Section: Tweaks
 Description: Don't get slowed down by animations on iOS 11!
 Author: Patrick Knauf <patrickknauf17@gmail.com>
-Depiction: https://idevicehacked.com./repo/depictions/?p=com.pknauf.nsa
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.pknauf.nsa
 Name: NoSlowAnimationsXI
 
 Package: com.idevicehacked.trampoline
