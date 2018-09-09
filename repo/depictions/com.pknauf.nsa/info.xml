@@ -15,7 +15,7 @@
 	<dependencies></dependencies>
     
      <changelog>
-        <change>Added aerify mode</change>
+        <change>Fixed freezing</change>
     </changelog>
     
     <screenshots>
