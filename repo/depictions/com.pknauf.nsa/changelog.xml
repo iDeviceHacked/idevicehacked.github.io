@@ -1,7 +1,8 @@
 <changelog>
 	<changes>
 		<version>5.1.3</version>
-		<change>Actually fixed freezing issue</change>	
+		<change>Actually fixed freezing issue</change>
+	</changes>
 	<changes>
 		<version>5.1.2</version>
 		<change>Attempted to fix freezing issue</change>
