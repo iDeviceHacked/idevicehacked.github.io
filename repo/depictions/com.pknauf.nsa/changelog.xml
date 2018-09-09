@@ -1,8 +1,17 @@
 <changelog>
 	<changes>
+		<version>5.1.3</version>
+		<change>Actually fixed freezing issue</change>	
+	<changes>
+		<version>5.1.2</version>
+		<change>Attempted to fix freezing issue</change>
+	</changes>
+	<changes>
 		<version>5.1.1</version>
 		<change>Added an Aerfiy Mode</change>
+	</changes>
+	<changes>
     		<version>5.1</version>
-		<change>Fixed freezing issue</change>
+		<change>Fixed freezing issue for most people</change>
 	</changes>
 </changelog>
