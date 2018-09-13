@@ -167,19 +167,3 @@ Description: Adds seconds to your lockscreen clock!
 name: FastForwardTime
 author: Kiet Ha
 depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.fastforwardtime
-
-Package: com.pknauf.trampoline
-Version: 2.0-10+debug
-Section: Tweaks
-Maintainer: Patrick Knauf
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: noDebsHere//com.pknauf.trampoline_2.0-10debug_iphoneos-arm.deb
-Size: 10142
-Installed-Size: 164
-MD5sum: 4993c2491db6d817283bd605ac9e5747
-Description: A trampoline for your springboard
-name: Trampoline
-author: Patrick Knauf
-depiction: https://patrick-knauf.github.io/repo/depictions/?p=com.pknauf.trampoline
-
