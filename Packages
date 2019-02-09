@@ -1,169 +1,211 @@
 Package: com.daniel63194.cabello
 Version: 1.0
-Section: Tweaks
-Maintainer: daniel63194
-Depends: mobilesubstrate, com.orangebananaspy.libobsutilities, preferenceloader, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: noDebsHere//com.daniel63194.cabello.deb
-Size: 604592
+Maintainer: daniel63194
 Installed-Size: 1484
+Depends: mobilesubstrate, com.orangebananaspy.libobsutilities, preferenceloader, ws.hbang.common (>= 1.11)
+Filename: noDebsHere/com.daniel63194.cabello.deb
+Size: 604592
 MD5sum: 87ba0a36ff3d01ae66ad79632740c276
+SHA1: c34d6dad820f134f53fe5f5aa854d53f1c44784a
+SHA256: 61b71436904759a1b67e5a5ef31166fc3325020c4b9d3552c313359a0e97b0db
+Section: Tweaks
 Description: Buttons, your way.
-name: Cabello
-author: daniel63194
-depiction: https://idevicehacked.com/repo/depictions/?p=com.daniel63194.cabello
+Author: daniel63194
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.daniel63194.cabello
+Name: Cabello
 
 Package: com.idevicehacked.aetheme
 Version: 1.0
-Section: Themes
-Maintainer: Jim Andrews
 Architecture: iphoneos-arm
-Filename: noDebsHere//AE.deb
+Maintainer: Jim Andrews
+Filename: noDebsHere/AE.deb
 Size: 524410
 MD5sum: 63a504020ebb1f85eee1685362953f43
+SHA1: dad117ecab695b4c65c8ebf8f766b0d568a93ed8
+SHA256: b827bb16188b02f67d1b3623ebaccd2b0b0fb4fc7891450dd77f00188bf4316b
+Section: Themes
 Description: A beautiful theme by @jima6636
-name: AE
-author: Jim Andrews
-depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.aetheme
+Author: Jim Andrews
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.aetheme
+Name: AE
 
 Package: com.idevicehacked.coletontheme
 Version: 1.0
-Section: Themes
-Maintainer: Jim Andrews
 Architecture: iphoneos-arm
-Filename: noDebsHere//ColeTon.deb
+Maintainer: Jim Andrews
+Filename: noDebsHere/ColeTon.deb
 Size: 2362082
 MD5sum: 312e054bdd8cbc5ce3da9bca15638404
+SHA1: e6dffad14e33180455098abbabed14012d120d47
+SHA256: e47d928ced03f8be4cf5cd7cbbe2c8131a93f13b51630ed6f64bbbdc527ecab7
+Section: Themes
 Description: A beautiful theme by @jima6636
-name: ColeTon
-author: Jim Andrews
-depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.coletontheme
+Author: Jim Andrews
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.coletontheme
+Name: ColeTon
 
 Package: com.idevicehacked.lexitheme
 Version: 1.2
-Section: Themes
-Maintainer: Jim Andrews
 Architecture: iphoneos-arm
-Filename: noDebsHere//LexiTheme.deb
+Maintainer: Jim Andrews
+Filename: noDebsHere/LexiTheme.deb
 Size: 7025366
 MD5sum: 966dbca9fd8a204308c957389eb72239
+SHA1: a72b85de0309ca04654b5a2934ea4446e74ae5b8
+SHA256: 9b9d04935e4ec41f406f20e7ce036c6bbe1bd16b812ec45b15d1038dd1fa9bde
+Section: Themes
 Description: A beautiful theme by @jima6636
-name: Lexi
-author: Jim Andrews
-depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.lexitheme
+Author: Jim Andrews
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.lexitheme
+Name: Lexi
 
 Package: com.idevicehacked.lockpage
 Version: 1.0.1
-Section: Tweaks
-Maintainer: iDeviceHacked
-Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common (>= 1.11)
 Architecture: iphoneos-arm
-Filename: noDebsHere//com.idevicehacked.lockpage_1.0.1_iphoneos-arm.deb
-Size: 682036
+Maintainer: iDeviceHacked
 Installed-Size: 960
+Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common (>= 1.11)
+Filename: noDebsHere/com.idevicehacked.lockpage_1.0.1_iphoneos-arm.deb
+Size: 682036
 MD5sum: c336cbbf2a6d2fd10a784e18d7410fb1
+SHA1: 233e8d981c521fdd4ff91649053f007c11fa8f8e
+SHA256: 58eba6f33fe227b431c80063d3123589aba5bc628105a8b5dbf708117355ca94
+Section: Tweaks
 Description: Lock apps in the app switcher!
-name: LockPage
-author: iDeviceHacked
-depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.lockpage
+Author: iDeviceHacked
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.lockpage
+Name: LockPage
 
 Package: com.idevicehacked.miscsettings
 Version: 2.1.0
-Section: Tweaks
-Maintainer: Lucifers Circle <luciferscircle@gmail.com>
-Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Architecture: iphoneos-arm
-Filename: noDebsHere//com.idevicehacked.miscsettings_2.1.0_iphoneos-arm.deb
-Size: 155106
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
 Installed-Size: 472
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: noDebsHere/com.idevicehacked.miscsettings_2.1.0_iphoneos-arm.deb
+Size: 155106
 MD5sum: a4ef11ac09a92e82ffd66451cfea57f9
+SHA1: 9346404475d522d5474841a9f303c575b0e7cafb
+SHA256: 50a0d524bc13773b557697f706ba2382aa791f8cbbbf9235a147d9ded7d3fa4b
+Section: Tweaks
 Description: So far has 46+ Miscellaneous toggles!
-name: MiscSettings
-author: Lucifers Circle <luciferscircle@gmail.com>
-depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.miscsettings
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
 
 Package: com.idevicehacked.neostheme
 Version: 1.0
-Section: Themes
-Maintainer: Jim Andrews
 Architecture: iphoneos-arm
-Filename: noDebsHere//Neos.deb
+Maintainer: Jim Andrews
+Filename: noDebsHere/Neos.deb
 Size: 11025954
 MD5sum: 6e3f14c46398ffdfbeabc4feae311461
+SHA1: e38024fd857ad762d1311a9648b0c16a8b2d05b7
+SHA256: 96a300d2fe26f403a7a62bf9ab091a66cc075979fb6be95831c89b88a17358f3
+Section: Themes
 Description: A beautiful theme by @jima6636
-name: Neos
-author: Jim Andrews
-depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.neostheme
+Author: Jim Andrews
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.neostheme
+Name: Neos
 
 Package: com.idevicehacked.nsa
 Version: 5.1.3-1+debug
-Section: Tweaks
-Maintainer: Patrick Knauf
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: noDebsHere//com.idevicehacked.nsa_5.1.3-1debug_iphoneos-arm.deb
-Size: 20958
+Maintainer: Patrick Knauf
 Installed-Size: 192
+Depends: mobilesubstrate
+Filename: noDebsHere/com.idevicehacked.nsa_5.1.3-1debug_iphoneos-arm.deb
+Size: 20958
 MD5sum: 4dc5f149fbaa8bbf7c73f6bbce2ca47f
+SHA1: 1722960044e34209a3888a2d681c6dca06e93330
+SHA256: efcbf409b052324ca5399f66557aeaff78c0d810f215b37e6ab58ac49c201119
+Section: Tweaks
 Description: Don’t get slowed down by animations on iOS 11!
-name: NoSlowAnimationsXI
-author: Patrick Knauf
-depiction: https://idevicehacked.com/repo/depictions/?p=com.pknauf.nsa
+Author: Patrick Knauf
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.pknauf.nsa
+Name: NoSlowAnimationsXI
 
 Package: com.idevicehacked.simplepowerdownmenu
 Version: 0.0.1
-Section: Tweaks
-Maintainer: LucifersCircle
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: noDebsHere//com.idevicehacked.simplepowerdownmenu_0.0.1_iphoneos-arm.deb
-Size: 54950
+Maintainer: LucifersCircle
 Installed-Size: 448
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/com.idevicehacked.simplepowerdownmenu_0.0.1_iphoneos-arm.deb
+Size: 54950
 MD5sum: 2fe7a4136ba33e321c0f0689c83c7a26
+SHA1: 98382b7d36be3cdb507233fca956bcf7f5b50da6
+SHA256: ad2b1bf0d42c057ff11f48b56d88c1e7609acc871c3487761f53fc38bdee31c8
+Section: Tweaks
 Description: A Completely customizable power down menu! BETA
-name: Simple Power Down Menu
-author: LucifersCircle
-depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.simplepowerdownmenu
+Author: LucifersCircle
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.simplepowerdownmenu
+Name: Simple Power Down Menu
 
 Package: com.idevicehacked.trampoline
 Version: 2.0-1+debug
-Section: Tweaks
-Maintainer: Patrick Knauf
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: noDebsHere//com.idevicehacked.trampoline_2.0-1debug_iphoneos-arm.deb
-Size: 10140
+Maintainer: Patrick Knauf
 Installed-Size: 164
+Depends: mobilesubstrate
+Filename: noDebsHere/com.idevicehacked.trampoline_2.0-1debug_iphoneos-arm.deb
+Size: 10140
 MD5sum: a60c83d041a9a03683cae417e65b17db
+SHA1: d910058b653613c19b1c73ab1258ffe84953268f
+SHA256: bd7b9e525bee6958cf12d18f4eefad84e7cb0b7173715d0fce87f38fce30b897
+Section: Tweaks
 Description: A trampoline for your springboard
-name: Trampoline
-author: Patrick Knauf
-depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.trampoline
+Author: Patrick Knauf
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.trampoline
+Name: Trampoline
 
 Package: com.idevicehacked.v4theme
 Version: 1.0
-Section: Themes
-Maintainer: Jim Andrews
 Architecture: iphoneos-arm
-Filename: noDebsHere//v4.deb
+Maintainer: Jim Andrews
+Filename: noDebsHere/v4.deb
 Size: 64238332
 MD5sum: 84c97c5405bc2234aa52bff04203c6b0
+SHA1: a10ffdc64cef2398169271f41db9128302a2f9a9
+SHA256: ffa79735b7bed1d80b5ee3ca0da47f2a711ba8957b6da639cc477ce00eb9bcf0
+Section: Themes
 Description: A beautiful theme by @jima6636
-name: v4 1.3
-author: Jim Andrews
-depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.v4theme
+Author: Jim Andrews
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.v4theme
+Name: v4 1.3
 
 Package: com.kaitouiet.fastforwardtime
 Version: 1.0.2
-Section: Tweaks
-Maintainer: Kiet Ha
-Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: noDebsHere//com.kaitouiet.fastforwardtime_1.0.2_iphoneos-arm.deb
-Size: 4974
+Maintainer: Kiet Ha
 Installed-Size: 120
+Depends: mobilesubstrate
+Filename: noDebsHere/com.kaitouiet.fastforwardtime_1.0.2_iphoneos-arm.deb
+Size: 4974
 MD5sum: 788af5c6b39107284ae96173180a652c
+SHA1: 71cddeb96bd9197ac206d789a388ea8ff9648972
+SHA256: f2178ed33d083fe81022b38f931c60beeefe83f9314a3e747a33f6868fa02f0a
+Section: Tweaks
 Description: Adds seconds to your lockscreen clock!
-name: FastForwardTime
-author: Kiet Ha
-depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.fastforwardtime
+Author: Kiet Ha
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.fastforwardtime
+Name: FastForwardTime
+
+Package: com.pknauf.trampoline
+Version: 2.0-10+debug
+Architecture: iphoneos-arm
+Maintainer: Patrick Knauf
+Installed-Size: 164
+Depends: mobilesubstrate
+Filename: noDebsHere/com.pknauf.trampoline_2.0-10debug_iphoneos-arm.deb
+Size: 10142
+MD5sum: 4993c2491db6d817283bd605ac9e5747
+SHA1: be30dee9d1fcc533f84e870ca15e705b8eca9e84
+SHA256: 1bd132a12679ef7c32ad84ed22b58a66d393244b3996836b130a2e7d788ce4fc
+Section: Tweaks
+Description: A trampoline for your springboard
+Author: Patrick Knauf
+Depiction: https://patrick-knauf.github.io/repo/depictions/?p=com.pknauf.trampoline
+Name: Trampoline
+
