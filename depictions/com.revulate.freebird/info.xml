@@ -1,0 +1,60 @@
+<package>
+	<id>com.idevicehacked.v4theme</id>
+	<name>FreeBird</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4.1</maxiOS>
+            <miniOS>10.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A simple, open sourced color customization tweak for Twitters night mode, with an optional true black night mode.
+        </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Prefs</description>
+            <image>1.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Prefs</description>
+            <image>2.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Prefs</description>
+            <image>3.jpg</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial Release!</change>
+	</changelog>
+	<links>
+        <link>
+            <name>View project on GitHub!</name>
+            <url>https://twitter.com/revulate</url>
+            <iconclass>fa fa-github</iconclass>
+            </link>
+        <link>
+        <link>
+            <name>Follow @revulate on Twitter!</name>
+            <url>https://twitter.com/revulate</url>
+            <iconclass>fa fa-twitter</iconclass>
+            </link>
+        <link>
+            <name>Buy Rev a coffee</name>
+            <url>https://www.paypal.me/Revulate</url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>

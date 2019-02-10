@@ -20,61 +20,78 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
 Filename: noDebsHere/AE.deb
-Size: 524410
-MD5sum: 63a504020ebb1f85eee1685362953f43
-SHA1: dad117ecab695b4c65c8ebf8f766b0d568a93ed8
-SHA256: b827bb16188b02f67d1b3623ebaccd2b0b0fb4fc7891450dd77f00188bf4316b
+Size: 415800
+MD5sum: a5456d21156db7dcfdfe22fb543d20a1
+SHA1: 99c12c516047838418352334fe8fa887a63fed35
+SHA256: 6e04b7728dde5545810b3cdadaf3562ca9ac9703913361ae1a3d8dd6cc87457c
 Section: Themes
 Description: A beautiful theme by @jima6636
 Author: Jim Andrews
-Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.aetheme
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.aetheme/
 Name: AE
+
+Package: com.idevicehacked.bluelaunch
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle
+Installed-Size: 312
+Depends: mobilesubstrate, applist
+Filename: noDebsHere/com.idevicehacked.bluelaunch_0.0.1_iphoneos-arm.deb
+Size: 14918
+MD5sum: 0257f5dccdaaeff1b51ff1ec2ea94a0d
+SHA1: e2f09dc4c18e21531ddc6c52cc7bd8ac529a0c77
+SHA256: b26630ad1d0ed79abf55629a7734dea8011cc971339af2457a820063aafe4372
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: LucifersCircle
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.bluelaunch
+Name: BlueLaunch
 
 Package: com.idevicehacked.coletontheme
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
 Filename: noDebsHere/ColeTon.deb
-Size: 2362082
-MD5sum: 312e054bdd8cbc5ce3da9bca15638404
-SHA1: e6dffad14e33180455098abbabed14012d120d47
-SHA256: e47d928ced03f8be4cf5cd7cbbe2c8131a93f13b51630ed6f64bbbdc527ecab7
+Size: 2226636
+MD5sum: d0031b3d0c7da35d82f766876d448076
+SHA1: 3f4c3dcc1930def204bffe9cdd37928e4023f917
+SHA256: 192b13d2ed88e40fc673c3a0d949a940e501b7d3b7d865fe5d936d78739ed6ba
 Section: Themes
 Description: A beautiful theme by @jima6636
 Author: Jim Andrews
-Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.coletontheme
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.coletontheme/
 Name: ColeTon
 
 Package: com.idevicehacked.lexitheme
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
-Filename: noDebsHere/LexiTheme.deb
-Size: 7025366
-MD5sum: 966dbca9fd8a204308c957389eb72239
-SHA1: a72b85de0309ca04654b5a2934ea4446e74ae5b8
-SHA256: 9b9d04935e4ec41f406f20e7ce036c6bbe1bd16b812ec45b15d1038dd1fa9bde
+Filename: noDebsHere/LexiTheme1.2.deb
+Size: 5994332
+MD5sum: fd4a56b58bafa0845dcb0217090af571
+SHA1: 07daa24069752122506b9e8ab642f41bc15accbb
+SHA256: aa2f0a0dc7bbe524d50997ed4567d2ab7da71ef04dd68119aba7e5e93d9beab8
 Section: Themes
 Description: A beautiful theme by @jima6636
 Author: Jim Andrews
-Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.lexitheme
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.lexitheme/
 Name: Lexi
 
 Package: com.idevicehacked.lockpage
 Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: iDeviceHacked
-Installed-Size: 960
+Installed-Size: 984
 Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common (>= 1.11)
 Filename: noDebsHere/com.idevicehacked.lockpage_1.0.1_iphoneos-arm.deb
-Size: 682036
-MD5sum: c336cbbf2a6d2fd10a784e18d7410fb1
-SHA1: 233e8d981c521fdd4ff91649053f007c11fa8f8e
-SHA256: 58eba6f33fe227b431c80063d3123589aba5bc628105a8b5dbf708117355ca94
+Size: 674664
+MD5sum: 688b9994be9e2b79558547c9c6b5748c
+SHA1: 5b4056517b816bd329cb67c66bcc1ece7c9088f3
+SHA256: bae3debb6d397569bd8d5580af67e85ca5f3663696fa1774fade47a42688abbc
 Section: Tweaks
 Description: Lock apps in the app switcher!
 Author: iDeviceHacked
-Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.lockpage
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.lockpage
 Name: LockPage
 
 Package: com.idevicehacked.miscsettings
@@ -99,14 +116,14 @@ Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
 Filename: noDebsHere/Neos.deb
-Size: 11025954
-MD5sum: 6e3f14c46398ffdfbeabc4feae311461
-SHA1: e38024fd857ad762d1311a9648b0c16a8b2d05b7
-SHA256: 96a300d2fe26f403a7a62bf9ab091a66cc075979fb6be95831c89b88a17358f3
+Size: 8547474
+MD5sum: 9807ab26e73a6c36f91c34b8ba310ec8
+SHA1: 63de3cec6cbd21baac5f3eeb6e43089c7d1ecae7
+SHA256: 6b8b9e2d21c970f4069d58727af531cbb72171781a8a143cabcbe44de19c2d08
 Section: Themes
 Description: A beautiful theme by @jima6636
 Author: Jim Andrews
-Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.neostheme
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.neostheme/
 Name: Neos
 
 Package: com.idevicehacked.nsa
@@ -130,17 +147,17 @@ Package: com.idevicehacked.simplepowerdownmenu
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: LucifersCircle
-Installed-Size: 568
+Installed-Size: 468
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: noDebsHere/com.idevicehacked.simplepowerdownmenu_0.0.1_iphoneos-arm.deb
-Size: 72278
-MD5sum: 1235d6d690edd1506878883f1f6217d5
-SHA1: 7e4cc7514b304299c9d067796246e10821aafce0
-SHA256: 2aaa1fb7bf4563a3328259ef8d7b8069dbbeb9efb0e3b2ebf40fd0f1ea39ab82
+Size: 52624
+MD5sum: fcc0dd9c1b17882b6e2360e6cce26ed1
+SHA1: 175f3834b55c57937b03152b4c139b83c617c4bc
+SHA256: 4aa276df93fa255436a9cabeb681fedfc9471c44beedac6f57d2fb803e8cb6eb
 Section: Tweaks
 Description: A Completely customizable power down menu! BETA
 Author: LucifersCircle
-Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu
 Name: Simple Power Down Menu
 
 Package: com.idevicehacked.trampoline
@@ -161,19 +178,19 @@ Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.trampo
 Name: Trampoline
 
 Package: com.idevicehacked.v4theme
-Version: 1.0
+Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
 Filename: noDebsHere/v4.deb
-Size: 64238332
-MD5sum: 84c97c5405bc2234aa52bff04203c6b0
-SHA1: a10ffdc64cef2398169271f41db9128302a2f9a9
-SHA256: ffa79735b7bed1d80b5ee3ca0da47f2a711ba8957b6da639cc477ce00eb9bcf0
+Size: 55237684
+MD5sum: ae55caa96b05390fadcf0b45a09ebd81
+SHA1: 18538bea22ac71e8b6a012e9a7593788a05a514e
+SHA256: feaa1eb9d2bbd4ca236cf9ac520b0d62dfd6456ebaf9f471442d63b8663b664d
 Section: Themes
 Description: A beautiful theme by @jima6636
 Author: Jim Andrews
-Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.v4theme
-Name: v4 1.3
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.v4theme/
+Name: v4
 
 Package: com.kaitouiet.fastforwardtime
 Version: 1.0.2
@@ -191,4 +208,22 @@ Description: Adds seconds to your lockscreen clock!
 Author: Kiet Ha
 Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.fastforwardtime
 Name: FastForwardTime
+
+Package: com.revulate.freebird
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Revulate <revulate1@gmail.com>
+Installed-Size: 380
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker,  ws.hbang.common (>= 1.11)
+Filename: noDebsHere/com.revulate.freebird_0.0.1_iphoneos-arm.deb
+Size: 44580
+MD5sum: f10e754692829028230a45db92e370ea
+SHA1: 971400aff666f67b33c5498d30fa23f21e1fa40a
+SHA256: b249e869ec0a6b3337d9376f45a6e1fd2f292e3826543b91ec1aa6a882541b6e
+Section: Tweaks
+Description: Simple color customization for Twitter
+Author: Revulate <revulate1@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird/
+Icon: file:///Library/PreferenceBundles/FreeBird.bundle/icon@3x.png
+Name: FreeBird
 
