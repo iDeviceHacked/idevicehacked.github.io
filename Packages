@@ -192,20 +192,3 @@ Author: Kiet Ha
 Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.fastforwardtime
 Name: FastForwardTime
 
-Package: com.pknauf.trampoline
-Version: 2.0-10+debug
-Architecture: iphoneos-arm
-Maintainer: Patrick Knauf
-Installed-Size: 164
-Depends: mobilesubstrate
-Filename: noDebsHere/com.pknauf.trampoline_2.0-10debug_iphoneos-arm.deb
-Size: 10142
-MD5sum: 4993c2491db6d817283bd605ac9e5747
-SHA1: be30dee9d1fcc533f84e870ca15e705b8eca9e84
-SHA256: 1bd132a12679ef7c32ad84ed22b58a66d393244b3996836b130a2e7d788ce4fc
-Section: Tweaks
-Description: A trampoline for your springboard
-Author: Patrick Knauf
-Depiction: https://patrick-knauf.github.io/repo/depictions/?p=com.pknauf.trampoline
-Name: Trampoline
-
