@@ -126,6 +126,21 @@ Author: Jim Andrews
 Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.neostheme/
 Name: Neos
 
+Package: com.idevicehacked.nixtheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jim Andrews
+Filename: noDebsHere/Nix.deb
+Size: 8672670
+MD5sum: 660a24cb26c434f6d2ef30ac644e97ae
+SHA1: b3446045247479f498f8b749c78b5f28e9ff59b5
+SHA256: 4b79fc68f96edd25120ea956620b6b114e9892e8cd8df529e1561f92db97e575
+Section: Themes
+Description: A beautiful theme by @jima6636
+Author: Jim Andrews
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.nixtheme/
+Name: Nix
+
 Package: com.idevicehacked.nsa
 Version: 5.1.3-1+debug
 Architecture: iphoneos-arm
