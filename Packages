@@ -217,12 +217,12 @@ Installed-Size: 380
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker,  ws.hbang.common (>= 1.11)
 Filename: noDebsHere/com.revulate.freebird_0.0.1_iphoneos-arm.deb
 Size: 44540
-MD5sum: ea626d1f84b4e17d4aa7f1b614c61ab3
-SHA1: ad441ceb8cf2e26f680aa4d1a3c1055419297208
-SHA256: b48862b1755caf66fa3cacde029813f92cc6caee3d095bd3a5a02e9e9e0414db
+MD5sum: 44820cb4c22d4b895f36ef5c1297cbc0
+SHA1: cd0cea087270c90e4dc0296b550b2b235f5757a0
+SHA256: 3657c4f4dcd2d0c3ace2ff857dfcb3503bed4136126c873c3c57709daeff0adb
 Section: Tweaks
 Description: Simple color customization for Twitter
 Author: Revulate <revulate1@gmail.com>
-Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
+Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird/
 Name: FreeBird
 
