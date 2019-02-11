@@ -241,3 +241,37 @@ Author: Revulate <revulate1@gmail.com>
 Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
 Name: FreeBird
 
+Package: com.smokin1337.powerswitch
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 488
+Depends: mobilesubstrate
+Filename: noDebsHere/com.smokin1337.powerswitch_1.0_iphoneos-arm.deb
+Size: 108650
+MD5sum: 120d67c425b04d2fb4893bf66a1a9e91
+SHA1: 3e8fc0a0ba7507a202beaa1e25553f8a6af11fcf
+SHA256: d4bfed4e8b0beb8c236a47cce381fea90bd4e1d56a22ef390486f3ab09e17693
+Section: Tweaks
+Description: An awesome button!
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitch
+Name: PowerSwitch
+
+Package: com.smokin1337.togglow
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 720
+Depends: mobilesubstrate
+Filename: noDebsHere/com.smokin1337.togglow_1.0_iphoneos-arm.deb
+Size: 158100
+MD5sum: 2f10589c0b25657b3b60f2a98a3565fc
+SHA1: 0f0809cb62010f739ad097645ec8c6bb76e5c3f1
+SHA256: 10d8d99bd3ede0de8aa32a09fde11bb6382ee5808cc15d24f53afc70648eec4b
+Section: Tweaks
+Description: Make the connectivity module glow !
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Name: Togglow
+

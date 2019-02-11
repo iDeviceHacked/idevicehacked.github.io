@@ -1,0 +1,66 @@
+<package>
+	<id>com.smokin1337.powerswitch</id>
+	<name>PowerSwitch</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+
+    <changelog>
+        <change>Initial Release</change>
+    </changelog>
+
+    <screenshots>
+        <screenshot>
+            <description>PowerSwitch Settings</description>
+            <image>screenshot1.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>PowerSwitch Settings</description>
+            <image>screenshot2.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>PowerSwitch Settings</description>
+            <image>screenshot3.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>PowerSwitch Settings</description>
+            <image>screenshot4.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>PowerSwitch Settings</description>
+            <image>screenshot5.jpg</image>
+        </screenshot>
+    </screenshots>
+
+	<descriptionlist>
+
+		<description>Clear apps and access a beautiful power menu in the switcher</description>
+    <description>Fully customizable button</description>
+    <description>Preview changes to the button in real time in the settings pane</description>
+    <description>To access the power menu long press the clear apps button</description>
+    <description>Respring to apply settings</description>
+
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+	<link>
+		<name>Twitter</name>
+		<url>https://twitter.com/smokin1337</url>
+		<iconclass> fa fa-twitter</iconclass>
+		</link>
+    </links>
+</package>

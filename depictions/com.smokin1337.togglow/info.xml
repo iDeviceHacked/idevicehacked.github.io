@@ -1,0 +1,75 @@
+<package>
+	<id>com.smokin1337.togglow</id>
+	<name>Togglow</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+
+    <changelog>
+        <change>Initial Release</change>
+    </changelog>
+
+    <screenshots>
+        <screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot1.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot2.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot3.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot4.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot5.jpg</image>
+        </screenshot>
+    </screenshots>
+
+	<descriptionlist>
+		<description>Make your connectivity module glow !!</description>
+    <description>Change the look of your connectivity module in the control center</description>
+    <description>You can customize each button individually or apply unified settings to all buttons</description>
+    <description>Uses stock colors when custom colors are disabled</description>
+    </description>Custom settings for when the switch is on and when it is off</description>
+    <description>To apply settings simply expand the ceonnectivity module</description>
+
+        <description><![CDATA[Options:<br/>
+        <ul>
+            <li>Select custom colors for glow and border</li><br/>
+            <li>Edit border width</li><br/>
+            <li>Edit border corner radius</li><br/>
+            <li>Edit glow radius</li><br/>
+            <li>Edit glow opacity</li>
+        </ul>
+        ]]></description>
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+	<link>
+		<name>Twitter</name>
+		<url>https://twitter.com/smokin1337</url>
+		<iconclass> fa fa-twitter</iconclass>
+		</link>
+    </links>
+</package>
