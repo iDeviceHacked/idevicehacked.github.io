@@ -1,0 +1,87 @@
+<package>
+	<id>com.daniel63194.cabello</id>
+	<name>Cabello</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+    
+    <changelog>
+        <change>Initial Release</change>
+    </changelog>
+    
+    <screenshots>
+        <screenshot>
+            <description>Preferences</description>
+            <image>preferences.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Volume Keys Preferences</description>
+            <image>prefs-volume.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Lock Button Preferences</description>
+            <image>prefs-lock.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Home Button Preferences</description>
+            <image>prefs-home.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Sound Effects Preferences</description>
+            <image>prefs-sound.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Haptic Feedback Preferences</description>
+            <image>prefs-feedback.png</image>
+        </screenshot>
+    </screenshots>
+    
+	<descriptionlist>
+		<description>Make buttons a better experience to try with Cabello.<br/>
+            Cabello comes with 8 different sound effects and 5 different Haptic Feedback types to choose (other sound effects can be added, check 'Help' in Preferences of Cabello).
+        </description>
+        <description><![CDATA[Volume Keys:<br/>
+        <ul>
+            <li>Custom Sound Effects when pressed</li><br/>
+            <li>Custom Haptic Feedback effects when pressed</li><br/>
+        </ul>
+        ]]></description>
+        <description><![CDATA[Lock Button:<br/>
+        <ul>
+        <li>Custom Sound Effects when pressed</li><br/>
+        <li>Custom Haptic Feedback effects when pressed</li><br/>
+        </ul>
+        ]]></description>
+        <description><![CDATA[Home Button:<br/>
+        <ul>
+        <li>Custom Sound Effects when pressed</li><br/>
+        <li>Custom Haptic Feedback effects when pressed</li><br/>
+        </ul>
+        ]]></description>
+        <description><![CDATA[Coming Soon:<br/>
+            <ul>
+            <li>New Sound Effects Packs!</li><br/>
+            <li>New types of Haptic Feedbacks</li><br/>
+            <li>Different types of vibrations for devices without 3D Touch</li><br/>
+
+            </ul>
+        ]]></description>
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>

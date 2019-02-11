@@ -1,0 +1,36 @@
+<package>
+	<id>com.kaitouiet.fastforwardtime</id>
+	<name>FastForwardTime</name>
+	<version>1.0.2</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4.1</maxiOS>
+            <miniOS>10.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Add seconds to lock screen clock!
+        </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Preferences</description>
+            <image>FFTExample.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+        <change>Automatically detects if you use 12 or 24 hour time!</change>
+	</changelog>
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>

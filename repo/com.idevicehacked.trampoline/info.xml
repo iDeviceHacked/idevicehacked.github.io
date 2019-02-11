@@ -1,0 +1,35 @@
+
+<package>
+	<id>com.idevicehacked.trampoline</id>
+	<name>Trampoline</name>
+	<version>2.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>11.4.1</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A trampoline for your springboard!<br/>
+        </description>
+        <description>Add springiness to your iPhone or iPad's app opening and closing animations with trampoline! There are two effects to choose from: Icon Bounce, and Wallpaper spin. Add a nice satisfying bounce, or make your wallpaper do a backflip and make opening apps more fun!
+        </description>
+	</descriptionlist>
+	   <changelog>
+		   <change>Added a preference bundle and a new effect!</change>
+	   </changelog>
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+	<link>
+		<name>Twitter</name>
+		<url>https://twitter.com/patrickk1734</url>
+		<iconclass> fa fa-twitter</iconclass>
+		</link>	
+    </links>  
+</package>
