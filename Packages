@@ -274,16 +274,16 @@ Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitc
 Name: PowerSwitch
 
 Package: com.smokin1337.togglow
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: smokin1337
 Installed-Size: 720
-Depends: mobilesubstrate
-Filename: noDebsHere/com.smokin1337.togglow_1.0_iphoneos-arm.deb
-Size: 158100
-MD5sum: 2f10589c0b25657b3b60f2a98a3565fc
-SHA1: 0f0809cb62010f739ad097645ec8c6bb76e5c3f1
-SHA256: 10d8d99bd3ede0de8aa32a09fde11bb6382ee5808cc15d24f53afc70648eec4b
+Depends: mobilesubstrate, org.bigboss.libcolorpicker
+Filename: noDebsHere/com.smokin1337.togglow_1.0.1_iphoneos-arm.deb
+Size: 158088
+MD5sum: 03dd30653e88f7e0f981dff61232eae5
+SHA1: 0ec9b3c9319d44d6d194b2d9a6aa6352f6a88ded
+SHA256: db23d017eddfdef6e4cabd88a955b612893d838a8ab3c550bfa78c62a1998e22
 Section: Tweaks
 Description: Make the connectivity module glow !
 Author: smokin1337
