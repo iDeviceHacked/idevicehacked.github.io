@@ -175,6 +175,21 @@ Author: LucifersCircle
 Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu
 Name: Simple Power Down Menu
 
+Package: com.idevicehacked.skilartheme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jim Andrews
+Filename: noDebsHere/SkilarTheme.deb
+Size: 5554720
+MD5sum: 17ffcb6592059d5f1952fd6e4407b0c5
+SHA1: b2363742cf467037bb411f8a7a5d522e0065a822
+SHA256: ccaf6c2e1e9c5253d8c46f8a0eb7b511d464ef569242efeba2f626db02e81414
+Section: Themes
+Description: A beautiful theme by @jima6636
+Author: Jim Andrews
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.skilartheme/
+Name: Nix
+
 Package: com.idevicehacked.trampoline
 Version: 2.0-1+debug
 Architecture: iphoneos-arm
