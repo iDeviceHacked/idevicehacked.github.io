@@ -15,7 +15,7 @@
 	<dependencies></dependencies>
 
     <changelog>
-				<change>Added libcolorpicker as a dependency</change>
+				<change>Added libcolorpicker as a dependency for real</change>
     </changelog>
 
     <screenshots>
