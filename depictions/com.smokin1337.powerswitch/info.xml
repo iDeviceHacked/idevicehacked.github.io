@@ -47,6 +47,7 @@
     <description>Fully customizable button</description>
     <description>Preview changes to the button in real time in the settings pane</description>
     <description>To access the power menu long press the clear apps button</description>
+		<description>Does not kill now playing apps</description>
     <description>Respring to apply settings</description>
 
 	</descriptionlist>
