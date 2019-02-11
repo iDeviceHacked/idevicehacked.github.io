@@ -1,7 +1,7 @@
 <package>
 	<id>com.pknauf.nsa</id>
 	<name>NoSlowAnimationsXI</name>
-	<version>5.1.1</version>
+	<version>5.1.2</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.4.1</maxiOS>
