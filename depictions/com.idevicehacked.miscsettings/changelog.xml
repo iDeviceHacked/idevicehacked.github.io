@@ -117,4 +117,10 @@
         <change>Added RealCC</change>
         <change>Small re-write</change>
     </changes>
+    <changes>
+        <version>2.2.0</version>
+        <change>Re-write, Re-design, and Re-organization</change>
+        <change>Added "Hide Breadcrumb" - StatusBar</change>
+    </changes>
+
 </changelog>
