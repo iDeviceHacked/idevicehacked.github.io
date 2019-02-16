@@ -257,16 +257,16 @@ Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
 Name: FreeBird
 
 Package: com.smokin1337.powerswitch
-Version: 1.0
+Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: smokin1337
 Installed-Size: 488
 Depends: mobilesubstrate, com.midnightchips.ldrun
-Filename: noDebsHere/com.smokin1337.powerswitch_1.0_iphoneos-arm.deb
-Size: 108680
-MD5sum: fe849ce69911c783959bbbdab2a59908
-SHA1: c70cf2332512d3dc4302120f5f1cfa441b8bbcb6
-SHA256: 1b7490d08839806ff15e4c4f60771483a2bb31538ac7618920167c2b2c487806
+Filename: noDebsHere/com.smokin1337.powerswitch_1.0.1_iphoneos-arm.deb
+Size: 108700
+MD5sum: 42692fc484cdda962e7b77e4e817d196
+SHA1: 409a2c53bbeff91297cb2d3641acf544181d4104
+SHA256: 3ae51db3aca9bd5aad70e844398b7baeb32a7799ef11a40571825c745dbefbf9
 Section: Tweaks
 Description: An awesome button!
 Author: smokin1337

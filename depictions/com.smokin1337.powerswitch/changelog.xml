@@ -1,0 +1,10 @@
+<changelog>
+	<changes>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changes>
+  <changes>
+		<version>1.0.1</version>
+		<change>Added ability to disable haptic feedback</change>
+	</changes>
+</changelog>
