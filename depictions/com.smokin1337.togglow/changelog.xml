@@ -11,8 +11,4 @@
 		<version>1.0.2</version>
 		<change>Added libcolorpicker as a dependency for real this time</change>
 	</changes>
-	<changes>
-		<version>1.0.3</version>
-		<change>Mostly bug fixes</change>
-	</changes>
 </changelog>

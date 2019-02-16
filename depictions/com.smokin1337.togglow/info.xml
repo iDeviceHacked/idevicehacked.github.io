@@ -1,7 +1,7 @@
 <package>
 	<id>com.smokin1337.togglow</id>
 	<name>Togglow</name>
-	<version>1.0.3</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>11.4</maxiOS>
@@ -15,7 +15,7 @@
 	<dependencies></dependencies>
 
     <changelog>
-				<change>Mostly bug fixes</change>
+				<change>Added libcolorpicker as a dependency for real</change>
     </changelog>
 
     <screenshots>
