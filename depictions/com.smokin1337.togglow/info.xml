@@ -1,7 +1,7 @@
 <package>
 	<id>com.smokin1337.togglow</id>
 	<name>Togglow</name>
-	<version>1.0.3</version>
+	<version>1.0.4-1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,7 +15,10 @@
 	<dependencies></dependencies>
 
     <changelog>
-				<change>Added the ability to change all the other modules and cc background</change>
+				<change>1.0.4: Added the ability to change all the other modules and cc background</change>
+    </changelog>
+		<changelog>
+				<change>1.0.4-1: Fixed the border showing on the media player in the notification center</change>
     </changelog>
 
     <screenshots>

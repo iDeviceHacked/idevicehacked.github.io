@@ -274,16 +274,16 @@ Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitc
 Name: PowerSwitch
 
 Package: com.smokin1337.togglow
-Version: 1.0.4
+Version: 1.0.4-1
 Architecture: iphoneos-arm
 Maintainer: smokin1337
 Installed-Size: 820
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: noDebsHere/com.smokin1337.togglow_1.0.4_iphoneos-arm.deb
-Size: 181404
-MD5sum: e247c8fae26e8fb634c907af132bef03
-SHA1: 898a4741d2b206abb75000e27ba76d7e381fb080
-SHA256: eac69090ec76e0257123c1d94a7339e97f17d2f9ee799bbb7ad449d627477937
+Filename: noDebsHere/com.smokin1337.togglow_1.0.4-1_iphoneos-arm.deb
+Size: 181486
+MD5sum: dc009a938dddb859e9a8ac3722a583f8
+SHA1: 0b439b7d1d1b0cfbbad8c9112176c4efd7c40ba4
+SHA256: 5963290c95258bd8428789f2c4d82f0161717444d84d5fa9c90e0ba16801cae3
 Section: Tweaks
 Description: Make the control center your own !
 Author: smokin1337
