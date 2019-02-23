@@ -4,7 +4,7 @@
 	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>11.4</maxiOS>
+			<maxiOS>12.1.2</maxiOS>
             <miniOS>11.0</miniOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
@@ -15,7 +15,7 @@
 	<dependencies></dependencies>
 
     <changelog>
-				<change>Mostly bug fixes</change>
+				<change>Added the ability to change all the other modules and cc background</change>
     </changelog>
 
     <screenshots>
@@ -39,6 +39,22 @@
             <description>Togglow Settings</description>
             <image>screenshot5.jpg</image>
         </screenshot>
+				<screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot6.jpg</image>
+        </screenshot>
+				<screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot7.jpg</image>
+        </screenshot>
+				<screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot8.jpg</image>
+        </screenshot>
+				<screenshot>
+            <description>Togglow Settings</description>
+            <image>screenshot9.jpg</image>
+        </screenshot>
     </screenshots>
 
 	<descriptionlist>
@@ -46,8 +62,10 @@
     <description>Change the look of your connectivity module in the control center</description>
     <description>You can customize each button individually or apply unified settings to all buttons</description>
     <description>Uses stock colors when custom colors are disabled</description>
-    <description>Custom settings for when the switch is on and when it is off</description>
+    <description>Custom settings for when the switch is on and when it is off (connectivity module only)</description>
     <description>To apply settings simply expand the connectivity module</description>
+		<description>Customize all the modules</description>
+		<description>Customize the control center background, you can make it a gradient which you select four colors to make or a solid color you choose</description>
 
         <description><![CDATA[Options:<br/>
         <ul>
