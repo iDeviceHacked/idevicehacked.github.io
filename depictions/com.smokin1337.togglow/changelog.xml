@@ -19,4 +19,11 @@
 		<version>1.0.4</version>
 		<change>Added the ability to change all the other modules and cc background</change>
 	</changes>
+	<changes>
+			<version>1.0.5</version>
+			<change>Added support for PowerModule</change>
+			<change>Fixed text size module</change>
+			<change>Fixed the border showing around the module title while expanded</change>
+			<change>Partially fixed the live listen module (still have to remove the background)</change>
+	</changes>
 </changelog>
