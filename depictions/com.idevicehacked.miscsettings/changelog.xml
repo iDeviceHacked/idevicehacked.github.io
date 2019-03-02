@@ -123,4 +123,12 @@
         <change>Added "Hide Breadcrumb" - StatusBar</change>
     </changes>
 
+        <changes>
+        <version>2.3.0</version>
+        <change>Initial iOS12 support</change>
+        <change>Fixed notification transparency - LockScreen</change>
+        <change>Fixed hiding "Now Playing" - LockScreen</change>
+        <change>3 options still do not work on iOS12, I am working on these and an update will be pushed soon! Thank you!</change>
+    </changes>
+
 </changelog>

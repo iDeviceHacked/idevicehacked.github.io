@@ -112,18 +112,18 @@ Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.lockpag
 Name: LockPage
 
 Package: com.idevicehacked.miscsettings
-Version: 2.2.0
+Version: 2.3.0
 Architecture: iphoneos-arm
 Maintainer: Lucifers Circle <luciferscircle@gmail.com>
 Installed-Size: 484
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
-Filename: noDebsHere/com.idevicehacked.miscsettings_2.2.0_iphoneos-arm.deb
-Size: 51152
-MD5sum: e105fc164188fe9a5b7ab5809aa35c5e
-SHA1: 1aff754c75584b276f02f9e004587bffe7723bf7
-SHA256: 879b5d1260336e2f60cfb64efd2ca9c69f28a34dab0dcd6e2cd559b55c351287
+Filename: noDebsHere/com.idevicehacked.miscsettings_2.3.0_iphoneos-arm.deb
+Size: 51166
+MD5sum: 67ea967c2401c510d641863ebe025cb3
+SHA1: 4a24f92c15abb30aa17bdb66a68b030392520297
+SHA256: a9ec13e144104be12c111dd0fee35ff59be9eaedbf323c9163cf92f2124d9f44
 Section: Tweaks
-Description: So far has 46+ Miscellaneous toggles!
+Description: So far has 50+ Miscellaneous toggles!
 Author: Lucifers Circle <luciferscircle@gmail.com>
 Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
 Name: MiscSettings
