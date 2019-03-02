@@ -26,4 +26,11 @@
 			<change>Fixed the border showing around the module title while expanded</change>
 			<change>Partially fixed the live listen module (still have to remove the background)</change>
 	</changes>
+	<changes>
+			<version>1.0.6</version>
+			<change>CC Background is now independent from the other settings</change>
+			<change>Added remove or keep button/module backgrounds (also independent from other settings)</change>
+			<change>Fixed an issue in ios 11 where the mediaplayer background stayed</change>
+			<change>Live listen still needs fixed (I really hate this module !!)</change>
+	</changes>
 </changelog>
