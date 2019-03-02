@@ -1,0 +1,50 @@
+<package>
+	<id>com.chilaxan.cuboid</id>
+	<name>Cuboid</name>
+	<version>0.0.6</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>12.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Cuboid is a lightweight home screen layout manager. It allows for setting number of home screen columns, and many other spacing settings. To open the menu, long press on any icon to enter wiggle mode, then long-press on the status bar.
+        </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Prefs</description>
+            <image>1.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>In Action</description>
+            <image>2.jpg</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial Release!</change>
+	</changelog>
+	<links>
+        <link>
+            <name>Follow @chilaxan1 on Twitter!</name>
+            <url>https://twitter.com/chilaxan1</url>
+            <iconclass>fa fa-twitter</iconclass>
+        </link>
+        <link>
+            <name>Buy Chilaxan a coffee</name>
+            <url>https://www.paypal.me/chilaxan</url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>
