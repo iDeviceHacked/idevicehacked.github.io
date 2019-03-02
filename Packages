@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: chilaxan
 Installed-Size: 0
 Depends: mobilesubstrate
-Filename: -mnoDebsHere/com.chilaxan.cuboid_0.0.6_iphoneos-arm.deb
+Filename: noDebsHere/com.chilaxan.cuboid_0.0.6_iphoneos-arm.deb
 Size: 22252
 MD5sum: 13b28a46215414251b8a776cfc83edfe
 SHA1: 3fdc1b995c8e4b28e2374490a247b7f41b19c6a3
@@ -21,7 +21,7 @@ Architecture: iphoneos-arm
 Maintainer: daniel63194
 Installed-Size: 1484
 Depends: mobilesubstrate, com.orangebananaspy.libobsutilities, preferenceloader, ws.hbang.common (>= 1.11)
-Filename: -mnoDebsHere/com.daniel63194.cabello.deb
+Filename: noDebsHere/com.daniel63194.cabello.deb
 Size: 604592
 MD5sum: 87ba0a36ff3d01ae66ad79632740c276
 SHA1: c34d6dad820f134f53fe5f5aa854d53f1c44784a
@@ -36,7 +36,7 @@ Package: com.idevicehacked.aetheme
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
-Filename: -mnoDebsHere/AE.deb
+Filename: noDebsHere/AE.deb
 Size: 415800
 MD5sum: a5456d21156db7dcfdfe22fb543d20a1
 SHA1: 99c12c516047838418352334fe8fa887a63fed35
@@ -53,7 +53,7 @@ Architecture: iphoneos-arm
 Maintainer: LucifersCircle
 Installed-Size: 312
 Depends: mobilesubstrate, applist
-Filename: -mnoDebsHere/com.idevicehacked.bluelaunch_0.0.1_iphoneos-arm.deb
+Filename: noDebsHere/com.idevicehacked.bluelaunch_0.0.1_iphoneos-arm.deb
 Size: 14918
 MD5sum: 0257f5dccdaaeff1b51ff1ec2ea94a0d
 SHA1: e2f09dc4c18e21531ddc6c52cc7bd8ac529a0c77
@@ -68,7 +68,7 @@ Package: com.idevicehacked.coletontheme
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
-Filename: -mnoDebsHere/ColeTon.deb
+Filename: noDebsHere/ColeTon.deb
 Size: 2226636
 MD5sum: d0031b3d0c7da35d82f766876d448076
 SHA1: 3f4c3dcc1930def204bffe9cdd37928e4023f917
@@ -83,7 +83,7 @@ Package: com.idevicehacked.lexitheme
 Version: 1.2
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
-Filename: -mnoDebsHere/LexiTheme1.2.deb
+Filename: noDebsHere/LexiTheme1.2.deb
 Size: 5994332
 MD5sum: fd4a56b58bafa0845dcb0217090af571
 SHA1: 07daa24069752122506b9e8ab642f41bc15accbb
@@ -100,7 +100,7 @@ Architecture: iphoneos-arm
 Maintainer: iDeviceHacked
 Installed-Size: 984
 Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common (>= 1.11)
-Filename: -mnoDebsHere/com.idevicehacked.lockpage_1.0.1_iphoneos-arm.deb
+Filename: noDebsHere/com.idevicehacked.lockpage_1.0.1_iphoneos-arm.deb
 Size: 674664
 MD5sum: 688b9994be9e2b79558547c9c6b5748c
 SHA1: 5b4056517b816bd329cb67c66bcc1ece7c9088f3
@@ -112,12 +112,29 @@ Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.lockpag
 Name: LockPage
 
 Package: com.idevicehacked.miscsettings
+Version: 2.2.0
+Architecture: iphoneos-arm
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Installed-Size: 484
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: noDebsHere/com.idevicehacked.miscsettings_2.2.0_iphoneos-arm.deb
+Size: 51152
+MD5sum: e105fc164188fe9a5b7ab5809aa35c5e
+SHA1: 1aff754c75584b276f02f9e004587bffe7723bf7
+SHA256: 879b5d1260336e2f60cfb64efd2ca9c69f28a34dab0dcd6e2cd559b55c351287
+Section: Tweaks
+Description: So far has 46+ Miscellaneous toggles!
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
+
+Package: com.idevicehacked.miscsettings
 Version: 2.3.0
 Architecture: iphoneos-arm
 Maintainer: Lucifers Circle <luciferscircle@gmail.com>
 Installed-Size: 484
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
-Filename: -mnoDebsHere/com.idevicehacked.miscsettings_2.3.0_iphoneos-arm.deb
+Filename: noDebsHere/com.idevicehacked.miscsettings_2.3.0_iphoneos-arm.deb
 Size: 51166
 MD5sum: 67ea967c2401c510d641863ebe025cb3
 SHA1: 4a24f92c15abb30aa17bdb66a68b030392520297
@@ -132,7 +149,7 @@ Package: com.idevicehacked.neostheme
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
-Filename: -mnoDebsHere/Neos.deb
+Filename: noDebsHere/Neos.deb
 Size: 8547474
 MD5sum: 9807ab26e73a6c36f91c34b8ba310ec8
 SHA1: 63de3cec6cbd21baac5f3eeb6e43089c7d1ecae7
@@ -147,7 +164,7 @@ Package: com.idevicehacked.nixtheme
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
-Filename: -mnoDebsHere/Nix.deb
+Filename: noDebsHere/Nix.deb
 Size: 8672670
 MD5sum: 660a24cb26c434f6d2ef30ac644e97ae
 SHA1: b3446045247479f498f8b749c78b5f28e9ff59b5
@@ -164,7 +181,7 @@ Architecture: iphoneos-arm
 Maintainer: Patrick Knauf
 Installed-Size: 192
 Depends: mobilesubstrate
-Filename: -mnoDebsHere/com.idevicehacked.nsa_5.1.3-1debug_iphoneos-arm.deb
+Filename: noDebsHere/com.idevicehacked.nsa_5.1.3-1debug_iphoneos-arm.deb
 Size: 20958
 MD5sum: 4dc5f149fbaa8bbf7c73f6bbce2ca47f
 SHA1: 1722960044e34209a3888a2d681c6dca06e93330
@@ -181,7 +198,7 @@ Architecture: iphoneos-arm
 Maintainer: LucifersCircle
 Installed-Size: 468
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: -mnoDebsHere/com.idevicehacked.simplepowerdownmenu_0.0.1_iphoneos-arm.deb
+Filename: noDebsHere/com.idevicehacked.simplepowerdownmenu_0.0.1_iphoneos-arm.deb
 Size: 52624
 MD5sum: fcc0dd9c1b17882b6e2360e6cce26ed1
 SHA1: 175f3834b55c57937b03152b4c139b83c617c4bc
@@ -196,7 +213,7 @@ Package: com.idevicehacked.skilartheme
 Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
-Filename: -mnoDebsHere/SkilarTheme.deb
+Filename: noDebsHere/SkilarTheme.deb
 Size: 5554718
 MD5sum: 192e1824371e012cd5c89e0a6ff76fc5
 SHA1: 667c9821e9a25fac302ca623bc2d508d99d7a09f
@@ -213,7 +230,7 @@ Architecture: iphoneos-arm
 Maintainer: Patrick Knauf
 Installed-Size: 164
 Depends: mobilesubstrate
-Filename: -mnoDebsHere/com.idevicehacked.trampoline_2.0-1debug_iphoneos-arm.deb
+Filename: noDebsHere/com.idevicehacked.trampoline_2.0-1debug_iphoneos-arm.deb
 Size: 10140
 MD5sum: a60c83d041a9a03683cae417e65b17db
 SHA1: d910058b653613c19b1c73ab1258ffe84953268f
@@ -228,7 +245,7 @@ Package: com.idevicehacked.v4theme
 Version: 1.3
 Architecture: iphoneos-arm
 Maintainer: Jim Andrews
-Filename: -mnoDebsHere/v4.deb
+Filename: noDebsHere/v4.deb
 Size: 55237684
 MD5sum: ae55caa96b05390fadcf0b45a09ebd81
 SHA1: 18538bea22ac71e8b6a012e9a7593788a05a514e
@@ -245,7 +262,7 @@ Architecture: iphoneos-arm
 Maintainer: Kiet Ha
 Installed-Size: 120
 Depends: mobilesubstrate
-Filename: -mnoDebsHere/com.kaitouiet.fastforwardtime_1.0.2_iphoneos-arm.deb
+Filename: noDebsHere/com.kaitouiet.fastforwardtime_1.0.2_iphoneos-arm.deb
 Size: 4974
 MD5sum: 788af5c6b39107284ae96173180a652c
 SHA1: 71cddeb96bd9197ac206d789a388ea8ff9648972
@@ -262,7 +279,7 @@ Architecture: iphoneos-arm
 Maintainer: Revulate <revulate1@gmail.com>
 Installed-Size: 380
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker,  ws.hbang.common (>= 1.11)
-Filename: -mnoDebsHere/com.revulate.freebird_0.0.1_iphoneos-arm.deb
+Filename: noDebsHere/com.revulate.freebird_0.0.1_iphoneos-arm.deb
 Size: 44526
 MD5sum: c7b22e93dc38abd7412e459771b47585
 SHA1: b2a4d74813b410ffc50a6e29bf0e6b843beb1eac
@@ -279,7 +296,7 @@ Architecture: iphoneos-arm
 Maintainer: smokin1337
 Installed-Size: 488
 Depends: mobilesubstrate, com.midnightchips.ldrun
-Filename: -mnoDebsHere/com.smokin1337.powerswitch_1.0.1_iphoneos-arm.deb
+Filename: noDebsHere/com.smokin1337.powerswitch_1.0.1_iphoneos-arm.deb
 Size: 108700
 MD5sum: 42692fc484cdda962e7b77e4e817d196
 SHA1: 409a2c53bbeff91297cb2d3641acf544181d4104
@@ -291,12 +308,29 @@ Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitc
 Name: PowerSwitch
 
 Package: com.smokin1337.togglow
+Version: 1.0.5
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 872
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/com.smokin1337.togglow_1.0.5_iphoneos-arm.deb
+Size: 187166
+MD5sum: c3c76d41be3a838d98710c17720509da
+SHA1: 0625546f4f0e7e69f0b24b3679b281d8665df31b
+SHA256: 467a9dc404d24240abf11bcc4455894c107406785bda9e171a38e04655b87708
+Section: Tweaks
+Description: Make the control center your own !
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Name: Togglow
+
+Package: com.smokin1337.togglow
 Version: 1.0.6
 Architecture: iphoneos-arm
 Maintainer: smokin1337
 Installed-Size: 1044
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
-Filename: -mnoDebsHere/com.smokin1337.togglow_1.0.6_iphoneos-arm.deb
+Filename: noDebsHere/com.smokin1337.togglow_1.0.6_iphoneos-arm.deb
 Size: 323606
 MD5sum: 46af5e64198f20929ceae1409a32ef20
 SHA1: cded5ffaa7e31b6d8c2a482db9c0c0ebedc2795e

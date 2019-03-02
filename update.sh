@@ -1,2 +1,2 @@
-dpkg-scanpackages noDebsHere / > Packages -m
+dpkg-scanpackages -m noDebsHere / > Packages
 bzip2 -fks Packages
