@@ -5,5 +5,12 @@
 		<change>Initial release</change>
         
 	</changes>
+	<changes>
+        
+		<version>0.0.7</version>
+		<change>Refactored</change>
+		<change>Save and Restore Settings</change>
+        
+	</changes>
 
 </changelog>

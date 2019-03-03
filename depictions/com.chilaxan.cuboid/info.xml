@@ -1,7 +1,7 @@
 <package>
 	<id>com.chilaxan.cuboid</id>
 	<name>Cuboid</name>
-	<version>0.0.6</version>
+	<version>0.0.7</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -28,7 +28,8 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Initial Release!</change>
+		<change>Refactored</change>
+		<change>Save and Restore Settings</change>
 	</changelog>
 	<links>
         <link>
