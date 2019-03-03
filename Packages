@@ -307,6 +307,23 @@ Author: Revulate <revulate1@gmail.com>
 Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
 Name: FreeBird
 
+Package: com.smokin1337.fuupdatebadge
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: noDebsHere/com.smokin1337.fuupdatebadge_1.0.0_iphoneos-arm.deb
+Size: 2296
+MD5sum: 83a83fb6102244310639fa0b79f9a984
+SHA1: e761a6f2213e8b4b1fdc42c39e5d6eed796ecba8
+SHA256: 164349386944d147ba5f029d7c1665ea48105cb4cf1edf9322634942df75e1c6
+Section: Tweaks
+Description: Hide that annoying update badge!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.fuupdatebadge
+Name: FUUpdateBadge
+
 Package: com.smokin1337.powerswitch
 Version: 1.0.1
 Architecture: iphoneos-arm
