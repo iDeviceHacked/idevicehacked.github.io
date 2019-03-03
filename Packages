@@ -341,3 +341,20 @@ Author: smokin1337
 Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
 Name: Togglow
 
+Package: com.smokin1337.togglow
+Version: 1.0.6-1
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1044
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/com.smokin1337.togglow_1.0.6-1_iphoneos-arm.deb
+Size: 323492
+MD5sum: 80abd1161ea53f02b2dbd82e805bacb8
+SHA1: 1bc74888ebd778b7464e56b9598e778449a380ed
+SHA256: 92c124b46988ba2e98c321905167aaa35c3a74084b06367f0d73d11d01951253
+Section: Tweaks
+Description: Make the control center your own !
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Name: Togglow
+

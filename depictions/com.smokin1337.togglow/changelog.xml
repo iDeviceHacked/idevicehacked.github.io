@@ -33,4 +33,8 @@
 			<change>Fixed an issue in ios 11 where the mediaplayer background stayed</change>
 			<change>Live listen still needs fixed (I really hate this module !!)</change>
 	</changes>
+	<changes>
+			<version>1.0.6-1</version>
+			<change>1.0.6-1: Changed settings around to better explain things</change>
+	</changes>
 </changelog>
