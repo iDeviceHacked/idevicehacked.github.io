@@ -12,5 +12,10 @@
 		<change>Save and Restore Settings</change>
         
 	</changes>
-
+	<changes>
+        
+		<version>0.0.9</version>
+		<change>Fixed Major Bugs</change>
+        
+	</changes>
 </changelog>

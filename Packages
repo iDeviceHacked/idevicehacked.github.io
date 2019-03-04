@@ -1,31 +1,14 @@
 Package: com.chilaxan.cuboid
-Version: 0.0.6
+Version: 0.0.9
 Architecture: iphoneos-arm
 Maintainer: chilaxan
 Installed-Size: 0
 Depends: mobilesubstrate
-Filename: noDebsHere/com.chilaxan.cuboid_0.0.6_iphoneos-arm.deb
-Size: 22252
-MD5sum: 13b28a46215414251b8a776cfc83edfe
-SHA1: 3fdc1b995c8e4b28e2374490a247b7f41b19c6a3
-SHA256: abd053eef5d960712a962ef8a9f266d754fce6b4baec0620cb20dee6d53c6a21
-Section: Tweaks
-Description: An awesome MobileSubstrate tweak!
-Author: chilaxan
-Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.cuboid
-Name: Cuboid
-
-Package: com.chilaxan.cuboid
-Version: 0.0.7
-Architecture: iphoneos-arm
-Maintainer: chilaxan
-Installed-Size: 0
-Depends: mobilesubstrate
-Filename: noDebsHere/com.chilaxan.cuboid_0.0.7_iphoneos-arm.deb
-Size: 19710
-MD5sum: 06b122f4e2e228d91f17389eb193b7ec
-SHA1: 4b1110f9e73ca942f3da1c692099af7630fcc97e
-SHA256: 8068623f6fda2ea228e9fb19a9edacc7c912fe713b287279938f92534fa7f725
+Filename: noDebsHere/com.chilaxan.cuboid_0.0.9_iphoneos-arm.deb
+Size: 21318
+MD5sum: a76313cc9ccf24c6964a74d694116821
+SHA1: ace09582af3a0f395a441b3196d3f1cf26461bb6
+SHA256: d4be3fbcf63e58d17a6791e47a9492f9a3d28581f37974ede1c72528a903dd96
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: chilaxan
