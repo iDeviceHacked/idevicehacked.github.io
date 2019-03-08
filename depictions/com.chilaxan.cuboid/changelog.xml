@@ -18,4 +18,10 @@
 		<change>Fixed Major Bugs</change>
         
 	</changes>
+	<changes>
+        
+		<version>0.1.0</version>
+		<change>Added Negative Toggle Where Necessary</change>
+		<change>Added The Ability to Change Number of Rows</change>      
+	</changes>	
 </changelog>

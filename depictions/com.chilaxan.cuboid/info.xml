@@ -28,7 +28,8 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Fixed Major Bugs</change>
+		<change>Added Negative Toggle Where Necessary</change>
+		<change>Added The Ability to Change Number of Rows</change>
 	</changelog>
 	<links>
         <link>
