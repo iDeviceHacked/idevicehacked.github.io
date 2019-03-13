@@ -1,0 +1,50 @@
+<package>
+	<id>com.idevicehacked.flouresent</id>
+	<name>Flouresent</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>10.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A flouresent theme by @djAndjess8.
+        </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Flouresent</description>
+            <image>1.jpg</image>
+        </screenshot>
+        <screenshot>
+            <description>Flouresent</description>
+            <image>2.jpg</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links>
+        <link>
+            <name>Follow @djAndjess8 on Twitter!</name>
+            <url>https://twitter.com/djAndjess8</url>
+            <iconclass>fa fa-twitter</iconclass>
+            </link>
+        <link>
+            <name>Buy Flores Flores a coffee</name>
+            <url>https://paypal.me/Flores1984</url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>

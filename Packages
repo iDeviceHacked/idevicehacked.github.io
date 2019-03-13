@@ -96,6 +96,21 @@ Author: Jim Andrews
 Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.coletontheme/
 Name: ColeTon
 
+Package: com.idevicehacked.flouresent
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Flores Flores
+Filename: noDebsHere/FlouresThemes/Flouresent.deb
+Size: 28134270
+MD5sum: 515af9c98740ee024fbdba482a7e4f4d
+SHA1: 7986c9ce4f4e77bff2c7dc20e26bc281c2c3e11b
+SHA256: 042a1042f919e4014878645f77c649fe7981203a43c23731191563a3e6973052
+Section: Themes
+Description: A Flouresent theme by @djAndjess8
+Author: Flores Flores
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.flouresent/
+Name: Flouresent
+
 Package: com.idevicehacked.lexitheme
 Version: 1.2
 Architecture: iphoneos-arm
@@ -305,6 +320,24 @@ Section: Tweaks
 Description: Simple color customization for Twitter
 Author: Revulate <revulate1@gmail.com>
 Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
+Name: FreeBird
+
+Package: com.revulate.freebird
+Version: 0.3
+Architecture: iphoneos-arm
+Maintainer: Revulate <revulate1@gmail.com>
+Installed-Size: 392
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker,  ws.hbang.common (>= 1.11)
+Filename: noDebsHere/Rev/com.revulate.freebird_0.3_iphoneos-arm.deb
+Size: 47070
+MD5sum: ce6a13b79e54b2ae679a1759c7b5caf8
+SHA1: d7921b23006830ece89b2f32472b24574747cdcb
+SHA256: ac5b6cba3b78ba8839608db95e1fa64e3b17bee1e4b00efda7823b37ee979ed4
+Section: Tweaks
+Description: Simple color customization for Twitter
+Author: Revulate <revulate1@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
+Icon: file:///Library/PreferenceBundles/FreeBird.bundle/icon@3x.png
 Name: FreeBird
 
 Package: com.smokin1337.fuupdatebadge

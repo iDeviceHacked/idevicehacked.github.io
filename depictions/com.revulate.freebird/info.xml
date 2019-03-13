@@ -1,7 +1,7 @@
 <package>
 	<id>com.revulate.freebird</id>
 	<name>FreeBird</name>
-	<version>0.0.1</version>
+	<version>0.3</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -32,7 +32,10 @@
         </screenshot>
     </screenshots>
 	<changelog>
-		<change>Initial Release!</change>
+		<change>Cleaned up settings</change>
+        <change>Allowed custom BG color (Night Mode)</change>
+        <change>Custom DM colors (Night Mode)</change>
+        <change>Works with twttr (TestFlight for Twitter)</change>
 	</changelog>
 	<links>
         <link>

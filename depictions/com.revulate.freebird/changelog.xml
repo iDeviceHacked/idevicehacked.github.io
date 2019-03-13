@@ -1,8 +1,17 @@
 <changelog>
 	<changes>
         
-		<version>0.0.1</version>
+		<version>0.1</version>
 		<change>Initial release</change>
+        
+	</changes>
+	<changes>
+        
+		<version>0.3</version>
+		<change>Cleaned up settings</change>
+		<change>Allowed custom BG color (Night Mode)</change>
+		<change>Custom DM colors (Night Mode)</change>
+		<change>Works with twttr (TestFlight for Twitter)</change>
         
 	</changes>
 
