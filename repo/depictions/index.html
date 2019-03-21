@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>/supermamon/</title>
+  <title>depictions</title>
   <meta charset="utf-8">
   <meta content="width=device-width,initial-scale=1,shrink-to-fit=no"name=viewport>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -16,6 +16,7 @@
   <link href=https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css rel=stylesheet crossorigin=anonymous integrity=sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M>
 <link href=https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css rel=stylesheet>
 <link href="theme/style.css" rel="stylesheet">
+
 
   <style>
 	@media (max-width: 767px) {
@@ -53,7 +54,7 @@
 						$(source).find("otherVersions").text(),
 						function(message,isBad) {
 							$(element).html(message)
-							.addClass( (isBad?'alert-danger':'alert-success'));
+							.addClass( (isBad?'alert-danger':'alert-info'));
 						}
 					);
 					if(res==0) {$(element).hide()}

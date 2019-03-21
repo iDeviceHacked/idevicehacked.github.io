@@ -288,7 +288,11 @@
      box-shadow: 0 5px 13px 0 rgba(0, 0, 0, 0.1);
      -webkit-box-shadow: 0 5px 13px 0 rgba(0, 0, 0, .1);
      font-weight: 500;
+     border-radius: 5px;
+  	 border: 1px;
+  	 padding: 10px;
 }
+/*
  .alert-primary {
      background-image: linear-gradient(19deg, #21D4FD 0, #B721FF 100%);
      color: #fff;
@@ -314,7 +318,7 @@
  .alert-dark {
      background-image: linear-gradient(-225deg, #537895 0, #09203F 100%);
      color: #fff;
-}
+} */
  .fade.show {
      -webkit-backdrop-filter: blur(5px);
 }
