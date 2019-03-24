@@ -424,6 +424,23 @@ Author: smokin1337
 Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitch
 Name: PowerSwitch
 
+Package: com.smokin1337.smartlight
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.smartlight_1.0_iphoneos-arm.deb
+Size: 3136
+MD5sum: c408d25d4eef93367fc74615878c4e58
+SHA1: a5c706e14099ed5e25bf440e2757eaa1897fd008
+SHA256: 024e71a103e74fac5a4e7a9e55ab80a3777e3f38def3678a4ec5c89ad64dc7fe
+Section: Tweaks
+Description: Activate flashlight with VolumeDown+Lock change brightness level with VolumeUp!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.smartlight
+Name: SmartLight
+
 Package: com.smokin1337.togglow
 Version: 1.0.5
 Architecture: iphoneos-arm
