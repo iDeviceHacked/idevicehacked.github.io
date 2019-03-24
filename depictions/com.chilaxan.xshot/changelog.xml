@@ -11,4 +11,8 @@
 		<version>0.0.3</version>
 		 <change>Fixed suppressing volume hud during screenshot for some devices</change>
 	</changes>
+	<changes>
+		<version>0.0.4-2</version>
+		 <change>Attempts to fix the screen turning off when screenshotting</change>
+	</changes>
 </changelog>
