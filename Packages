@@ -48,6 +48,23 @@ Description: An awesome MobileSubstrate tweak!
 Author: chilaxan
 Name: X-Shot
 
+Package: com.chilaxan.xshot
+Version: 0.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: chilaxan
+Installed-Size: 124
+Depends: mobilesubstrate
+Filename: noDebsHere/Chila/com.chilaxan.xshot_0.0.2-1debug_iphoneos-arm.deb
+Size: 6634
+MD5sum: 0e23961ca20691f61b2d835896afd5d9
+SHA1: 99cec77d7ef17033a02e1ff8f7e848279e71161f
+SHA256: fa4d8fb538b81381d50cffb1f8cae02142ec58da5c8246d8a846ef48692b0d9f
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: chilaxan
+Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.xshot
+Name: X-Shot
+
 Package: com.daniel63194.cabello
 Version: 1.0
 Architecture: iphoneos-arm
