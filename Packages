@@ -65,6 +65,23 @@ Author: chilaxan
 Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.xshot
 Name: X-Shot
 
+Package: com.chilaxan.xshot
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: chilaxan
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: noDebsHere/Chila/com.chilaxan.xshot_0.0.3_iphoneos-arm.deb
+Size: 3548
+MD5sum: 32581e8facdd3401c62cc632e27c9d65
+SHA1: b7ddfd017fe0fe148b3422dd1330b901833ec9be
+SHA256: 8a023a1ea169fc3892f3c4042c0aecc376d6b2eabf78a4d898af559ddd6a0816
+Section: Tweaks
+Description: Remap screenshots to iPhone X gesture (VolumeUp + Power)!
+Author: chilaxan
+Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.xshot
+Name: X-Shot
+
 Package: com.daniel63194.cabello
 Version: 1.0
 Architecture: iphoneos-arm

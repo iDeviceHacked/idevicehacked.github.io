@@ -7,4 +7,8 @@
 		<version>0.0.2-1</version>
 		<change>Fixed depiction</change>
 	</changes>
+	<changes>
+		<version>0.0.3</version>
+		 <change>Fixed suppressing volume hud during screenshot for some devices</change>
+	</changes>
 </changelog>

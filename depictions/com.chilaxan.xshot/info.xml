@@ -1,7 +1,7 @@
 <package>
 	<id>com.chilaxan.xshot</id>
 	<name>X-Shot</name>
-	<version>0.0.2-1</version>
+	<version>0.0.3</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,7 +15,7 @@
 	<dependencies></dependencies>
 
     <changelog>
-        <change>Fixed depiction</change>
+        <change>Fixed suppressing volume hud during screenshot for some devices</change>
     </changelog>
 
     <screenshots>
