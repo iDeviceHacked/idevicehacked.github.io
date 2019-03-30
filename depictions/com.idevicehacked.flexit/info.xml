@@ -15,14 +15,11 @@
 	<dependencies></dependencies>
     
      <changelog>
-        <change>Fixed freezing</change>
+        <change>Initial Release</change>
     </changelog>
     
     <screenshots>
     </screenshots>
-	<descriptionlist>
-		<description>Don't get slowed down by animations on iOS 11!<br/>
-        </description>
         <description>A simple, open source tweak for opening FLEX via Activator gesture. This tweak is better than FLEXing because of the setup proccess for the developer, and the dependency on libobjcipc.
         </description>
 	</descriptionlist>
