@@ -1,0 +1,43 @@
+<package>
+	<id>com.ipadkid.flexit</id>
+	<name>FLEXit</name>
+	<version>0.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+    
+     <changelog>
+        <change>Fixed freezing</change>
+    </changelog>
+    
+    <screenshots>
+    </screenshots>
+	<descriptionlist>
+		<description>Don't get slowed down by animations on iOS 11!<br/>
+        </description>
+        <description>A simple, open source tweak for opening FLEX via Activator gesture. This tweak is better than FLEXing because of the setup proccess for the developer, and the dependency on libobjcipc.
+        </description>
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+        <link>
+          <name>Source Code</name>
+          <url>https://github.com/ipadkid358/FLEXit</url>
+          <iconclass>fa fa-github</iconclass>
+        </link>
+
+    </links>  
+</package>

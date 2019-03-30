@@ -355,6 +355,23 @@ Author: Jim Andrews
 Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.v4theme/
 Name: v4
 
+Package: com.ipadkid.flexit
+Version: 0.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle <luciferscircle@gmail.com>
+Installed-Size: 1560
+Depends: mobilesubstrate, firmware (>= 8.0), libactivator
+Filename: noDebsHere/iPadKid/com.ipadkid.flexit_0.0.1-1+debug_iphoneos-arm.deb
+Size: 336814
+MD5sum: 08b16489f31a87f19852df5c9fd48ba7
+SHA1: 853cce836ec374a5e8597cbe1c6a3cdbcde0ae02
+SHA256: 4fcbfd2772288a076214f62bf118e9267da982d5c8996c71e872c06cae5acd9d
+Section: System
+Description: Open source, easy to maintain, FLEX Activator tool
+Author: Flipboard/ipad_kid
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.flexit
+Name: FLEXit
+
 Package: com.kaitouiet.fastforwardtime
 Version: 1.0.2
 Architecture: iphoneos-arm
