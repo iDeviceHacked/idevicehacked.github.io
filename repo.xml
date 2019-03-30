@@ -1,12 +1,12 @@
 <repo>
 	<footerlinks>
 		<link>
-			<name>Follow me on Twitter</name>
-			<url>https://twitter.com/lucifers_circle</url>
+			<name>Follow iDevice Hacked on Twitter</name>
+			<url>https://twitter.com/idevice_hacked</url>
 			<iconclass>fa fa-twitter</iconclass>
 		</link>
         <link>
-            <name>Throw me a bone</name>
+            <name>Donate with PayPal</name>
             <url>https://paypal.me/luciferscircle</url>
             <iconclass>fa fa-paypal</iconclass>
         </link>
