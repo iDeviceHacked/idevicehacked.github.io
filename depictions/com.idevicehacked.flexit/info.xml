@@ -20,6 +20,7 @@
     
     <screenshots>
     </screenshots>
+	<descriptionlist>
         <description>A simple, open source tweak for opening FLEX via Activator gesture. This tweak is better than FLEXing because of the setup proccess for the developer, and the dependency on libobjcipc.
         </description>
 	</descriptionlist>
