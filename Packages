@@ -424,6 +424,22 @@ Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
 Icon: file:///Library/PreferenceBundles/FreeBird.bundle/icon@3x.png
 Name: FreeBird
 
+Package: com.smokin1337.barscape
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 496
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.barscape_1.0_iphoneos-arm.deb
+Size: 85080
+MD5sum: 83774dedf6e9f7b0b4154fc8b83ea6fb
+SHA1: d0d2f83c9714f9f25d5baae29fee4e98fc64d12e
+SHA256: 201ef8ed86dc7f71a82b3651708da9de9e84b8e3615f0d544fd2a6d7b22fffa8
+Section: Tweaks
+Description: Replace your homebar !
+Author: smokin1337
+Name: BarScape
+
 Package: com.smokin1337.fuupdatebadge
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -457,6 +473,22 @@ Description: An awesome button!
 Author: smokin1337
 Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitch
 Name: PowerSwitch
+
+Package: com.smokin1337.sleeptoggle
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 844
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: noDebsHere/Smokin/com.smokin1337.sleeptoggle_1.0_iphoneos-arm.deb
+Size: 88740
+MD5sum: aeace5939b8e032207fa22eae213711b
+SHA1: 6ecf11df480422f907eb55fff378cdffd9fed7a9
+SHA256: 2b88d258f1212240310944a95923dd388e355987fcfa263dbfdffb01dac77dc6
+Section: Control Center (Modules)
+Description: CC module to disable idle sleep/auto lock !
+Author: smokin1337
+Name: SleepToggle
 
 Package: com.smokin1337.smartlight
 Version: 1.0
