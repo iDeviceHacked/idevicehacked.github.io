@@ -1,0 +1,14 @@
+<changelog>
+	<changes>
+		<version>1.0.2</version>
+		<change>Fixed disabling screen on for notifications not working properly</change>
+	</changes>
+	<changes>
+		<version>1.0.1</version>
+		<change>Fixed module not showing up in control center settings</change>
+	</changes>
+	<changes>
+		<version>1.0</version>
+		<change>Initial release</change>
+	</changes>
+</changelog>

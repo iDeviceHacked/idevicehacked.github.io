@@ -1,0 +1,61 @@
+<package>
+	<id>com.smokin1337.barscape</id>
+	<name>BarScape</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+
+    <screenshots>
+        <screenshot>
+            <description>BarScape</description>
+            <image>screenshot1.png</image>
+        </screenshot>
+        <screenshot>
+            <description>BarScape</description>
+            <image>screenshot2.png</image>
+        </screenshot>
+        <screenshot>
+            <description>BarScape</description>
+            <image>screenshot3.png</image>
+        </screenshot>
+    </screenshots>
+
+	<descriptionlist>
+
+		<description>Replace your homebar with a chevron or a small pill</description>
+		<description>Choose color for the pill/chevron</description>
+		<description>Choose size for the pill/chevron</description>
+
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+        <link>
+            <name>Buy smokin1337 a coffee</name>
+            <url>https://www.paypal.me/smokin1337</url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+	<link>
+		<name>Twitter</name>
+		<url>https://twitter.com/smokin1337</url>
+		<iconclass> fa fa-twitter</iconclass>
+		</link>
+    </links>
+</package>
