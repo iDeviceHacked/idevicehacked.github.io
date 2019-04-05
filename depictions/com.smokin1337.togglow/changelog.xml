@@ -37,4 +37,8 @@
 			<version>1.0.6-1</version>
 			<change>1.0.6-1: Changed settings around to better explain things</change>
 	</changes>
+	<changes>
+			<version>1.0.6-3</version>
+			<change>Fixed effects not being applied to the WiFi toggle for Chinese users</change>
+	</changes>
 </changelog>

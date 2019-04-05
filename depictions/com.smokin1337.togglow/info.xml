@@ -1,7 +1,7 @@
 <package>
 	<id>com.smokin1337.togglow</id>
 	<name>Togglow</name>
-	<version>1.0.6-1</version>
+	<version>1.0.6-3</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,11 +15,7 @@
 	<dependencies></dependencies>
 
     <changelog>
-			<change>1.0.6-1: Changed settings around to better explain things</change>
-			<change>CC Background is now independent from the other settings</change>
-			<change>Added remove or keep button/module backgrounds (also independent from other settings)</change>
-			<change>Fixed an issue in ios 11 where the mediaplayer background stayed</change>
-			<change>Live listen still needs fixed (I really hate this module !!)</change>
+			<change>Fixed effects not being applied to the WiFi toggle for Chinese users</change>
     </changelog>
 
     <screenshots>
