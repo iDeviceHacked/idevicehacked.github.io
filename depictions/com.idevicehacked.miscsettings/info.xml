@@ -1,7 +1,7 @@
 <package>
 	<id>com.idevicehacked.miscsettings</id>
 	<name>MiscSettings</name>
-	<version>2.3.2</version>
+	<version>2.3.3</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,6 +15,8 @@
 	<dependencies></dependencies>
     
     <changelog>
+        <change>Fixed "Boxed In" on iOS12 - LockScreen</change>
+        <change>Added "Hide Beta Dot" - SpringBoard</change>
         <change>Added "Hide Lock" - LockScreen (iPX)</change>
         <change>Added "Hide Lock" - StatusBar</change>
         <change>Fixed "CleanSettings" not working</change>
@@ -52,7 +54,7 @@
 		<description>MiscSettings is a free "General" tweak, with over 50 options, made for modern iOS versions!<br/>
         If you have a bug report or feature request, please email me in Cydia!
         </description>
-        <description><![CDATA[Status Bar:<br/>
+        <description><![CDATA[Status Bar:<br/><br/>
         <ul>
             <li>Hide status bar</li><br/>
             <li>Disable status bar in apps</li><br/>
@@ -77,7 +79,7 @@
             <li>Show status bar in folders</li>
         </ul>
         ]]></description>
-        <description><![CDATA[Lock Screen:<br/>
+        <description><![CDATA[Lock Screen:<br/><br/>
         <ul>
             <li>Hide today view</li><br/>
             <li>Hide "Now Playing"</li><br/>
@@ -93,11 +95,12 @@
             <li>Hide Lock</li>
         </ul>
         ]]></description>
-        <description><![CDATA[SpringBoard:<br/>
+        <description><![CDATA[SpringBoard:<br/><br/>
         <ul>
         <li>Hide icon labels</li><br/>
         <li>Hide page dots</li><br/>
         <li>Hide updated dots</li><br/>
+        <li>Hide beta dots</li><br/>
         <li>Show app download progress</li><br/>
         <li>Pinch to close folders</li><br/>
         <li>Close folders on app launch</li><br/>
@@ -115,7 +118,7 @@
         <li>Touch pass through animation</li>
         </ul>
         ]]></description>
-        <description><![CDATA[ControlCenter: <br/>
+        <description><![CDATA[ControlCenter: <br/><br/>
         <ul>
             <li>Add percentage to sliders</li><br/>
             <li>Add battery percentage to LPM toggle</li><br/>

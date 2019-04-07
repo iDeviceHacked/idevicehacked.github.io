@@ -145,4 +145,10 @@
         <change>Filesystem cleanup and code improvements</change>
     </changes>
 
+    <changes>
+        <version>2.3.3</version>
+        <change>Fixed "Boxed In" on iOS12 - LockScreen</change>
+        <change>Added "Hide Beta Dot" - SpringBoard</change>
+    </changes>
+
 </changelog>
