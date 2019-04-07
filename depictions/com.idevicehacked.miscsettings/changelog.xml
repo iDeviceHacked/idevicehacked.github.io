@@ -137,4 +137,12 @@
         <change>Bug fixes and stability improvements</change>
     </changes>
 
+    <changes>
+        <version>2.3.2</version>
+        <change>Added "Hide Lock" - LockScreen (iPX)</change>
+        <change>Added "Hide Lock" - StatusBar</change>
+        <change>Fixed "CleanSettings" not working</change>
+        <change>Filesystem cleanup and code improvements</change>
+    </changes>
+
 </changelog>
