@@ -594,6 +594,23 @@ Author: smokin1337
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.smartlight
 Name: SmartLight
 
+Package: com.smokin1337.smartlight
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.smartlight_1.0.3_iphoneos-arm.deb
+Size: 3736
+MD5sum: af187adf41dc5cd1584180e139dfe878
+SHA1: b34250223503bdcbfbec299086811b3a06f67500
+SHA256: 09b2eeb6d1b6db9303d6971e85d45b32dc81bd788bc6e2288fdd3268efb1f470
+Section: Tweaks
+Description: Activate flashlight with VolumeDown+Lock change brightness level with VolumeUp and VolumeDown!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.smartlight
+Name: SmartLight
+
 Package: com.smokin1337.togglow
 Version: 1.0.5
 Architecture: iphoneos-arm

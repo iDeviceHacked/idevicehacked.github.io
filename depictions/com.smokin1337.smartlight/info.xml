@@ -1,7 +1,7 @@
 <package>
 	<id>com.smokin1337.smartlight</id>
 	<name>SmartLight</name>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,7 +15,8 @@
 	<dependencies></dependencies>
 
     <changelog>
-        <change>Fixed safemode for some devices when turning off flashlight on iOS 11.x</change>
+        <change>Now volume up increases brightness and volume down decreases brightness while flashlight is on</change>
+        <change>Made volume buttons not increase/decrease volume while the flashlight is on</change>
     </changelog>
 
     <screenshots>
@@ -24,7 +25,7 @@
 	<descriptionlist>
 
 		<description>Activate flashlight by pressing VolumeDown + Power</description>
-		<description>Adjust light brightness with volume up button (Whenever the light is on, even when activated normally)</description>
+		<description>Adjust light brightness with volume up and volume down buttons (Whenever the light is on, even when activated normally)</description>
 
 	</descriptionlist>
 
