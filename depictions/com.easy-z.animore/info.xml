@@ -20,6 +20,7 @@
     
     <screenshots>
         <screenshot>
+	    <description>iPhone X and up ONLY</description>
             <description>Preview</description>
             <image>preview.jpg</image>
         </screenshot>
