@@ -1,0 +1,41 @@
+<package>
+	<id>com.easy-z.animore</id>
+	<name>Animore</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>12.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+    
+    <changelog>
+        <change>Initial Release</change>
+           </changelog>
+    
+    <screenshots>
+        <screenshot>
+            <description>Preview</description>
+            <image>preview.jpg</image>
+        </screenshot>
+    </screenshots>
+    
+	<descriptionlist>
+		<description>Animore adds the iOS 12.2 Animojis to iOS 12-12.1.2!<br/>
+        If you have a bug report or feature request, please email me in Cydia!
+        </description>
+        	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>

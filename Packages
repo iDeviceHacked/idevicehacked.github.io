@@ -116,6 +116,23 @@ Author: daniel63194
 Depiction: https://idevicehacked.com/repo/depictions/?p=com.daniel63194.cabello
 Name: Cabello
 
+Package: com.easy-z.animore
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Easy-Z
+Installed-Size: 3308
+Depends: mobilesubstrate
+Filename: noDebsHere/Eazy/com.easy-z.animore_1.0.0_iphoneos-arm.deb
+Size: 3012200
+MD5sum: 7e2c04f0b6db7d985ec052be850a530d
+SHA1: f8d5fd81ce36d1f5cbe9358f47abcd0819a475a5
+SHA256: 6fd81bd05cf3e8f95d83e51a371ba3677a495d044a01c7ee9d94e50119d82d61
+Section: Tweaks
+Description: Bring the iOS 12.2 Animojis to iOS 12.0-12.1.2.
+Author: Easy-Z
+Depiction: https://www.idevicehacked.com/depictions/?p=com.easy-z.animore
+Name: Animore
+
 Package: com.idevicehacked.aetheme
 Version: 1.0
 Architecture: iphoneos-arm
