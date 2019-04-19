@@ -20,13 +20,13 @@
     
     <screenshots>
         <screenshot>
-	    <description>iPhone X and up ONLY</description>
             <description>Preview</description>
             <image>preview.jpg</image>
         </screenshot>
     </screenshots>
     
 	<descriptionlist>
+		<description>iPhone X and up ONLY</description>
 		<description>Animore adds the iOS 12.2 Animojis to iOS 12-12.1.2!<br/>
         If you have a bug report or feature request, please email me in Cydia!
         </description>
