@@ -151,4 +151,16 @@
         <change>Added "Hide Beta Dot" - SpringBoard</change>
     </changes>
 
+    <changes>
+        <version>2.3.4</version>
+        <change>Fixed "Hide Home Bar" on iOS12 - LockScreen</change>
+        <change>Fixed some status bar items not hiding in apps</change>
+        <change>Added "Hide CC Grabber" - LockScreen</change>
+        <change>Added "SyncSize" - StatusBar</change>
+        <change>Added "Custom Carrier" - StatusBar</change>
+        <change>Added "Hide %" - StatusBar</change>
+        <change>Added "Auto Hide Home Bar" - SpringBoard</change>
+        <change>Removed white background from icons, slightly reducing filesize</change>
+    </changes>
+
 </changelog>
