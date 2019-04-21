@@ -163,4 +163,11 @@
         <change>Removed white background from icons, slightly reducing filesize</change>
     </changes>
 
+    <changes>
+        <version>2.3.5</version>
+        <change>Fixed "Hide Today View" on iOS12 - SpringBoard</change>
+        <change>Added "Hide Status Bar on HomeScreen" - StatusBar</change>
+        <change>If you hide the battery Icon in the status bar, the percentage text will now color based on lpm/charging/battery level!</change>
+    </changes>
+
 </changelog>
