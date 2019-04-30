@@ -432,14 +432,14 @@ Maintainer: LucifersCircle <luciferscircle@gmail.com>
 Installed-Size: 100
 Depends: mobilesubstrate, com.midnightchips.ldrun
 Filename: noDebsHere/Luci/com.idevicehacked.spdmlite_0.0.1_iphoneos-arm.deb
-Size: 4734
-MD5sum: e890398f0002dd73acbd6c610a91d590
-SHA1: 4f1dc730361f0e0da144c8d5a5bc4fbcaa715774
-SHA256: 151e0e741eb630d759168b70d12e9c09cdb230bb1ec365a0de37fce7c298b006
+Size: 4738
+MD5sum: 469b9ca070c3e27b66b6c7ba38cb35e4
+SHA1: 52ce6dba9d4e223f28098946916dd0596b9a558c
+SHA256: 8e4fc723db28b0ca8bfa3dee112ec8cd9a15f11ef1b1883681a31c0c6ef26f48
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: LucifersCircle <luciferscircle@gmail.com>
-Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.spdmlite
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.spdmlite/
 Name: SPDMLite
 
 Package: com.idevicehacked.trampoline
