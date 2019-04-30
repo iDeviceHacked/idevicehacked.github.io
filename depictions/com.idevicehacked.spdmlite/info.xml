@@ -1,0 +1,36 @@
+<package>
+	<id>com.idevicehacked.spdmlite</id>
+	<name>SPDM Lite</name>
+	<version>0.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Light weight version of Simple Power Down Menu that displays power options using a stock iOS alert.
+        </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Menu</description>
+            <image>spdmlite.png</image>
+        </screenshot>
+    </screenshots>
+	<changelog>
+        <change>Initial Release!</change>
+	</changelog>
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>
