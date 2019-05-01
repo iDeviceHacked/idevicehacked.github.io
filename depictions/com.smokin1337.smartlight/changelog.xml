@@ -1,4 +1,8 @@
 <changelog>
+<changes>
+		<version>1.0.4</version>
+		<change>Updated for arm64e(A12)</change>
+	</changes>
 	<changes>
 		<version>1.0.3</version>
 		<change>Now volume up increases brightness and volume down decreases brightness while flashlight is on</change>

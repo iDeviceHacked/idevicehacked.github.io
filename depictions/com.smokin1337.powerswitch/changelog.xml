@@ -7,4 +7,8 @@
 		<version>1.0.1</version>
 		<change>Added ability to disable haptic feedback</change>
 	</changes>
+	<changes>
+		<version>1.0.3</version>
+		<change>Updated for arm64e(A12)</change>
+	</changes>
 </changelog>

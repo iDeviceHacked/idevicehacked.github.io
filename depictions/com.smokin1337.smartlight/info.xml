@@ -1,7 +1,7 @@
 <package>
 	<id>com.smokin1337.smartlight</id>
 	<name>SmartLight</name>
-	<version>1.0.3</version>
+	<version>1.0.4</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,8 +15,7 @@
 	<dependencies></dependencies>
 
     <changelog>
-        <change>Now volume up increases brightness and volume down decreases brightness while flashlight is on</change>
-        <change>Made volume buttons not increase/decrease volume while the flashlight is on</change>
+        <change>Updated for arm64e(A12)</change>
     </changelog>
 
     <screenshots>

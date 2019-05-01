@@ -1,7 +1,7 @@
 <package>
 	<id>com.smokin1337.togglow</id>
 	<name>Togglow</name>
-	<version>1.0.6-3</version>
+	<version>1.0.7</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,7 +15,7 @@
 	<dependencies></dependencies>
 
     <changelog>
-			<change>Fixed effects not being applied to the WiFi toggle for Chinese users</change>
+			<change>Updated for arm64e(A12)</change>
     </changelog>
 
     <screenshots>

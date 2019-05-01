@@ -662,6 +662,23 @@ Author: smokin1337
 Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitch
 Name: PowerSwitch
 
+Package: com.smokin1337.powerswitch
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 612
+Depends: mobilesubstrate, com.midnightchips.ldrun
+Filename: noDebsHere/Smokin/com.smokin1337.powerswitch_1.0.3_iphoneos-arm.deb
+Size: 119066
+MD5sum: 57953723cb444962d66641dc001c3421
+SHA1: 1258f3fcdc20bd55b0995e72f921dbd7fb585cd1
+SHA256: c4fc68b7e2a555e0d8fdc5b6d4a3d5d9ab0addb25caa9ac5572376be0bc3925e
+Section: Tweaks
+Description: An awesome button!
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitch
+Name: PowerSwitch
+
 Package: com.smokin1337.sleeptoggle
 Version: 1.0
 Architecture: iphoneos-arm
@@ -781,6 +798,23 @@ Author: smokin1337
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.smartlight
 Name: SmartLight
 
+Package: com.smokin1337.smartlight
+Version: 1.0.4
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 120
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.smartlight_1.0.4_iphoneos-arm.deb
+Size: 4964
+MD5sum: 4aa67b7cfed3a69dd502f49dd8401ca2
+SHA1: 95c60af6a3d89e156a963957aef86d0199911969
+SHA256: efb28d2bb0dcbbd50d999d955df0d85bb863c92e8defe01e6e0649c9c7daa36a
+Section: Tweaks
+Description: Activate flashlight with VolumeDown+Lock change brightness level with VolumeUp and VolumeDown!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.smartlight
+Name: SmartLight
+
 Package: com.smokin1337.togglow
 Version: 1.0.5
 Architecture: iphoneos-arm
@@ -843,6 +877,23 @@ Size: 323830
 MD5sum: 0354af2064c43a65931a01a10484d149
 SHA1: f7e999331f20a965074fbf754756a87d1559c259
 SHA256: 57514eb9471fe15268351088ead61b48f6fbfe578718db2c5af3982bd909b8e3
+Section: Tweaks
+Description: Make the control center your own !
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
+Name: Togglow
+
+Package: com.smokin1337.togglow
+Version: 1.0.7
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1252
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/Smokin/com.smokin1337.togglow_1.0.7_iphoneos-arm.deb
+Size: 354406
+MD5sum: 92a561a426d82eb65483505f59f3ae9b
+SHA1: 2adb39e60c00993b0924fd44e804b7fc1292b914
+SHA256: bceaa5b3b0060871a93a0851b8f9b807fe433a596fb9a8f13bf1a5758e8a7950
 Section: Tweaks
 Description: Make the control center your own !
 Author: smokin1337
