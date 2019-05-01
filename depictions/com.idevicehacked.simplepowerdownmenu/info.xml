@@ -1,7 +1,7 @@
 <package>
 	<id>com.idevicehacked.simplepowerdownmenu</id>
 	<name>Simple Power Down Menu</name>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -24,7 +24,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-        <change>(UPDATE) iPhoneX support has been added. To activate menu, tap home bar once or doubel tap the dock(ipX). (Floating Dock compatible)<br/>Better Depiction coming soon!</change>
+        <change>Compiled for ARM64e</change>
 	</changelog>
 	<links>
         <link>

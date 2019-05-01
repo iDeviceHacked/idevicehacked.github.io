@@ -1,7 +1,7 @@
 <package>
 	<id>com.idevicehacked.spdmlite</id>
 	<name>SPDM Lite</name>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -24,7 +24,7 @@
         </screenshot>
     </screenshots>
 	<changelog>
-        <change>Initial Release!</change>
+        <change>Compiled for ARM64e</change>
 	</changelog>
 	<links>
         <link>

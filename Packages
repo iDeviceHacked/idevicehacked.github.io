@@ -32,6 +32,23 @@ Author: chilaxan
 Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.cuboid
 Name: Cuboid
 
+Package: com.chilaxan.cuboid
+Version: 0.1.1
+Architecture: iphoneos-arm
+Maintainer: chilaxan
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: noDebsHere/Chila/com.chilaxan.cuboid_0.1.1_iphoneos-arm.deb
+Size: 35676
+MD5sum: 610c184de6033a23164319c8c2b95472
+SHA1: 8287a587ac70b9d13e870848163f84748842d413
+SHA256: a5c60635869f197ebbce4890fd61b02660f0c404db7f12255b266af995e5bde5
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: chilaxan
+Depiction: https://idevicehacked.com/depictions/?p=com.chilaxan.cuboid
+Name: Cuboid
+
 Package: com.chilaxan.xshot
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -346,6 +363,23 @@ Author: Lucifers Circle <luciferscircle@gmail.com>
 Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
 Name: MiscSettings
 
+Package: com.idevicehacked.miscsettings
+Version: 2.3.6
+Architecture: iphoneos-arm
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Installed-Size: 400
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.3.6_iphoneos-arm.deb
+Size: 53260
+MD5sum: 634909298059b4cdc2e4892dfb0054ba
+SHA1: 1216ebb6c92bdfac3d3ba9be9c40c2bca61953ed
+SHA256: 954b700cd004dc6fc4b4f581f979da2279eb06b9e70f61325fbee5dfd71c5ef7
+Section: Tweaks
+Description: So far has 46+ Miscellaneous toggles!
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
+
 Package: com.idevicehacked.neostheme
 Version: 1.0
 Architecture: iphoneos-arm
@@ -410,6 +444,23 @@ Author: LucifersCircle
 Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu
 Name: Simple Power Down Menu
 
+Package: com.idevicehacked.simplepowerdownmenu
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle
+Installed-Size: 628
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: noDebsHere/Luci/com.idevicehacked.simplepowerdownmenu_0.0.2_iphoneos-arm.deb
+Size: 85794
+MD5sum: d3ec15432142268d5f4371146f726e92
+SHA1: 8457344ccc7325b835a68ce571388a3f4ec25eab
+SHA256: 25fd98c9517f9fc63d6776abf379f870dccf1f31ff0e7f578fb4318fbd9d90be
+Section: Tweaks
+Description: A Completely customizable power down menu! BETA
+Author: LucifersCircle
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.simplepowerdownmenu
+Name: Simple Power Down Menu
+
 Package: com.idevicehacked.skilartheme
 Version: 1.0
 Architecture: iphoneos-arm
@@ -436,6 +487,23 @@ Size: 4738
 MD5sum: 469b9ca070c3e27b66b6c7ba38cb35e4
 SHA1: 52ce6dba9d4e223f28098946916dd0596b9a558c
 SHA256: 8e4fc723db28b0ca8bfa3dee112ec8cd9a15f11ef1b1883681a31c0c6ef26f48
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: LucifersCircle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.spdmlite/
+Name: SPDMLite
+
+Package: com.idevicehacked.spdmlite
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle <luciferscircle@gmail.com>
+Installed-Size: 112
+Depends: mobilesubstrate, com.midnightchips.ldrun
+Filename: noDebsHere/Luci/com.idevicehacked.spdmlite_0.0.2_iphoneos-arm.deb
+Size: 8256
+MD5sum: 01557defa8e35fe12f50e7112fdaef79
+SHA1: d6f52d9f31337b995778c27e7cd4773ee3993e05
+SHA256: 994c656f80c7718071da2dace4306118f3a99633e580500424056a554b538611
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: LucifersCircle <luciferscircle@gmail.com>

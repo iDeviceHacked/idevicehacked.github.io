@@ -24,4 +24,9 @@
 		<change>Added Negative Toggle Where Necessary</change>
 		<change>Added The Ability to Change Number of Rows</change>      
 	</changes>	
+
+	<changes>
+	<version>0.1.1</version>
+	<change>Compiled for ARM64e</change>     
+	</changes>	
 </changelog>

@@ -170,4 +170,9 @@
         <change>If you hide the battery Icon in the status bar, the percentage text will now color based on lpm/charging/battery level!</change>
     </changes>
 
+    <changes>
+        <version>2.3.6</version>
+        <change>Compiled for ARM64e</change>
+    </changes>
+
 </changelog>
