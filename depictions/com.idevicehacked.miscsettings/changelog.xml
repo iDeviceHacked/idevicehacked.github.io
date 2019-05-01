@@ -175,4 +175,9 @@
         <change>Compiled for ARM64e</change>
     </changes>
 
+    <changes>
+        <version>2.3.7</version>
+        <change>Fixes settigns not working for ARM64e</change>
+    </changes>
+
 </changelog>
