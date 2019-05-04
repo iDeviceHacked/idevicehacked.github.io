@@ -180,4 +180,10 @@
         <change>Fixes settigns not working for ARM64e</change>
     </changes>
 
+    <changes>
+        <version>2.3.8</version>
+        <change>Fixes safemode crash for Non-A12 devices running version 2.3.4 or higher. This version removes percentage label coloring so if you are using that with no issues, don't update!</change>
+        <change>Removed debug options from release version</change>
+    </changes>
+
 </changelog>
