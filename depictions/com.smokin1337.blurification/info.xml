@@ -33,6 +33,7 @@
 
 		<description>Protect your notifications with a blur !!</description>
 		<description>Enable three ways, CC toggle, while recording, and when locked</description>
+		<description>The toggle state remains through resprings, so if it is enabled it will remain enabled after a respring</description>
 		<description>Disabling the CC toggle requires authentication as does the settings page</description>
 
 	</descriptionlist>

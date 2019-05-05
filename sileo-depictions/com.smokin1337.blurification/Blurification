@@ -56,6 +56,11 @@
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
+	{
+          "markdown": "The toggle state remains through resprings, so if it is enabled it will remain enabled after a respring",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
         {
           "markdown": "Disabling via CC toggle requires authentication as does the settings page",
           "useSpacing": true,
