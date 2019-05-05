@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/header/Blurification_Header.png",
+  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.blurification/header/Blurification_Header.png",
   "tintColor": "",
   "tabs": [
     {
@@ -18,18 +18,18 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot2.PNG?size=640",
-              "fullSizeURL": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot2.PNG"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot2.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot2.PNG"
             },
 	{
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot3.jpeg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot3.jpeg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot3.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot3.jpeg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG?size=640",
-              "fullSizeURL": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG"
             }
           ],
           "ipad": {
@@ -38,18 +38,18 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot2.PNG?size=640",
-                "fullSizeURL": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot2.PNG"
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot2.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot2.PNG"
               },
 	{
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot3.jpeg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot3.jpeg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot3.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot3.jpeg"
             },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG?size=640",
-                "fullSizeURL": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG"
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG"
               }
             ],
             "class": "DepictionScreenshotView"
