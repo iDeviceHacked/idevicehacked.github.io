@@ -1,0 +1,57 @@
+<package>
+	<id>com.smokin1337.barscape</id>
+	<name>Blurification</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+
+    <changelog>
+        <change>Initial release</change>
+    </changelog>
+
+    <screenshots>
+        <screenshot>
+            <description>BarScape</description>
+            <image>screenshot2.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description>BarScape</description>
+            <image>screenshot1.PNG</image>
+        </screenshot>
+    </screenshots>
+
+	<descriptionlist>
+
+		<description>Protect your notifications with a blur !!</description>
+		<description>Enable three ways, CC toggle, while recording, and when locked</description>
+		<description>Disabling the CC toggle requires authentication as does the settings page</description>
+
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+        <link>
+            <name>Buy smokin1337 a coffee</name>
+            <url>https://www.paypal.me/smokin1337</url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+	<link>
+		<name>Twitter</name>
+		<url>https://twitter.com/smokin1337</url>
+		<iconclass> fa fa-twitter</iconclass>
+		</link>
+    </links>
+</package>

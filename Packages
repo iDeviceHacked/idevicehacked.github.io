@@ -670,13 +670,14 @@ Maintainer: smokin1337
 Installed-Size: 1548
 Depends: mobilesubstrate
 Filename: noDebsHere/Smokin/com.smokin1337.blurification_1.0_iphoneos-arm.deb
-Size: 377186
-MD5sum: baf469d6c65f9b8deda5596bec117ce5
-SHA1: e32bf74444308283372350c4cb052b8f438a3663
-SHA256: 276c8d6b0b767d4f25169f193f8d94f901c385c85b7f53e9b94a3fab37f75393
+Size: 377358
+MD5sum: 7abc7ff8b8182357d1dd5442320e3b03
+SHA1: 08874290a0acb7414dac2301320f175a6efac921
+SHA256: 9e17927e40ad92a4985b1737a90258c409b2f98d71ed4f4fed526d2acb4bf441
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.blurification
 SileoDepiction: https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/Blurification
 Name: Blurification
 
