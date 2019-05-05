@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://idevicehacked/sileo-depictions/header/Blurification_Header.png",
+  "headerImage": "https://idevicehacked.com/sileo-depictions/header/Blurification_Header.png",
   "tintColor": "",
   "tabs": [
     {
@@ -18,8 +18,8 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked/sileo-depictions/screenshots/screenshot1.png?size=640",
-              "fullSizeURL": "https://idevicehacked/sileo-depictions/screenshots/screenshot1.png"
+              "url": "https://idevicehacked.com/sileo-depictions/screenshots/screenshot1.png?size=640",
+              "fullSizeURL": "https://idevicehacked.com/sileo-depictions/screenshots/screenshot1.png"
             }
           ],
           "ipad": {
@@ -29,7 +29,7 @@
               {
                 "accessibilityText": "Screenshot",
                 "url": "https://idevicehacked/sileo-depictions/screenshots/screenshot1.png?size=640",
-                "fullSizeURL": "https://idevicehacked/sileo-depictions/screenshots/screenshot1.png"
+                "fullSizeURL": "https://idevicehacked.com/sileo-depictions/screenshots/screenshot1.png"
               }
             ],
             "class": "DepictionScreenshotView"
