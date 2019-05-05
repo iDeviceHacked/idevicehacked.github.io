@@ -1,0 +1,123 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://idevicehacked/sileo-depictions/header/Blurification_Header.png",
+  "tintColor": "",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Blurification",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked/sileo-depictions/screenshots/screenshot1.png?size=640",
+              "fullSizeURL": "https://idevicehacked/sileo-depictions/screenshots/screenshot1.png"
+            }
+          ],
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 550.8266666666667}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked/sileo-depictions/screenshots/screenshot1.png?size=640",
+                "fullSizeURL": "https://idevicehacked/sileo-depictions/screenshots/screenshot1.png"
+              }
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": "Protect your notifications",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Known Issues",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "markdown": "None",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "2019/05/05",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "smokin1337",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Contact Support",
+          "action": "https://support.com",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+		{
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Initial Release",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/05/05</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}

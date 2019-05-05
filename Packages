@@ -663,6 +663,23 @@ Author: smokin1337
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.barscape
 Name: BarScape
 
+Package: com.smokin1337.blurification
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1548
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.blurification_1.0_iphoneos-arm.deb
+Size: 377186
+MD5sum: baf469d6c65f9b8deda5596bec117ce5
+SHA1: e32bf74444308283372350c4cb052b8f438a3663
+SHA256: 276c8d6b0b767d4f25169f193f8d94f901c385c85b7f53e9b94a3fab37f75393
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: smokin1337
+SileoDepiction: https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/
+Name: Blurification
+
 Package: com.smokin1337.fuupdatebadge
 Version: 1.0.0
 Architecture: iphoneos-arm
