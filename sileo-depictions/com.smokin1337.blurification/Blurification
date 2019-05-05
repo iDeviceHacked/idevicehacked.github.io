@@ -18,8 +18,8 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.png?size=640",
-              "fullSizeURL": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.png"
+              "url": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG"
             }
           ],
           "ipad": {
@@ -28,8 +28,8 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.png?size=640",
-                "fullSizeURL": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.png"
+                "url": "https://idevicehacked/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/screenshots/screenshot1.PNG"
               }
             ],
             "class": "DepictionScreenshotView"
