@@ -677,7 +677,7 @@ SHA256: 276c8d6b0b767d4f25169f193f8d94f901c385c85b7f53e9b94a3fab37f75393
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: smokin1337
-SileoDepiction: https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/Blurification/
+SileoDepiction: https://idevicehacked.com/sileo-depictions/com.smokin1337.blurification/Blurification
 Name: Blurification
 
 Package: com.smokin1337.fuupdatebadge
