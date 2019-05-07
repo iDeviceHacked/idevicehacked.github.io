@@ -57,9 +57,9 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Protect your notifications with a blur !!\n
-		Enable three ways, CC toggle, while recording, and when locked\n
-		The toggle state remains through resprings, so if it is enabled it will remain enabled after a respring\n
+          "markdown": "Protect your notifications with a blur !!\n\n
+		Enable three ways, CC toggle, while recording, and when locked\n\n
+		The toggle state remains through resprings, so if it is enabled it will remain enabled after a respring\n\n
 		Disabling the CC toggle requires authentication as does the settings page",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
