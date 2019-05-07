@@ -387,10 +387,10 @@ Maintainer: Lucifers Circle <luciferscircle@gmail.com>
 Installed-Size: 528
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.3.8_iphoneos-arm.deb
-Size: 60174
-MD5sum: cc808d867bc7b6ed6867ada509230cb8
-SHA1: 3084b50a9d5e324ae0c65deafdb488ba9de37efc
-SHA256: 9db312a7814df98194d40b60f6562a0e41db705d8b30609d675970b905a4ce26
+Size: 60164
+MD5sum: 1b820fb5315a830ad2ada64a56ac97ac
+SHA1: 23c34cd1ab55a99bcff3cbe54c8593710b4a8c22
+SHA256: 052d61c5bebb3b2515c158071095ecb2aa8c9268856880962c6d2975fd2ae37c
 Section: Tweaks
 Description: So far has 60+ Miscellaneous toggles!
 Author: Lucifers Circle <luciferscircle@gmail.com>
