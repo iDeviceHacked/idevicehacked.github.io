@@ -57,7 +57,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Protect your notifications with a blur !!",
+          "markdown": "<description>Protect your notifications with a blur !!</description>",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
