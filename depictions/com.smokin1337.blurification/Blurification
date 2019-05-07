@@ -134,7 +134,18 @@
     {
       "tabname": "Changelog",
       "views": [
-		{
+        {
+          "title": "1.0.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added switch to enable/disable settings page protection",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		   {
           "title": "1.0",
           "useBoldText": true,
           "useBottomMargin": true,

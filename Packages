@@ -678,9 +678,26 @@ Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: smokin1337
 Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.blurification
-SileoDepiction: https://www.idevicehacked.com/depictions/com.smokin1337.blurification/Blurification
+Name: Blurification
+
+Package: com.smokin1337.blurification
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1548
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.blurification_1.0.1_iphoneos-arm.deb
+Size: 377618
+MD5sum: 08075817cd0d00227d2422d99ac318e5
+SHA1: 67889487e62b6d73c9af03389e387abf34b62ed8
+SHA256: 7473c356398c33bdf6473b28598fe19383ef31b66525e1b2eaae418658b2bd9d
+Section: Tweaks
+Description: Protect your notifications!
+Author: smokin1337
+Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.blurification
 Icon: https://www.idevicehacked.com/depictions/com.smokin1337.blurification/icon.png
 Name: Blurification
+Sileodepiction: https://www.idevicehacked.com/depictions/com.smokin1337.blurification/Blurification
 
 Package: com.smokin1337.fuupdatebadge
 Version: 1.0.0
