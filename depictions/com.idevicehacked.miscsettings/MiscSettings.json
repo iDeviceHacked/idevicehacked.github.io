@@ -1,78 +1,98 @@
 {
-    "headerImage": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/sileoheader.jpg",
-    "minVersion": "0.1",
+    "class": "DepictionTabView",
     "tabs": [
         {
+            "tabname": "Details",
+            "class": "DepictionStackView",
             "views": [
                 {
-                    "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "MiscSettings",
-                    "class": "DepictionSubheaderView"
+                    "class": "DepictionSubheaderView",
+                    "useBoldText": true,
+                    "title": "MiscSettings"
                 },
                 {
                     "markdown": "MiscSettings is a free \"General\" tweak, with over 60 options, made for modern iOS versions! If you have a bug report or feature request, please email me in Sileo!",
-                    "class": "DepictionMarkdownView",
-                    "useSpacing": true
+                    "useSpacing": true,
+                    "class": "DepictionMarkdownView"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
+                    "itemCornerRadius": 6,
                     "screenshots": [
                         {
-                            "url": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/prefs.pnghttps://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/statusbarprefs.jpghttps://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/lsprefs.jpghttps://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/sbprefs.jpghttps://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/ccprefs.jpghttps://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/thankyou.jpg",
-                            "accessibilityText": "Screenshot0"
+                            "accessibilityText": "Screenshot0",
+                            "url": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/prefs.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot1",
+                            "url": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/statusbarprefs.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot2",
+                            "url": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/lsprefs.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot3",
+                            "url": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/sbprefs.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot4",
+                            "url": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/ccprefs.jpg"
+                        },
+                        {
+                            "accessibilityText": "Screenshot5",
+                            "url": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/thankyou.jpg"
                         }
                     ],
-                    "itemCornerRadius": 6,
                     "class": "DepictionScreenshotsView",
                     "itemSize": "{160, 275.41333333333336}"
                 },
                 {
-                    "useBoldText": true,
                     "useBottomMargin": false,
-                    "title": "markdown-description",
+                    "markdown": "Status Bar:\r\n        \r\n            - Hide LockScreen StatusBar\r\n            - Hide HomeScreen StatusBar\r\n            - Disable status bar in apps\r\n            - Hide Location\r\n            - Hide VPN\r\n            - Hide AirPlay\r\n            - Hide orientation lock\r\n            - Hide Bluetooth\r\n            - Hide Bluetooth Accessory\r\n            - Hide airplane\r\n            - Hide CarPlay\r\n            - Hide signal strength\r\n            - Hide carrier\r\n            - Hide WiFi\r\n            - Hide Do Not Disturb\r\n            - Hide Battery\r\n            - Hide charging icon\r\n            - Hide time\r\n            - Hide alarm\r\n            - Hide Breadcrumb\r\n            - Hide Lock\r\n            - Show status bar in folders\r\n            - Sync Sizes\r\n            - Custom Carrier\r\n            - Hide %\r\n        \r\n\r\n    Lock Screen:\r\n        \r\n            - Hide today view\r\n            - Hide \"Now Playing\"\r\n            - Set notification transparency\r\n            - Remove blur on NC\r\n            - Hide \"No Older Notifications\"\r\n            - Custom Notif + Widget corner radius\r\n            iPhoneX only:\r\n            - Hide unlock text\r\n            - Hide grabber\r\n            - Hide flashlight\r\n            - Hide camera\r\n            - Hide Lock\r\n            - Hide CC Grabber\r\n        \r\n\r\nSpringBoard:\r\n        \r\n        - Hide icon labels\r\n        - Hide page dots\r\n        - Hide updated dots\r\n        - Hide beta dots\r\n        - Show app download progress\r\n        - Pinch to close folders\r\n        - Close folders on app launch\r\n        - No folder animations\r\n        - Hide folder background\r\n        - Custom folder icon transparency\r\n        - Remove switcher blur\r\n        - Hide widgets page text\r\n        - Hide today view\r\n        - Disable SpotLight\r\n        - Disable large titles\r\n        - Disable paralax\r\n        - Hide 3rd party apps in Settings\r\n        - Hide icons in Settings\r\n        - Touch pass through animation\r\n        - Auto Hide Home Bar\r\n        \r\n     \r\n ControlCenter: \r\n        \r\n            - Add percentage to sliders\r\n            - Add battery percentage to LPM toggle\r\n            - Hide Chevron\r\n            - RealCC(disable wifi&bluetooth reconnect)\r\n            - Customize CC tints",
                     "class": "DepictionMarkdownView",
-                    "markdown": "Status Bar:<br/><br/>\r\n        <ul>\r\n            <li>Hide LockScreen StatusBar</li><br/>\r\n            <li>Hide HomeScreen StatusBar</li><br/>\r\n            <li>Disable status bar in apps</li><br/>\r\n            <li>Hide Location</li><br/>\r\n            <li>Hide VPN</li><br/>\r\n            <li>Hide AirPlay</li><br/>\r\n            <li>Hide orientation lock</li><br/>\r\n            <li>Hide Bluetooth</li><br/>\r\n            <li>Hide Bluetooth Accessory</li><br/>\r\n            <li>Hide airplane</li><br/>\r\n            <li>Hide CarPlay</li><br/>\r\n            <li>Hide signal strength</li><br/>\r\n            <li>Hide carrier</li><br/>\r\n            <li>Hide WiFi</li><br/>\r\n            <li>Hide Do Not Disturb</li><br/>\r\n            <li>Hide Battery</li><br/>\r\n            <li>Hide charging icon</li><br/>\r\n            <li>Hide time</li><br/>\r\n            <li>Hide alarm</li><br/>\r\n            <li>Hide Breadcrumb</li><br/>\r\n            <li>Hide Lock</li><br/>\r\n            <li>Show status bar in folders</li><br/>\r\n            <li>Sync Sizes</li><br/>\r\n            <li>Custom Carrier</li><br/>\r\n            <li>Hide %</li>\r\n        </ul>\r\n\r\n    Lock Screen:<br/><br/>\r\n        <ul>\r\n            <li>Hide today view</li><br/>\r\n            <li>Hide \"Now Playing\"</li><br/>\r\n            <li>Set notification transparency</li><br/>\r\n            <li>Remove blur on NC</li><br/>\r\n            <li>Hide \"No Older Notifications\"</li><br/>\r\n            <li>Custom Notif + Widget corner radius</li><br/>\r\n            iPhoneX only:<br/><br/>\r\n            <li>Hide unlock text</li><br/>\r\n            <li>Hide grabber</li><br/>\r\n            <li>Hide flashlight</li><br/>\r\n            <li>Hide camera</li><br/>\r\n            <li>Hide Lock</li><br/>\r\n            <li>Hide CC Grabber</li>\r\n        </ul>\r\n\r\nSpringBoard:<br/><br/>\r\n        <ul>\r\n        <li>Hide icon labels</li><br/>\r\n        <li>Hide page dots</li><br/>\r\n        <li>Hide updated dots</li><br/>\r\n        <li>Hide beta dots</li><br/>\r\n        <li>Show app download progress</li><br/>\r\n        <li>Pinch to close folders</li><br/>\r\n        <li>Close folders on app launch</li><br/>\r\n        <li>No folder animations</li><br/>\r\n        <li>Hide folder background</li><br/>\r\n        <li>Custom folder icon transparency</li><br/>\r\n        <li>Remove switcher blur</li><br/>\r\n        <li>Hide widgets page text</li><br/>\r\n        <li>Hide today view</li><br/>\r\n        <li>Disable SpotLight</li><br/>\r\n        <li>Disable large titles</li><br/>\r\n        <li>Disable paralax</li><br/>\r\n        <li>Hide 3rd party apps in Settings</li><br/>\r\n        <li>Hide icons in Settings</li><br/>\r\n        <li>Touch pass through animation</li><br/>\r\n        <li>Auto Hide Home Bar</li>\r\n        </ul>\r\n     \r\n ControlCenter: <br/><br/>\r\n        <ul>\r\n            <li>Add percentage to sliders</li><br/>\r\n            <li>Add battery percentage to LPM toggle</li><br/>\r\n            <li>Hide Chevron</li><br/>\r\n            <li>RealCC(disable wifi&bluetooth reconnect)</li><br/>\r\n            <li>Customize CC tints</li><br/>\r\n        </ul>"
+                    "useBoldText": true,
+                    "title": "markdown-description"
                 },
                 {
                     "class": "DepictionSeparatorView"
                 },
                 {
+                    "class": "DepictionTableTextView",
                     "text": "2.3.8",
-                    "title": "Version",
-                    "class": "DepictionTableTextView"
+                    "title": "Version"
                 },
                 {
+                    "class": "DepictionTableTextView",
                     "text": "05-07-2019",
-                    "title": "Released",
-                    "class": "DepictionTableTextView"
+                    "title": "Released"
                 },
                 {
+                    "class": "DepictionTableTextView",
                     "text": "Free",
-                    "title": "Price",
-                    "class": "DepictionTableTextView"
+                    "title": "Price"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 },
                 {
+                    "class": "DepictionTableTextView",
                     "text": "LucifersCircle",
-                    "title": "Developer",
-                    "class": "DepictionTableTextView"
+                    "title": "Developer"
                 },
                 {
-                    "spacing": 8,
-                    "class": "DepictionSpacerView"
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
                 }
-            ],
-            "tabname": "Details",
-            "class": "DepictionStackView"
+            ]
         }
     ],
-    "tintColor": "#0657bb",
-    "class": "DepictionTabView"
+    "headerImage": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/sileoheader.jpg",
+    "minVersion": "0.1",
+    "tintColor": "#0657bb"
 }
