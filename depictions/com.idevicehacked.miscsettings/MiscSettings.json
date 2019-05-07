@@ -1,0 +1,78 @@
+{
+    "headerImage": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/sileoheader.jpg",
+    "minVersion": "0.1",
+    "tabs": [
+        {
+            "views": [
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "MiscSettings",
+                    "class": "DepictionSubheaderView"
+                },
+                {
+                    "markdown": "MiscSettings is a free \"General\" tweak, with over 60 options, made for modern iOS versions! If you have a bug report or feature request, please email me in Sileo!",
+                    "class": "DepictionMarkdownView",
+                    "useSpacing": true
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "screenshots": [
+                        {
+                            "url": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/prefs.pnghttps://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/statusbarprefs.jpghttps://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/lsprefs.jpghttps://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/sbprefs.jpghttps://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/ccprefs.jpghttps://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/thankyou.jpg",
+                            "accessibilityText": "Screenshot0"
+                        }
+                    ],
+                    "itemCornerRadius": 6,
+                    "class": "DepictionScreenshotsView",
+                    "itemSize": "{160, 275.41333333333336}"
+                },
+                {
+                    "useBoldText": true,
+                    "useBottomMargin": false,
+                    "title": "markdown-description",
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Status Bar:<br/><br/>\r\n        <ul>\r\n            <li>Hide LockScreen StatusBar</li><br/>\r\n            <li>Hide HomeScreen StatusBar</li><br/>\r\n            <li>Disable status bar in apps</li><br/>\r\n            <li>Hide Location</li><br/>\r\n            <li>Hide VPN</li><br/>\r\n            <li>Hide AirPlay</li><br/>\r\n            <li>Hide orientation lock</li><br/>\r\n            <li>Hide Bluetooth</li><br/>\r\n            <li>Hide Bluetooth Accessory</li><br/>\r\n            <li>Hide airplane</li><br/>\r\n            <li>Hide CarPlay</li><br/>\r\n            <li>Hide signal strength</li><br/>\r\n            <li>Hide carrier</li><br/>\r\n            <li>Hide WiFi</li><br/>\r\n            <li>Hide Do Not Disturb</li><br/>\r\n            <li>Hide Battery</li><br/>\r\n            <li>Hide charging icon</li><br/>\r\n            <li>Hide time</li><br/>\r\n            <li>Hide alarm</li><br/>\r\n            <li>Hide Breadcrumb</li><br/>\r\n            <li>Hide Lock</li><br/>\r\n            <li>Show status bar in folders</li><br/>\r\n            <li>Sync Sizes</li><br/>\r\n            <li>Custom Carrier</li><br/>\r\n            <li>Hide %</li>\r\n        </ul>\r\n\r\n    Lock Screen:<br/><br/>\r\n        <ul>\r\n            <li>Hide today view</li><br/>\r\n            <li>Hide \"Now Playing\"</li><br/>\r\n            <li>Set notification transparency</li><br/>\r\n            <li>Remove blur on NC</li><br/>\r\n            <li>Hide \"No Older Notifications\"</li><br/>\r\n            <li>Custom Notif + Widget corner radius</li><br/>\r\n            iPhoneX only:<br/><br/>\r\n            <li>Hide unlock text</li><br/>\r\n            <li>Hide grabber</li><br/>\r\n            <li>Hide flashlight</li><br/>\r\n            <li>Hide camera</li><br/>\r\n            <li>Hide Lock</li><br/>\r\n            <li>Hide CC Grabber</li>\r\n        </ul>\r\n\r\nSpringBoard:<br/><br/>\r\n        <ul>\r\n        <li>Hide icon labels</li><br/>\r\n        <li>Hide page dots</li><br/>\r\n        <li>Hide updated dots</li><br/>\r\n        <li>Hide beta dots</li><br/>\r\n        <li>Show app download progress</li><br/>\r\n        <li>Pinch to close folders</li><br/>\r\n        <li>Close folders on app launch</li><br/>\r\n        <li>No folder animations</li><br/>\r\n        <li>Hide folder background</li><br/>\r\n        <li>Custom folder icon transparency</li><br/>\r\n        <li>Remove switcher blur</li><br/>\r\n        <li>Hide widgets page text</li><br/>\r\n        <li>Hide today view</li><br/>\r\n        <li>Disable SpotLight</li><br/>\r\n        <li>Disable large titles</li><br/>\r\n        <li>Disable paralax</li><br/>\r\n        <li>Hide 3rd party apps in Settings</li><br/>\r\n        <li>Hide icons in Settings</li><br/>\r\n        <li>Touch pass through animation</li><br/>\r\n        <li>Auto Hide Home Bar</li>\r\n        </ul>\r\n     \r\n ControlCenter: <br/><br/>\r\n        <ul>\r\n            <li>Add percentage to sliders</li><br/>\r\n            <li>Add battery percentage to LPM toggle</li><br/>\r\n            <li>Hide Chevron</li><br/>\r\n            <li>RealCC(disable wifi&bluetooth reconnect)</li><br/>\r\n            <li>Customize CC tints</li><br/>\r\n        </ul>"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "text": "2.3.8",
+                    "title": "Version",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "05-07-2019",
+                    "title": "Released",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "text": "Free",
+                    "title": "Price",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                },
+                {
+                    "text": "LucifersCircle",
+                    "title": "Developer",
+                    "class": "DepictionTableTextView"
+                },
+                {
+                    "spacing": 8,
+                    "class": "DepictionSpacerView"
+                }
+            ],
+            "tabname": "Details",
+            "class": "DepictionStackView"
+        }
+    ],
+    "tintColor": "#0657bb",
+    "class": "DepictionTabView"
+}
