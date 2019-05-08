@@ -5,13 +5,6 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                    "useBoldText": true,
-                    "class": "DepictionSubheaderView",
-                    "title": "",
-                    "useBottomMargin": false
-                },
-                {
-                    "useBoldText": true,
                     "markdown": "MiscSettings is a free \"General\" tweak, with over 60 options, made for modern iOS versions! If you have a bug report or feature request, please email me in Sileo!",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
@@ -69,7 +62,7 @@
                 {
                     "class": "DepictionTableTextView",
                     "title": "Released",
-                    "text": "05-08-2019"
+                    "text": "03-08-2018"
                 },
                 {
                     "class": "DepictionTableTextView",
