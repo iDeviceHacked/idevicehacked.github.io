@@ -130,9 +130,14 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "- Select custom colors for glow and border.",
-          "useSpacing": true,
-          "class": "DepictionMarkdownView"
+          "class": "<ul>
+              <li>Select custom colors for glow and border</li><br/>
+              <li>Edit border width</li><br/>
+              <li>Edit border corner radius</li><br/>
+              <li>Edit glow radius</li><br/>
+              <li>Edit glow opacity</li>
+          </ul>",
+          "useRawFormat": true,
         },
         {
           "class": "DepictionSeparatorView"
@@ -199,9 +204,9 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Added libcolorpicker as a dependency for real this time",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>Added libcolorpicker as a dependency for real this time</li></ul>",
+          "useRawFormat": true,
         },
         {
           "title": "1.0.3",
@@ -210,9 +215,9 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Mostly bug fixes",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>Mostly Bug Fixes</li></ul>",
+          "useRawFormat": true,
         },
         {
           "title": "1.0.4",
@@ -221,9 +226,9 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Added the ability to change all the other modules and cc background",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>Added change other modules and cc background</li></ul>",
+          "useRawFormat": true
         },
         {
           "title": "1.0.5",
@@ -232,12 +237,12 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\n- Added support for PowerModule
-    			\n- Fixed text size module
-    			\n- Fixed the border showing around the module title while expanded
-    			\n- Partially fixed the live listen module (still have to remove the background)",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>Added support for PowerModule</li>
+    			<li>Fixed text size module</li>
+    			<li>Fixed the border showing around the module title while expanded</li>
+    			<li>Partially fixed the live listen module (still have to remove the background)</li></ul>",
+          "useRawFormat": true
         },
         {
           "title": "1.0.6",
@@ -246,12 +251,12 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "- CC Background is now independent from the other settings
-    			\n- Added remove or keep button/module backgrounds (also independent from other settings)
-    			\n- Fixed an issue in ios 11 where the mediaplayer background stayed
-    			\n- Live listen still needs fixed (I really hate this module !!)",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>CC Background is now independent from the other settings</li>
+    			<li> Added remove or keep button/module backgrounds (also independent from other settings)</li>
+    			<li> Fixed an issue in ios 11 where the mediaplayer background stayed</li>
+    			<li> Live listen still needs fixed (I really hate this module !!)</li></ul>",
+          "useRawFormat": true
         },
         {
           "title": "1.0.6-1",
@@ -260,9 +265,9 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Changed settings around to better explain things",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>Changed settings around to better explain things</ul></li>",
+          "useRawFormat": true
         },
         {
           "title": "1.0.6-3",
@@ -271,9 +276,9 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Fixed effects not being applied to the WiFi toggle for Chinese users",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>Fixed effects not being applied to the WiFi toggle for Chinese users</ul></li>",
+          "useRawFormat": true
         },
         {
           "title": "1.0.7",
@@ -282,9 +287,9 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Updated for arm64e(A12)",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>Updated for arm64e(A12)</ul></li>",
+          "useRawFormat": true
         },
         {
           "title": "1.0.1",
@@ -293,9 +298,9 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Added libcolorpicker as a dependency",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>Added libcolorpicker as a dependency</ul></li>",
+          "useRawFormat": true
         },
 		   {
           "title": "1.0",
@@ -304,14 +309,14 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Initial Release",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
+          "class": "DepictionMarkdownView",
+          "markdown": "<ul><li>Initial Release</ul></li>",
+          "useRawFormat": true
         },
         {
+          "class": "DepictionMarkdownView",
           "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/05/05</small>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
+          "useRawFormat": true
         }
       ],
       "class": "DepictionStackView"
