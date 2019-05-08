@@ -130,11 +130,7 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "- Select custom colors for glow and border.
-              \n- Edit border width.
-              \n- Edit border corner radius.
-              \n- Edit glow radius.
-              \n- Edit glow opacity.",
+          "markdown": "- Select custom colors for glow and border.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
