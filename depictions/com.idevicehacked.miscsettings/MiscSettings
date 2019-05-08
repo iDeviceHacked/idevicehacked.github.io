@@ -47,10 +47,39 @@
                 {
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
-                    "markdown": "Status Bar:\r\n - Hide LockScreen StatusBar\r\n - Hide HomeScreen StatusBar\r\n - Disable status bar in apps\r\n - Hide Location\r\n - Hide VPN\r\n - Hide AirPlay\r\n - Hide orientation lock\r\n - Hide Bluetooth\r\n - Hide Bluetooth Accessory\r\n - Hide airplane\r\n - Hide CarPlay\r\n - Hide signal strength\r\n - Hide carrier\r\n - Hide WiFi\r\n - Hide Do Not Disturb\r\n - Hide Battery\r\n - Hide charging icon\r\n - Hide time\r\n - Hide alarm\r\n - Hide Breadcrumb\r\n - Hide Lock\r\n - Show status bar in folders\r\n - Sync Sizes\r\n - Custom Carrier\r\n - Hide %\r\n \r\n \r\nLock Screen:\r\n - Hide today view\r\n - Hide \"Now Playing\"\r\n - Set notification transparency\r\n - Remove blur on NC\r\n - Hide \"No Older Notifications\"\r\n - Custom Notif + Widget corner radius\r\n\r\n iPhoneX only:\r\n - Hide unlock text\r\n - Hide grabber\r\n - Hide flashlight\r\n - Hide camera\r\n - Hide Lock\r\n - Hide CC Grabber\r\n \r\nSpringBoard:\r\n - Hide icon labels\r\n - Hide page dots\r\n - Hide updated dots\r\n - Hide beta dots\r\n - Show app download progress\r\n - Pinch to close folders\r\n - Close folders on app launch\r\n - No folder animations\r\n - Hide folder background\r\n - Custom folder icon transparency\r\n - Remove switcher blur\r\n - Hide widgets page text\r\n - Hide today view\r\n - Disable SpotLight\r\n - Disable large titles\r\n - Disable paralax\r\n - Hide 3rd party apps in Settings\r\n - Hide icons in Settings\r\n - Touch pass through animation\r\n - Auto Hide Home Bar\r\n \r\n ControlCenter: \r\n - Add percentage to sliders\r\n - Add battery percentage to LPM toggle\r\n - Hide Chevron\r\n - RealCC(disable wifi&bluetooth reconnect)\r\n - Customize CC tints",
+                    "markdown": "Status Bar:\r\n - Hide LockScreen StatusBar\r\n - Hide HomeScreen StatusBar\r\n - Disable status bar in apps\r\n - Hide Location\r\n - Hide VPN\r\n - Hide AirPlay\r\n - Hide orientation lock\r\n - Hide Bluetooth\r\n - Hide Bluetooth Accessory\r\n - Hide airplane\r\n - Hide CarPlay\r\n - Hide signal strength\r\n - Hide carrier\r\n - Hide WiFi\r\n - Hide Do Not Disturb\r\n - Hide Battery\r\n - Hide charging icon\r\n - Hide time\r\n - Hide alarm\r\n - Hide Breadcrumb\r\n - Hide Lock\r\n - Show status bar in folders\r\n - Sync Sizes\r\n - Custom Carrier\r\n - Hide %",
                     "title": "markdown-description",
                     "useBottomMargin": false
                 },
+                {
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Lock Screen:\r\n - Hide today view\r\n - Hide \"Now Playing\"\r\n - Set notification transparency\r\n - Remove blur on NC\r\n - Hide \"No Older Notifications\"\r\n - Custom Notif + Widget corner radius",
+                    "title": "markdown-description",
+                    "useBottomMargin": false
+                },
+                {
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "iPhoneX only:\r\n - Hide unlock text\r\n - Hide grabber\r\n - Hide flashlight\r\n - Hide camera\r\n - Hide Lock\r\n - Hide CC Grabber",
+                    "title": "markdown-description",
+                    "useBottomMargin": false
+                },
+                {
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "SpringBoard:\r\n - Hide icon labels\r\n - Hide page dots\r\n - Hide updated dots\r\n - Hide beta dots\r\n - Show app download progress\r\n - Pinch to close folders\r\n - Close folders on app launch\r\n - No folder animations\r\n - Hide folder background\r\n - Custom folder icon transparency\r\n - Remove switcher blur\r\n - Hide widgets page text\r\n - Hide today view\r\n - Disable SpotLight\r\n - Disable large titles\r\n - Disable paralax\r\n - Hide 3rd party apps in Settings\r\n - Hide icons in Settings\r\n - Touch pass through animation\r\n - Auto Hide Home Bar\r\n \r\n ControlCenter: \r\n - Add percentage to sliders\r\n - Add battery percentage to LPM toggle\r\n - Hide Chevron\r\n - RealCC(disable wifi&bluetooth reconnect)\r\n - Customize CC tints",
+                    "title": "markdown-description",
+                    "useBottomMargin": false
+                },
+                {
+                    "useBoldText": true,
+                    "class": "DepictionMarkdownView",
+                    "markdown": "ControlCenter: \r\n - Add percentage to sliders\r\n - Add battery percentage to LPM toggle\r\n - Hide Chevron\r\n - RealCC(disable wifi&bluetooth reconnect)\r\n - Customize CC tints",
+                    "title": "markdown-description",
+                    "useBottomMargin": false
+                },
+
                 {
                     "class": "DepictionSeparatorView"
                 },
