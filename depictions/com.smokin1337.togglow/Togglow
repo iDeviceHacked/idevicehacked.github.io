@@ -130,13 +130,11 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": " <ul>
-              <li>Select custom colors for glow and border</li><br/>
-              <li>Edit border width</li><br/>
-              <li>Edit border corner radius</li><br/>
-              <li>Edit glow radius</li><br/>
-              <li>Edit glow opacity</li>
-          </ul>",
+          "markdown": "*Select custom colors for glow and border
+              *Edit border width
+              *Edit border corner radius
+              *Edit glow radius
+              *Edit glow opacity",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -238,10 +236,10 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 <ul><li>Added support for PowerModule</li>
-    			<li>Fixed text size module</li>
-    			<li>Fixed the border showing around the module title while expanded</li>
-    			<li>Partially fixed the live listen module (still have to remove the background)</li></ul>",
+          "markdown": "\t\n\u2022 *Added support for PowerModule
+    			*Fixed text size module
+    			*Fixed the border showing around the module title while expanded
+    			*Partially fixed the live listen module (still have to remove the background)",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
@@ -252,10 +250,10 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 <ul><li>CC Background is now independent from the other settings</li>
-    			<li>Added remove or keep button/module backgrounds (also independent from other settings)</li>
-    			<li>Fixed an issue in ios 11 where the mediaplayer background stayed</li>
-    			<li>Live listen still needs fixed (I really hate this module !!)</li></ul>",
+          "markdown": "\t\n\u2022 <ul>*CC Background is now independent from the other settings
+    			*Added remove or keep button/module backgrounds (also independent from other settings)
+    			*Fixed an issue in ios 11 where the mediaplayer background stayed
+    			*Live listen still needs fixed (I really hate this module !!)",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
