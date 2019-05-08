@@ -387,16 +387,16 @@ Maintainer: Lucifers Circle <luciferscircle@gmail.com>
 Installed-Size: 528
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.3.8_iphoneos-arm.deb
-Size: 60164
-MD5sum: 1b820fb5315a830ad2ada64a56ac97ac
-SHA1: 23c34cd1ab55a99bcff3cbe54c8593710b4a8c22
-SHA256: 052d61c5bebb3b2515c158071095ecb2aa8c9268856880962c6d2975fd2ae37c
+Size: 60278
+MD5sum: dfd2d7cef94392977e2a80c31f0fdd71
+SHA1: c63870d13f90c060dbed719c35bfd06f228c29bd
+SHA256: 56e9788c42f42d526bee33efc560d2e0456229873f6e48d722cbd7c307c7de32
 Section: Tweaks
 Description: So far has 60+ Miscellaneous toggles!
 Author: Lucifers Circle <luciferscircle@gmail.com>
 Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
 Name: MiscSettings
-Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.miscsettings/MiscSettings
+Sileodepiction: https://idevicehacked.com/depictions/MiscSettings
 
 Package: com.idevicehacked.neostheme
 Version: 1.0
