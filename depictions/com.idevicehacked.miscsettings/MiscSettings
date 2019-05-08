@@ -56,29 +56,43 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "Lock Screen:\r\n - Hide today view\r\n - Hide \"Now Playing\"\r\n - Set notification transparency\r\n - Remove blur on NC\r\n - Hide \"No Older Notifications\"\r\n - Custom Notif + Widget corner radius",
                     "title": "markdown-description",
-                    "useBottomMargin": true
+                    "useBottomMargin": false
                 },
                 {
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
                     "markdown": "iPhoneX only:\r\n - Hide unlock text\r\n - Hide grabber\r\n - Hide flashlight\r\n - Hide camera\r\n - Hide Lock\r\n - Hide CC Grabber",
                     "title": "markdown-description",
-                    "useBottomMargin": true
+                    "useBottomMargin": false
                 },
                 {
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
                     "markdown": "SpringBoard:\r\n - Hide icon labels\r\n - Hide page dots\r\n - Hide updated dots\r\n - Hide beta dots\r\n - Show app download progress\r\n - Pinch to close folders\r\n - Close folders on app launch\r\n - No folder animations\r\n - Hide folder background\r\n - Custom folder icon transparency\r\n - Remove switcher blur\r\n - Hide widgets page text\r\n - Hide today view\r\n - Disable SpotLight\r\n - Disable large titles\r\n - Disable paralax\r\n - Hide 3rd party apps in Settings\r\n - Hide icons in Settings\r\n - Touch pass through animation\r\n - Auto Hide Home Bar",
                     "title": "markdown-description",
-                    "useBottomMargin": true
+                    "useBottomMargin": false
                 },
                 {
                     "useBoldText": true,
                     "class": "DepictionMarkdownView",
                     "markdown": "ControlCenter: \r\n - Add percentage to sliders\r\n - Add battery percentage to LPM toggle\r\n - Hide Chevron\r\n - RealCC(disable wifi&bluetooth reconnect)\r\n - Customize CC tints",
                     "title": "markdown-description",
-                    "useBottomMargin": true
+                    "useBottomMargin": false
                 },
+                {
+                    "tabname": "Changelog",
+                    "views": [
+                    {
+                    "title": "2.3.8",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+        },
+        {
+                    "markdown": "- Updated for ARM64e",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+        },
 
                 {
                     "class": "DepictionSeparatorView"
