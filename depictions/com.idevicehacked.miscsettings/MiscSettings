@@ -114,52 +114,7 @@
             "tabname": "Details"
         }
     ],
-    "class": "DepictionStackView"
-},
-   {
-      "tabname": "Changelog",
-      "views": [
-        {
-          "title": "1.0.1",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\n\u2022 Added switch to enable/disable settings page protection",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-           {
-          "title": "1.0",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "markdown": "\t\n\u2022 Initial Release",
-          "useSpacing": false,
-          "class": "DepictionMarkdownView"
-        },
-        {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/05/05</small>",
-          "class": "DepictionMarkdownView"
-        }
-      ],
-      "class": "DepictionStackView"
-    }
-
-    ],
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "minVersion": "0.1"
 }
-
-
-
-
-
-
-
-
-
