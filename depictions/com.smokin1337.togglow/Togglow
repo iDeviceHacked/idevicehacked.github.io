@@ -1,0 +1,327 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.togglow/header/Togglow_Header.png",
+  "tintColor": "",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Togglow",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.PNG"
+            },
+	{
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot6.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot6.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot7.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot7.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot8.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot8.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot9.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot9.PNG"
+            }
+          ],
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 550.8266666666667}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.PNG"
+              },
+	{
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg"
+            },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.PNG"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.PNG"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.PNG"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot6.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot6.PNG"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot7.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot7.PNG"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot8.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot8.PNG"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot9.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot9.PNG"
+              }
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": " Make your connectivity module glow !! /n/n
+           Change the look of your connectivity module in the control center /n/n
+           You can customize each button individually or apply unified settings to all buttons /n/n
+           Uses stock colors when custom colors are disabled /n/n
+           Custom settings for when the switch is on and when it is off (connectivity module only) /n/n
+           To apply settings simply expand the connectivity module /n/n
+      		 Customize all the modules /n/n
+      		 Customize the control center background, you can make it a gradient which you select four colors to make or a solid color you choose /n/n
+      		 Compatible with most other CC tweaks",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": " <ul>
+              <li>Select custom colors for glow and border</li><br/>
+              <li>Edit border width</li><br/>
+              <li>Edit border corner radius</li><br/>
+              <li>Edit glow radius</li><br/>
+              <li>Edit glow opacity</li>
+          </ul>",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Known Issues",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "markdown": "None",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0.7",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "2019/02/10",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "smokin1337",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Follow Me on Twitter",
+          "action": "https://twitter.com/smokin1337",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "1.0.2",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added libcolorpicker as a dependency for real this time",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.0.3",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Mostly bug fixes",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.0.4",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added the ability to change all the other modules and cc background",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.0.5",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 <ul><li>Added support for PowerModule</li>
+    			<li>Fixed text size module</li>
+    			<li>Fixed the border showing around the module title while expanded</li>
+    			<li>Partially fixed the live listen module (still have to remove the background)</li></ul>",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.0.6",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 <ul><li>CC Background is now independent from the other settings</li>
+    			<li>Added remove or keep button/module backgrounds (also independent from other settings)</li>
+    			<li>Fixed an issue in ios 11 where the mediaplayer background stayed</li>
+    			<li>Live listen still needs fixed (I really hate this module !!)</li></ul>",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.0.6-1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Changed settings around to better explain things",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.0.6-3",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Fixed effects not being applied to the WiFi toggle for Chinese users",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.0.7",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Updated for arm64e(A12)",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "title": "1.0.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Added libcolorpicker as a dependency",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+		   {
+          "title": "1.0",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "\t\n\u2022 Initial Release",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/05/05</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
