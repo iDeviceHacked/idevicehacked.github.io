@@ -7,11 +7,12 @@
                 {
                     "useBoldText": true,
                     "class": "DepictionSubheaderView",
-                    "title": "MiscSettings is a free \"General\" tweak, with over 60 options, made for modern iOS versions! If you have a bug report or feature request, please email me in Sileo!",
+                    "title": "",
                     "useBottomMargin": false
                 },
                 {
-                    "markdown": "",
+                    "useBoldText": true,
+                    "markdown": "MiscSettings is a free \"General\" tweak, with over 60 options, made for modern iOS versions! If you have a bug report or feature request, please email me in Sileo!",
                     "useSpacing": true,
                     "class": "DepictionMarkdownView"
                 },
