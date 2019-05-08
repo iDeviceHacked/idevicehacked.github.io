@@ -130,11 +130,11 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "*Select custom colors for glow and border
-              *Edit border width
-              *Edit border corner radius
-              *Edit glow radius
-              *Edit glow opacity",
+          "markdown": "\t\n\u2022 Select custom colors for glow and border
+              \t\n\u2022 Edit border width
+              \t\n\u2022 Edit border corner radius
+              \t\n\u2022 Edit glow radius
+              \t\n\u2022 Edit glow opacity",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -236,10 +236,10 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 *Added support for PowerModule
-    			*Fixed text size module
-    			*Fixed the border showing around the module title while expanded
-    			*Partially fixed the live listen module (still have to remove the background)",
+          "markdown": "\t\n\u2022 Added support for PowerModule
+    			\t\n\u2022 Fixed text size module
+    			\t\n\u2022 Fixed the border showing around the module title while expanded
+    			\t\n\u2022 Partially fixed the live listen module (still have to remove the background)",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
@@ -250,10 +250,10 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 <ul>*CC Background is now independent from the other settings
-    			*Added remove or keep button/module backgrounds (also independent from other settings)
-    			*Fixed an issue in ios 11 where the mediaplayer background stayed
-    			*Live listen still needs fixed (I really hate this module !!)",
+          "markdown": "\t\n\u2022 CC Background is now independent from the other settings
+    			\t\n\u2022 Added remove or keep button/module backgrounds (also independent from other settings)
+    			\t\n\u2022 Fixed an issue in ios 11 where the mediaplayer background stayed
+    			\t\n\u2022 Live listen still needs fixed (I really hate this module !!)",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
