@@ -117,7 +117,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": " Make your connectivity module glow !! \n
+          "markdown": "Make your connectivity module glow !! \n
            Change the look of your connectivity module in the control center \n
            You can customize each button individually or apply unified settings to all buttons \n
            Uses stock colors when custom colors are disabled /n/n
@@ -130,11 +130,11 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "\t\n\u2022 Select custom colors for glow and border
-              \t\n\u2022 Edit border width
-              \t\n\u2022 Edit border corner radius
-              \t\n\u2022 Edit glow radius
-              \t\n\u2022 Edit glow opacity",
+          "markdown": "- Select custom colors for glow and border.
+              \n- Edit border width.
+              \n- Edit border corner radius.
+              \n- Edit glow radius.
+              \n- Edit glow opacity.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -236,10 +236,10 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 Added support for PowerModule
-    			\t\n\u2022 Fixed text size module
-    			\t\n\u2022 Fixed the border showing around the module title while expanded
-    			\t\n\u2022 Partially fixed the live listen module (still have to remove the background)",
+          "markdown": "\n- Added support for PowerModule
+    			\n- Fixed text size module
+    			\n- Fixed the border showing around the module title while expanded
+    			\n- Partially fixed the live listen module (still have to remove the background)",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
@@ -250,10 +250,10 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "\t\n\u2022 CC Background is now independent from the other settings
-    			\t\n\u2022 Added remove or keep button/module backgrounds (also independent from other settings)
-    			\t\n\u2022 Fixed an issue in ios 11 where the mediaplayer background stayed
-    			\t\n\u2022 Live listen still needs fixed (I really hate this module !!)",
+          "markdown": "- CC Background is now independent from the other settings
+    			\n- Added remove or keep button/module backgrounds (also independent from other settings)
+    			\n- Fixed an issue in ios 11 where the mediaplayer background stayed
+    			\n- Live listen still needs fixed (I really hate this module !!)",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
