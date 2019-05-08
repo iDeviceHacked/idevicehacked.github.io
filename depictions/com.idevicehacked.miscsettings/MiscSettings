@@ -80,21 +80,6 @@
                     "useBottomMargin": false
                 },
                 {
-                    "tabname": "Changelog",
-                    "views": [
-                    {
-                    "title": "2.3.8",
-                    "useBoldText": true,
-                    "useBottomMargin": true,
-                    "class": "DepictionSubheaderView"
-        },
-        {
-                    "markdown": "- Updated for ARM64e",
-                    "useSpacing": false,
-                    "class": "DepictionMarkdownView"
-        },
-
-                {
                     "class": "DepictionSeparatorView"
                 },
                 {
@@ -127,6 +112,23 @@
                 }
             ],
             "tabname": "Details"
+                            
+        {
+
+                    "tabname": "Changelog",
+                    "views": [
+                    {
+                    "title": "2.3.8",
+                    "useBoldText": true,
+                    "useBottomMargin": true,
+                    "class": "DepictionSubheaderView"
+        },
+        {
+                    "markdown": "- Updated for ARM64e",
+                    "useSpacing": false,
+                    "class": "DepictionMarkdownView"
+        },
+
         }
     ],
     "class": "DepictionTabView",
