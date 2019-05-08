@@ -112,9 +112,11 @@
                 }
             ],
             "tabname": "Details"
-        },
-
-            {
+        }
+    ],
+    "class": "DepictionStackView"
+},
+   {
       "tabname": "Changelog",
       "views": [
         {
@@ -141,13 +143,23 @@
         },
         {
           "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/05/05</small>",
-          "useRawFormat": true,
           "class": "DepictionMarkdownView"
         }
       ],
-      }
+      "class": "DepictionStackView"
+    }
+
     ],
     "class": "DepictionTabView",
     "tintColor": "#0657bb",
     "minVersion": "0.1"
 }
+
+
+
+
+
+
+
+
+
