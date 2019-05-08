@@ -117,14 +117,14 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": " Make your connectivity module glow !! /n/n
-           Change the look of your connectivity module in the control center /n/n
-           You can customize each button individually or apply unified settings to all buttons /n/n
+          "markdown": " Make your connectivity module glow !! \n
+           Change the look of your connectivity module in the control center \n
+           You can customize each button individually or apply unified settings to all buttons \n
            Uses stock colors when custom colors are disabled /n/n
-           Custom settings for when the switch is on and when it is off (connectivity module only) /n/n
-           To apply settings simply expand the connectivity module /n/n
-      		 Customize all the modules /n/n
-      		 Customize the control center background, you can make it a gradient which you select four colors to make or a solid color you choose /n/n
+           Custom settings for when the switch is on and when it is off (connectivity module only) \n
+           To apply settings simply expand the connectivity module \n
+      		 Customize all the modules \n
+      		 Customize the control center background, you can make it a gradient which you select four colors to make or a solid color you choose \n
       		 Compatible with most other CC tweaks",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
