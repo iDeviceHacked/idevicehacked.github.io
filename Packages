@@ -738,17 +738,18 @@ Package: com.smokin1337.powerswitch
 Version: 1.0.3
 Architecture: iphoneos-arm
 Maintainer: smokin1337
-Installed-Size: 612
+Installed-Size: 580
 Depends: mobilesubstrate, com.midnightchips.ldrun
 Filename: noDebsHere/Smokin/com.smokin1337.powerswitch_1.0.3_iphoneos-arm.deb
-Size: 119066
-MD5sum: 57953723cb444962d66641dc001c3421
-SHA1: 1258f3fcdc20bd55b0995e72f921dbd7fb585cd1
-SHA256: c4fc68b7e2a555e0d8fdc5b6d4a3d5d9ab0addb25caa9ac5572376be0bc3925e
+Size: 117858
+MD5sum: 7665930ff8470fd5e84b99ff0d7a057d
+SHA1: 29ee5bb4dd728e767d3126961e803a572574fd53
+SHA256: dd07fa901efde984300a5ff16ba13bff921023827b2cb13c29fb356b9076dad2
 Section: Tweaks
 Description: An awesome button!
 Author: smokin1337
 Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitch
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.powerswitch/icon.png
 Name: PowerSwitch
 
 Package: com.smokin1337.sleeptoggle

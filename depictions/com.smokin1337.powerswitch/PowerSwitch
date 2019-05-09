@@ -1,0 +1,183 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/header/PowerSwitch_Header.png",
+  "tintColor": "",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "PowerSwitch",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg"
+            },
+	{
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.jpg"
+            }
+          ],
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 550.8266666666667}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg"
+              },
+	{
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg"
+            },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.jpg"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.jpg"
+              }
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Clear apps and access a beautiful power menu in the switcher\r\n Fully customizable button\r\n Preview changes to the button in real time in the settings pane\r\n To access the power menu long press the clear apps button\r\n Does not kill now playing apps\r\n Respring to apply settings",
+          "title": "markdown-description",
+          "useSpacing": true,
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Known Issues",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "markdown": "None",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0.3",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "2019/02/10",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "smokin1337",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Follow Me on Twitter",
+          "action": "https://twitter.com/smokin1337",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+           "title": "1.0",
+           "useBoldText": true,
+           "useBottomMargin": true,
+           "class": "DepictionSubheaderView"
+         },
+         {
+           "class": "DepictionMarkdownView",
+           "markdown": "Initial Release"
+         },
+        {
+          "title": "1.0.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Added ability to disable haptic feedback"
+        },
+        {
+          "title": "1.0.3",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Updated for arm64e(A12)"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/02/10</small>",
+          "useRawFormat": true
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
