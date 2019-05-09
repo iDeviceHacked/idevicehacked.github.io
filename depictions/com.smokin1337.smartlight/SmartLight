@@ -1,0 +1,139 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.smartlight/header/SmartLight_Header.png",
+  "tintColor": "",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "PowerSwitch",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Activate flashlight by pressing VolumeDown + Power\r\n Adjust light brightness with volume up and volume down buttons (Whenever the light is on, even when activated normally)",
+          "title": "markdown-description",
+          "useSpacing": true,
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Known Issues",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "markdown": "None",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0.4",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "2019/03/24",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "smokin1337",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Follow Me on Twitter",
+          "action": "https://twitter.com/smokin1337",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+           "title": "1.0",
+           "useBoldText": true,
+           "useBottomMargin": true,
+           "class": "DepictionSubheaderView"
+         },
+         {
+           "class": "DepictionMarkdownView",
+           "markdown": "Initial Release"
+         },
+        {
+          "title": "1.0.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Fixed issue where flashlight was not activating for some users"
+        },
+        {
+          "title": "1.0.2",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Fixed safemode for some devices when turning off flashlight on iOS 11.x"
+        },
+        {
+          "title": "1.0.3",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Now volume up increases brightness and volume down decreases brightness while flashlight is on\r\n- Made volume buttons not increase/decrease volume while the flashlight is on"
+        },
+        {
+          "title": "1.0.4",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Updated for arm64e(A12)"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/03/24</small>",
+          "useRawFormat": true
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
