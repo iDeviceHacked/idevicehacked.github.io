@@ -18,28 +18,28 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot1.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot1.jpg"
             },
 	{
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot2.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot2.jpeg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot3.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot3.jpg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.jpg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.jpg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot4.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot4.jpg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.jpg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.jpg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot5.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot5.jpg"
             }
           ],
           "ipad": {
@@ -48,28 +48,28 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg?size=640",
-                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg"
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot1.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot1.jpg"
               },
 	{
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot2.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot2.jpeg"
             },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg?size=640",
-                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg"
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot3.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot3.jpg"
               },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.jpg?size=640",
-                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot4.jpg"
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot4.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot4.jpg"
               },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.jpg?size=640",
-                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot5.jpg"
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot5.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.powerswitch/screenshots/screenshot5.jpg"
               }
             ],
             "class": "DepictionScreenshotView"
