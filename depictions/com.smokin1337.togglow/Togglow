@@ -117,27 +117,16 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "<p>Make your connectivity module glow !! \n
-           Change the look of your connectivity module in the control center \n
-           You can customize each button individually or apply unified settings to all buttons \n
-           Uses stock colors when custom colors are disabled /n/n
-           Custom settings for when the switch is on and when it is off (connectivity module only) \n
-           To apply settings simply expand the connectivity module \n
-      		 Customize all the modules \n
-      		 Customize the control center background, you can make it a gradient which you select four colors to make or a solid color you choose \n
-      		 Compatible with most other CC tweaks<\/p>",
-          "useRawFormat": true
+          "class": "DepictionMarkdownView",
+          "markdown": "Make your connectivity module glow !! \r\n Change the look of your connectivity module in the control center\r\n You can customize each button individually or apply unified settings to all buttons\r\n Uses stock colors when custom colors are disabled\r\n Custom settings for when the switch is on and when it is off (connectivity module only)\r\n To apply settings simply expand the connectivity module\r\n Customize all the modules\r\n Customize the control center background, you can make it a gradient which you select four colors to make or a solid color you choose\r\n Compatible with most other CC tweaks",
+          "title": "markdown-description",
+          "useSpacing": true,
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n
-              <li>Select custom colors for glow and border<\/li>
-              <li>Edit border width<\/li>
-              <li>Edit border corner radius<\/li>
-              <li>Edit glow radius</li><br/>
-              <li>Edit glow opacity<\/li>\n
-          </ul>",
-          "useRawFormat": true
+          "markdown": "\r\n - Select custom colors for glow and border\r\n - Edit border width\r\n - Edit border corner radius\r\n - Edit glow radius\r\n - Edit glow opacity",
+          "title": "markdown-description",
+          "useBottomMargin": false
         },
         {
           "class": "DepictionSeparatorView"
@@ -198,6 +187,26 @@
       "tabname": "Changelog",
       "views": [
         {
+           "title": "1.0",
+           "useBoldText": true,
+           "useBottomMargin": true,
+           "class": "DepictionSubheaderView"
+         },
+         {
+           "class": "DepictionMarkdownView",
+           "markdown": "Initial Release"
+         },
+        {
+          "title": "1.0.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Added libcolorpicker as a dependency"
+        },
+        {
           "title": "1.0.2",
           "useBoldText": true,
           "useBottomMargin": true,
@@ -205,8 +214,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added libcolorpicker as a dependency for real this time<\/li>\n<\/ul>",
-          "useRawFormat": true,
+          "markdown": "Added libcolorpicker as a dependency for real this time"
         },
         {
           "title": "1.0.3",
@@ -216,8 +224,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Mostly Bug Fixes<\/li>\n<\/ul>",
-          "useRawFormat": true,
+          "markdown": "Mostly Bug Fixes"
         },
         {
           "title": "1.0.4",
@@ -227,8 +234,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added change other modules and cc background<\/li>\n<\/ul>",
-          "useRawFormat": true
+          "markdown": "Added change other modules and cc background"
         },
         {
           "title": "1.0.5",
@@ -238,11 +244,8 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added support for PowerModule<\/li>
-    			<li>Fixed text size module<\/li>
-    			<li>Fixed the border showing around the module title while expanded<\/li>
-    			<li>Partially fixed the live listen module (still have to remove the background)<\/li>\n<\/ul>",
-          "useRawFormat": true
+          "markdown": "Added support for PowerModule\r\n - Fixed text size module\r\n - Fixed the border showing around the module title while expanded\r\n - Partially fixed the live listen module (still have to remove the background)"
+
         },
         {
           "title": "1.0.6",
@@ -252,11 +255,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>CC Background is now independent from the other settings<\/li>
-    			<li> Added remove or keep button/module backgrounds (also independent from other settings)<\/li>
-    			<li> Fixed an issue in ios 11 where the mediaplayer background stayed<\/li>
-    			<li> Live listen still needs fixed (I really hate this module !!)<\/li>\n<\/ul>",
-          "useRawFormat": true
+          "markdown": "CC Background is now independent from the other settings\r\n - Added remove or keep button/module backgrounds (also independent from other settings)\r\n - Fixed an issue in ios 11 where the mediaplayer background stayed\r\n - Live listen still needs fixed (I really hate this module !!)"
         },
         {
           "title": "1.0.6-1",
@@ -266,8 +265,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Changed settings around to better explain things<\/ul>\n<\/li>",
-          "useRawFormat": true
+          "markdown": "Changed settings around to better explain things"
         },
         {
           "title": "1.0.6-3",
@@ -277,8 +275,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Fixed effects not being applied to the WiFi toggle for Chinese users<\/ul>\n<\/li>",
-          "useRawFormat": true
+          "markdown": "Fixed effects not being applied to the WiFi toggle for Chinese users"
         },
         {
           "title": "1.0.7",
@@ -288,30 +285,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Updated for arm64e(A12)<\/ul>\n<\/li>",
-          "useRawFormat": true
-        },
-        {
-          "title": "1.0.1",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Added libcolorpicker as a dependency<\/ul>\n<\/li>",
-          "useRawFormat": true
-        },
-		   {
-          "title": "1.0",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "<ul>\n<li>Initial Release<\/ul>\n<\/li>",
-          "useRawFormat": true
+          "markdown": "Updated for arm64e(A12)"
         },
         {
           "class": "DepictionMarkdownView",
