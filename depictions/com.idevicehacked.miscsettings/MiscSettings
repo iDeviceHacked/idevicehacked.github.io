@@ -1,5 +1,4 @@
 {
-    "headerImage": "https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/screenshots/sileoheader.jpg",
     "tabs": [
         {
             "class": "DepictionStackView",
@@ -8,9 +7,20 @@
                 "title": "View Package",
                 "action": "https://idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings/",
                 "class": "DepictionTableButtonView"
+                },
+                {
+                "title": "Follow Developer on Twitter",
+                "action": "https://twitter.com/lucifers_circle",
+                "class": "DepictionTableButtonView"
+                },
+                {
+                "title": "Follow iDevice Hacked on Twitter",
+                "action": "https://twitter.com/idevice_hacked",
+                "class": "DepictionTableButtonView"
                 }
+
             ],
-            "tabname": "Details"
+            "tabname": "Links"
         }
     ],
     "class": "DepictionTabView",
