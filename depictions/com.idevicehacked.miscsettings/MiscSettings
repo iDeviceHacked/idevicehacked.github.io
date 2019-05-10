@@ -24,6 +24,6 @@
         }
     ],
     "class": "DepictionTabView",
-    "tintColor": "#0657bb",
+    "tintColor": "#6A8DFF",
     "minVersion": "0.1"
 }
