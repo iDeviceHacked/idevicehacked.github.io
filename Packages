@@ -811,10 +811,10 @@ Maintainer: smokin1337
 Installed-Size: 732
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: noDebsHere/Smokin/com.smokin1337.sleeptoggle_1.0.3_iphoneos-arm.deb
-Size: 95146
-MD5sum: 8cf817a85d5ec4f8504362f98abbb9b0
-SHA1: c0d3277a6e55ecb4e217ad2d1997877d1217d7d1
-SHA256: eb4873cf301e4998c2c51ad2dc3c670a3c1062e90bd75a8347bd2b975ada91fa
+Size: 95128
+MD5sum: b5fcf6c32749052dfc487d9e13b10020
+SHA1: 69802cd1efe7521b149c4999dbe04e8193cca804
+SHA256: af2ccb2cc7e9517d235e74f090f1901f3a0bae25ea73494625e023a70829519e
 Section: Tweaks
 Description: CC module to disable idle sleep/auto lock !
 Author: smokin1337
