@@ -6,7 +6,7 @@
                 {
                 "title": "View Package",
                 "action": "https://idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings/",
-                "class": "DepictionTableButtonView"
+                "class": "DepictionButtonView"
                 },
                 {
                 "title": "Follow Developer on Twitter",
