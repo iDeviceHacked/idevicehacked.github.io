@@ -449,18 +449,19 @@ Package: com.idevicehacked.simplepowerdownmenu
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: LucifersCircle
-Installed-Size: 468
+Installed-Size: 368
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: noDebsHere/Luci/com.idevicehacked.simplepowerdownmenu_0.0.1_iphoneos-arm.deb
-Size: 52624
-MD5sum: fcc0dd9c1b17882b6e2360e6cce26ed1
-SHA1: 175f3834b55c57937b03152b4c139b83c617c4bc
-SHA256: 4aa276df93fa255436a9cabeb681fedfc9471c44beedac6f57d2fb803e8cb6eb
+Size: 47366
+MD5sum: 8b28d417af1328bfc7f9e5179d54c651
+SHA1: b7bc4a239a9b1d43df72ac4ea0cf8984d523eece
+SHA256: d7a1900242a94e32cfa2a802e63271b04f4ac317aa009ff2109f186ba085c8ab
 Section: Tweaks
 Description: A Completely customizable power down menu! BETA
 Author: LucifersCircle
-Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu
+Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.simplepowerdownmenu
 Name: Simple Power Down Menu
+Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.simplepowerdownmenu/SPDM
 
 Package: com.idevicehacked.simplepowerdownmenu
 Version: 0.0.2
@@ -498,18 +499,19 @@ Package: com.idevicehacked.spdmlite
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: LucifersCircle <luciferscircle@gmail.com>
-Installed-Size: 100
+Installed-Size: 108
 Depends: mobilesubstrate, com.midnightchips.ldrun
 Filename: noDebsHere/Luci/com.idevicehacked.spdmlite_0.0.1_iphoneos-arm.deb
-Size: 4738
-MD5sum: 469b9ca070c3e27b66b6c7ba38cb35e4
-SHA1: 52ce6dba9d4e223f28098946916dd0596b9a558c
-SHA256: 8e4fc723db28b0ca8bfa3dee112ec8cd9a15f11ef1b1883681a31c0c6ef26f48
+Size: 5948
+MD5sum: 0e14ac58484d66bfb27fe0957bafd455
+SHA1: 482406e664126b5ad7d1c5c3b008ac3611bd94e8
+SHA256: c8e4c7a04d89cbe98dfae409bd0d2862c2f47b4444fcf6e3c07b8eb112907452
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: LucifersCircle <luciferscircle@gmail.com>
 Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.spdmlite/
 Name: SPDMLite
+Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.spdmlite/SPDMLite
 
 Package: com.idevicehacked.spdmlite
 Version: 0.0.2
