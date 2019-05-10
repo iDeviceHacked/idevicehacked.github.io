@@ -452,14 +452,14 @@ Maintainer: LucifersCircle
 Installed-Size: 368
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: noDebsHere/Luci/com.idevicehacked.simplepowerdownmenu_0.0.1_iphoneos-arm.deb
-Size: 47366
-MD5sum: 8b28d417af1328bfc7f9e5179d54c651
-SHA1: b7bc4a239a9b1d43df72ac4ea0cf8984d523eece
-SHA256: d7a1900242a94e32cfa2a802e63271b04f4ac317aa009ff2109f186ba085c8ab
+Size: 47358
+MD5sum: 11604f1abf7d783d99d59b0280fc4016
+SHA1: 5098183da8ea732ef1766d6c84f2ef38db9764c0
+SHA256: a50377be79085ac04f871471b8f7efa270fa480dd9ebb5ad5e339debddef1408
 Section: Tweaks
 Description: A Completely customizable power down menu! BETA
 Author: LucifersCircle
-Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.simplepowerdownmenu
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu
 Name: Simple Power Down Menu
 Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.simplepowerdownmenu/SPDM
 
