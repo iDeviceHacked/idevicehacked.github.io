@@ -4,9 +4,9 @@
             "class": "DepictionStackView",
             "views": [
                 {
-                "text": "View Package",
-                "action": "https://idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings/",
-                "class": "DepictionButtonView"
+                "title": "View Package",
+                "action": "https://idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu/",
+                "class": "DepictionTableButtonView"
                 },
                 {
                 "title": "Follow Developer on Twitter",
