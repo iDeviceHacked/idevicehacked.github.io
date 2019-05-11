@@ -717,6 +717,23 @@ Author: smokin1337
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.fuupdatebadge
 Name: FUUpdateBadge
 
+Package: com.smokin1337.fuupdatebadge
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.fuupdatebadge_1.0.1_iphoneos-arm.deb
+Size: 2756
+MD5sum: dc89542aaf6d82abe68009ee3ea9d15f
+SHA1: 7d3c281850b7a2421f80924165ed2f42a8883d44
+SHA256: 485849a1daf8c674f3785d9f0e26e4b82548269204babf790965ed6159f83699
+Section: Tweaks
+Description: Hide that annoying update badge!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.fuupdatebadge
+Name: FUUpdateBadge
+
 Package: com.smokin1337.powerswitch
 Version: 1.0.1
 Architecture: iphoneos-arm
