@@ -1,16 +1,60 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.smartlight/header/SmartLight_Header.png",
+  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.barscape/header/BarScape_Header.png",
   "tintColor": "",
   "tabs": [
     {
       "tabname": "Details",
       "views": [
         {
-          "title": "SmartLight",
+          "title": "BarScape",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg"
+            },
+	{
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg"
+            }
+          ],
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 550.8266666666667}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg"
+              },
+	{
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg"
+            },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg"
+              }
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
         },
         {
           "class": "DepictionMarkdownView",
@@ -39,7 +83,7 @@
         },
         {
           "title": "Version",
-          "text": "1.0.4",
+          "text": "1.0.1",
           "class": "DepictionTableTextView"
         },
         {
@@ -88,36 +132,6 @@
          },
         {
           "title": "1.0.1",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "Fixed issue where flashlight was not activating for some users"
-        },
-        {
-          "title": "1.0.2",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "Fixed safemode for some devices when turning off flashlight on iOS 11.x"
-        },
-        {
-          "title": "1.0.3",
-          "useBoldText": true,
-          "useBottomMargin": true,
-          "class": "DepictionSubheaderView"
-        },
-        {
-          "class": "DepictionMarkdownView",
-          "markdown": "- Now volume up increases brightness and volume down decreases brightness while flashlight is on\r\n- Made volume buttons not increase/decrease volume while the flashlight is on"
-        },
-        {
-          "title": "1.0.4",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
