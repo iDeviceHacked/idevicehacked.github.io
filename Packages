@@ -673,17 +673,17 @@ Maintainer: smokin1337
 Installed-Size: 592
 Depends: mobilesubstrate
 Filename: noDebsHere/Smokin/com.smokin1337.barscape_1.0.1_iphoneos-arm.deb
-Size: 87212
-MD5sum: 463cfac6307554b92f68afce65b7d3f8
-SHA1: 20a2eca28dd9412afe987a53c4cc0440ab70228a
-SHA256: 4e399a175cfdcfadbcb471ade2cfa5838c213b97fd82e5d4c1e4f8df64d0e87b
+Size: 87186
+MD5sum: 1266c456235c47c4f7f1761e7a430f22
+SHA1: 0a20fa5b2219ecad5af2b96c9329ccd656e20d87
+SHA256: c470691b111327bf7306f26099feda62dcf0fb73a2786a375cfed2ede1fed35c
 Section: Tweaks
 Description: Replace your homebar !
 Author: smokin1337
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.barscape
-Icon: https://www.idevicehacked.com/depictions/com.smokin1337.barscape/icon.png
+Icon: https://idevicehacked.com/depictions/com.smokin1337.barscape/icon.png
 Name: BarScape
-Sileodepiction: https://idevicehacked.com/depictions/BarScape
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.barscape/BarScape
 
 Package: com.smokin1337.blurification
 Version: 1.0
