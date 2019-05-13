@@ -58,7 +58,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Replace your homebar with a chevron or a small pill \r\n Choose color for the pill/chevron \r\n Choose size for the pill/chevron",
+          "markdown": "Replace your homebar with a chevron or a small pill \n\n Choose color for the pill/chevron \n\n Choose size for the pill/chevron",
           "title": "markdown-description",
           "useSpacing": true,
         },
