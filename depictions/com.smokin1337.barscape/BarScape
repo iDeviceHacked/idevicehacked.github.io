@@ -18,18 +18,18 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.jpg"
             },
 	{
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot2.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot2.jpeg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.jpg"
             }
           ],
           "ipad": {
@@ -38,18 +38,18 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg?size=640",
-                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg"
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.jpg"
               },
 	{
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot2.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot2.jpeg"
             },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg?size=640",
-                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot3.jpg"
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.jpg"
               }
             ],
             "class": "DepictionScreenshotView"
@@ -58,7 +58,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Activate flashlight by pressing VolumeDown + Power\r\n Adjust light brightness with volume up and volume down buttons (Whenever the light is on, even when activated normally)",
+          "markdown": "Replace your homebar with a chevron or a small pill\r\n Choose color for the pill/chevron\r\n Choose size for the pill/chevron",
           "title": "markdown-description",
           "useSpacing": true,
         },
