@@ -18,8 +18,8 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.jpg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.jpg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.png?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.png"
             },
 	{
               "accessibilityText": "Screenshot",
@@ -28,8 +28,8 @@
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.jpg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.jpg"
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.png?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.png"
             }
           ],
           "ipad": {
@@ -38,8 +38,8 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.jpg?size=640",
-                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.jpg"
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.png?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot1.png"
               },
 	{
               "accessibilityText": "Screenshot",
@@ -48,8 +48,8 @@
             },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.jpg?size=640",
-                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.jpg"
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.png?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.barscape/screenshots/screenshot3.png"
               }
             ],
             "class": "DepictionScreenshotView"
