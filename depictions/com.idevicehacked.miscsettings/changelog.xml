@@ -186,4 +186,15 @@
         <change>Removed debug options from release version</change>
     </changes>
 
+    <changes>
+        <version>2.4.0</version>
+        <change>Fix crash some users were having</change>
+        <change>Fix Lock not hiding on A12 - LockScreen</change>
+        <change>Added "Home Bar" category</change>
+        <change>Added "Hide Dock" - SpringBoard</change>
+        <change>Added "Custom Color" - HomeBar</change>
+        <change>Added "Custom Width" - HomeBar</change>
+        <change>Moved 2 options to "Home Bar" category</change>
+    </changes>
+
 </changelog>
