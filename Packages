@@ -741,6 +741,25 @@ Icon: https://www.idevicehacked.com/depictions/com.smokin1337.powerswitch/icon.p
 Name: PowerSwitch
 Sileodepiction: https://www.idevicehacked.com/depictions/com.smokin1337.powerswitch/PowerSwitch
 
+Package: com.smokin1337.silentium
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1684
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.silentium_1.0_iphoneos-arm.deb
+Size: 208200
+MD5sum: 9681b8d33c887bb0be3aeb78bc134995
+SHA1: 2208c5eacb4bcc50c603db21b27c7b03c167d6cd
+SHA256: 2eebe0569378259a1ba4171a47bedd6c7fbdccdd406aa87db067e167e0211757
+Section: Tweaks
+Description: Silence everything and disable vibrations while unlocked or full time with a CC toggle !!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.silentium
+Icon: https://idevicehacked.com/depictions/com.smokin1337.silentium/icon.png
+Name: Silentium
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.silentium/Silentium
+
 Package: com.smokin1337.sleeptoggle
 Version: 1.0
 Architecture: iphoneos-arm

@@ -1,0 +1,49 @@
+<package>
+	<id>com.smokin1337.silentium</id>
+	<name>Silentium</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+
+    <changelog>
+        <change>Initial Release</change>
+    </changelog>
+
+    <screenshots>
+    </screenshots>
+
+	<descriptionlist>
+
+		<description>Turn off vibration and sound for notifications when unlocked or enable full time with a CC toggle.</description>
+		<description>When enabled from setting your device will vibrate and make sounds as normal when locked, once unlocked it will disable vibrations and sounds for incoming notifications and disable vibrations for ringing and while the silent switch is on.</description>
+		<description>When the CC toggle is enabled it disables everything above all the time while the toggle is enabled whether the device is locked or unlocked, when locked the display will light up like normal but without sound and vibration. (CC toggle state is remembered through a respring).</description>
+		<description>Silent/Mute can be enabled with either as well from settings</description>
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+        <link>
+            <name>Buy smokin1337 a coffee</name>
+            <url>https://www.paypal.me/smokin1337</url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+	<link>
+		<name>Twitter</name>
+		<url>https://twitter.com/smokin1337</url>
+		<iconclass> fa fa-twitter</iconclass>
+		</link>
+    </links>
+</package>

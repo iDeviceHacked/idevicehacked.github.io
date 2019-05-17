@@ -1,0 +1,99 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.smartlight/header/Silentium_Header.png",
+  "tintColor": "",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Silentium",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Turn off vibration and sound for notifications when unlocked or enable full time with a CC toggle.\n\n When enabled from setting your device will vibrate and make sounds as normal when locked, once unlocked it will disable vibrations and sounds for incoming notifications and disable vibrations for ringing and while the silent switch is on.\n\n When the CC toggle is enabled it disables everything above all the time while the toggle is enabled whether the device is locked or unlocked, when locked the display will light up like normal but without sound and vibration. (CC toggle state is remembered through a respring).\n\n Silent/Mute can be enabled with either as well from settings",
+          "title": "markdown-description",
+          "useSpacing": true,
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Known Issues",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "markdown": "None",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0.4",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "2019/05/17",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "smokin1337",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Follow Me on Twitter",
+          "action": "https://twitter.com/smokin1337",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+           "title": "1.0",
+           "useBoldText": true,
+           "useBottomMargin": true,
+           "class": "DepictionSubheaderView"
+         },
+         {
+           "class": "DepictionMarkdownView",
+           "markdown": "Initial Release"
+         },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/05/17</small>",
+          "useRawFormat": true
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
