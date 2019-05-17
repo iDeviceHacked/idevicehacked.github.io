@@ -197,4 +197,9 @@
         <change>Moved 2 options to "Home Bar" category</change>
     </changes>
 
+    <changes>
+        <version>2.4.1</version>
+        <change>Fix Dock issue with "Hide Today View"</change>
+    </changes>
+
 </changelog>

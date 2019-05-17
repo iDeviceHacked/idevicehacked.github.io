@@ -1,7 +1,7 @@
 <package>
 	<id>com.idevicehacked.miscsettings</id>
 	<name>MiscSettings</name>
-	<version>2.4.0</version>
+	<version>2.4.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,6 +15,8 @@
 	<dependencies></dependencies>
     
     <changelog>
+
+        <change>Fix Dock issue with "Hide Today View"</change>
         <change>Fix crash some users were having</change>
         <change>Fix Lock not hiding on A12 - LockScreen</change>
         <change>Added "Home Bar" category</change>
@@ -22,6 +24,7 @@
         <change>Added "Custom Color" - HomeBar</change>
         <change>Added "Custom Width" - HomeBar</change>
         <change>Moved 2 options to "Home Bar" category</change>
+        
     </changelog>
     
     <screenshots>
