@@ -21,7 +21,7 @@
               "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg?size=640",
               "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot1.jpg"
             },
-	{
+	           {
               "accessibilityText": "Screenshot",
               "url": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg?size=640",
               "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.togglow/screenshots/screenshot2.jpeg"
@@ -118,13 +118,13 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Make your connectivity module glow !! \r\n Change the look of your connectivity module in the control center\r\n You can customize each button individually or apply unified settings to all buttons\r\n Uses stock colors when custom colors are disabled\r\n Custom settings for when the switch is on and when it is off (connectivity module only)\r\n To apply settings simply expand the connectivity module\r\n Customize all the modules\r\n Customize the control center background, you can make it a gradient which you select four colors to make or a solid color you choose\r\n Compatible with most other CC tweaks",
+          "markdown": "Make your connectivity module glow !! \n\n Change the look of your connectivity module in the control center\n\n You can customize each button individually or apply unified settings to all buttons\n\n Uses stock colors when custom colors are disabled\n\n Custom settings for when the switch is on and when it is off (connectivity module only)\n\n To apply settings simply expand the connectivity module\n\n Customize all the modules\n\n Customize the control center background, you can make it a gradient which you select four colors to make or a solid color you choose\n\n Compatible with most other CC tweaks",
           "title": "markdown-description",
           "useSpacing": true,
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "\r\n - Select custom colors for glow and border\r\n - Edit border width\r\n - Edit border corner radius\r\n - Edit glow radius\r\n - Edit glow opacity",
+          "markdown": "- Select custom colors for glow and border\n - Edit border width\n - Edit border corner radius\n - Edit glow radius\n - Edit glow opacity",
           "title": "markdown-description",
           "useBottomMargin": false
         },
@@ -244,7 +244,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Added support for PowerModule\r\n - Fixed text size module\r\n - Fixed the border showing around the module title while expanded\r\n - Partially fixed the live listen module (still have to remove the background)"
+          "markdown": "Added support for PowerModule\n - Fixed text size module\n - Fixed the border showing around the module title while expanded\n - Partially fixed the live listen module (still have to remove the background)"
 
         },
         {
@@ -255,7 +255,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "CC Background is now independent from the other settings\r\n - Added remove or keep button/module backgrounds (also independent from other settings)\r\n - Fixed an issue in ios 11 where the mediaplayer background stayed\r\n - Live listen still needs fixed (I really hate this module !!)"
+          "markdown": "CC Background is now independent from the other settings\n - Added remove or keep button/module backgrounds (also independent from other settings)\n - Fixed an issue in ios 11 where the mediaplayer background stayed\n - Live listen still needs fixed (I really hate this module !!)"
         },
         {
           "title": "1.0.6-1",
