@@ -421,16 +421,16 @@ Maintainer: LucifersCircle <luciferscircle@gmail.com>
 Installed-Size: 368
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: noDebsHere/Luci/com.idevicehacked.simplepowerdownmenu_0.0.2_iphoneos-arm.deb
-Size: 47386
-MD5sum: 5d5d9e189403ff766498c6ea12decbf4
-SHA1: ddb4c9c433365635240bece0471da68f5eb6c480
-SHA256: d2147459edd04ed0bdeea18cc274a5dd9734c8d8f5565dfc05bc356614baf1aa
+Size: 47302
+MD5sum: 27e75d45a1f3d5322447bf69fdd1bf59
+SHA1: c094fef50ce89f47716edee6544f01914dc06ff7
+SHA256: 022c8afbb79c9a9f352dcc57751dd9c3c0fb6431b4604d3124e546e41cfb497f
 Section: Tweaks
 Description: A Completely customizable power down menu! BETA
 Author: LucifersCircle <luciferscircle@gmail.com>
 Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu
 Name: Simple Power Down Menu
-Sileodepiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu/SPDM
+Sileodepiction: https://idevicehacked.com/depictions/com.idevicehacked.simplepowerdownmenu/SPDM
 
 Package: com.idevicehacked.skilartheme
 Version: 1.0
@@ -469,18 +469,19 @@ Package: com.idevicehacked.spdmlite
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: LucifersCircle <luciferscircle@gmail.com>
-Installed-Size: 112
+Installed-Size: 108
 Depends: mobilesubstrate, com.midnightchips.ldrun
 Filename: noDebsHere/Luci/com.idevicehacked.spdmlite_0.0.2_iphoneos-arm.deb
-Size: 8256
-MD5sum: 01557defa8e35fe12f50e7112fdaef79
-SHA1: d6f52d9f31337b995778c27e7cd4773ee3993e05
-SHA256: 994c656f80c7718071da2dace4306118f3a99633e580500424056a554b538611
+Size: 5944
+MD5sum: e57517e378cbf65584072c932b726a3c
+SHA1: 127a69baf5206f466c4f9857e8828622f5d5715a
+SHA256: ee9c24df387512ce88ebaff3e22a90d99187ae5c786c761dff04f1912a9f8ee6
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: LucifersCircle <luciferscircle@gmail.com>
 Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.spdmlite/
 Name: SPDMLite
+Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.spdmlite/SPDMLite
 
 Package: com.idevicehacked.trampoline
 Version: 2.0-1+debug
