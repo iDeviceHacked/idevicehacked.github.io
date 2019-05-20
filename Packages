@@ -763,6 +763,25 @@ Icon: https://idevicehacked.com/depictions/com.smokin1337.silentium/icon.png
 Name: Silentium
 Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.silentium/Silentium
 
+Package: com.smokin1337.silentium
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337
+Installed-Size: 1684
+Depends: com.spark.libsparkapplist
+Filename: noDebsHere/Smokin/com.smokin1337.silentium_1.0.1_iphoneos-arm.deb
+Size: 209862
+MD5sum: cda0d976dc0d9e3a96ca675e8ebcb88d
+SHA1: 643ab6ab1670f716ec18336cc5d10ebdecf85621
+SHA256: 8f78e7c2ba8239d1993781e3ecbcb944b557db9ba22ae281c3f7fd3a54c0d632
+Section: Tweaks
+Description: Silence everything and disable vibrations while unlocked or full time with a CC toggle !!
+Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.silentium
+Icon: https://idevicehacked.com/depictions/com.smokin1337.silentium/icon.png
+Name: Silentium
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.silentium/Silentium
+
 Package: com.smokin1337.sleeptoggle
 Version: 1.0
 Architecture: iphoneos-arm
