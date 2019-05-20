@@ -338,15 +338,16 @@ Maintainer: Lucifers Circle <luciferscircle@gmail.com>
 Installed-Size: 552
 Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
 Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.4.1_iphoneos-arm.deb
-Size: 62132
-MD5sum: c4c868769ddf0be1d64e5b07b6c57fe2
-SHA1: 3d650290f8631e5c3fdb53cc8282805b6981c250
-SHA256: 4f41ad942fd69346a16ab91d19f424e0399955c3a6d134b79adcb343e453b9ca
+Size: 62164
+MD5sum: e9cff58c0285385ca74d89e82da289cc
+SHA1: 8e02c64bb0e808a3588a26bd6e5a25a93c9b6a24
+SHA256: 15dd7913d85d2c2e08d5f928361a5df58dd50c7f4f7e1075b36e843db8f22d20
 Section: Tweaks
 Description: So far has 60+ Miscellaneous toggles!
 Author: Lucifers Circle <luciferscircle@gmail.com>
 Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
 Name: MiscSettings
+Sileodepiction: https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/MiscSettings
 
 Package: com.idevicehacked.neostheme
 Version: 1.0
@@ -452,16 +453,16 @@ Maintainer: LucifersCircle <luciferscircle@gmail.com>
 Installed-Size: 108
 Depends: mobilesubstrate, com.midnightchips.ldrun
 Filename: noDebsHere/Luci/com.idevicehacked.spdmlite_0.0.1_iphoneos-arm.deb
-Size: 5948
-MD5sum: 500e5b9dc41f79666bf9d54b0b6c2aa0
-SHA1: 09ad71a36c5aa1a6245ec32fe4c61934cacd44b9
-SHA256: bbbfd4c9871cb5b22986e9fb3a41321d4ad27bc0741bd0c8f32255a18c49e685
+Size: 5942
+MD5sum: ed0cd979702e33618d330f30723e1527
+SHA1: 605fabba78635dfb02689e355e9b96a3f2073d5c
+SHA256: 4746625725b5d4dc21d0284f9b1e1bf4b1a8c7ecd5dc20ad0d97795d767ce070
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: LucifersCircle <luciferscircle@gmail.com>
 Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.spdmlite/
 Name: SPDMLite
-Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.spdmlite/SPDMLite.json
+Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.spdmlite/SPDMLite
 
 Package: com.idevicehacked.spdmlite
 Version: 0.0.2
