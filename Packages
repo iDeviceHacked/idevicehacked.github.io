@@ -417,19 +417,20 @@ Sileodepiction: https://www.idevicehacked.com/depictions/com.idevicehacked.simpl
 Package: com.idevicehacked.simplepowerdownmenu
 Version: 0.0.2
 Architecture: iphoneos-arm
-Maintainer: LucifersCircle
-Installed-Size: 628
+Maintainer: LucifersCircle <luciferscircle@gmail.com>
+Installed-Size: 368
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: noDebsHere/Luci/com.idevicehacked.simplepowerdownmenu_0.0.2_iphoneos-arm.deb
-Size: 85794
-MD5sum: d3ec15432142268d5f4371146f726e92
-SHA1: 8457344ccc7325b835a68ce571388a3f4ec25eab
-SHA256: 25fd98c9517f9fc63d6776abf379f870dccf1f31ff0e7f578fb4318fbd9d90be
+Size: 47386
+MD5sum: 5d5d9e189403ff766498c6ea12decbf4
+SHA1: ddb4c9c433365635240bece0471da68f5eb6c480
+SHA256: d2147459edd04ed0bdeea18cc274a5dd9734c8d8f5565dfc05bc356614baf1aa
 Section: Tweaks
 Description: A Completely customizable power down menu! BETA
-Author: LucifersCircle
-Depiction: https://idevicehacked.com/repo/depictions/?p=com.idevicehacked.simplepowerdownmenu
+Author: LucifersCircle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu
 Name: Simple Power Down Menu
+Sileodepiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.simplepowerdownmenu/SPDM
 
 Package: com.idevicehacked.skilartheme
 Version: 1.0
