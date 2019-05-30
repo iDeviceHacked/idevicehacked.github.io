@@ -1,7 +1,7 @@
 <package>
 	<id>com.smokin1337.silentium</id>
 	<name>Silentium</name>
-	<version>1.0</version>
+	<version>1.0.2</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,7 +15,7 @@
 	<dependencies></dependencies>
 
     <changelog>
-        <change>Initial Release</change>
+        <change>Added small vibration for notifications</change>
     </changelog>
 
     <screenshots>

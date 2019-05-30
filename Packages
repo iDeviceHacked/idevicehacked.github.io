@@ -622,17 +622,17 @@ Name: BarScape
 Package: com.smokin1337.barscape
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: smokin1337
+Maintainer: smokin1337 <smokin1337@gmail.com>
 Installed-Size: 592
 Depends: mobilesubstrate
 Filename: noDebsHere/Smokin/com.smokin1337.barscape_1.0.1_iphoneos-arm.deb
-Size: 87186
-MD5sum: 1266c456235c47c4f7f1761e7a430f22
-SHA1: 0a20fa5b2219ecad5af2b96c9329ccd656e20d87
-SHA256: c470691b111327bf7306f26099feda62dcf0fb73a2786a375cfed2ede1fed35c
+Size: 87202
+MD5sum: 83cfb5b5c8eecc6a9038d5cf26e87740
+SHA1: 4a9087ccf5f5cf13935f25575c051a3ec35ab93a
+SHA256: 17cda68afb76d9dcea69d8480591a91325575ea77a2ddf06318000667062552e
 Section: Tweaks
 Description: Replace your homebar !
-Author: smokin1337
+Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.barscape
 Icon: https://idevicehacked.com/depictions/com.smokin1337.barscape/icon.png
 Name: BarScape
@@ -658,21 +658,21 @@ Name: Blurification
 Package: com.smokin1337.blurification
 Version: 1.0.1
 Architecture: iphoneos-arm
-Maintainer: smokin1337
+Maintainer: smokin1337 <smokin1337@gmail.com>
 Installed-Size: 1548
 Depends: mobilesubstrate
 Filename: noDebsHere/Smokin/com.smokin1337.blurification_1.0.1_iphoneos-arm.deb
-Size: 377618
-MD5sum: 08075817cd0d00227d2422d99ac318e5
-SHA1: 67889487e62b6d73c9af03389e387abf34b62ed8
-SHA256: 7473c356398c33bdf6473b28598fe19383ef31b66525e1b2eaae418658b2bd9d
+Size: 377538
+MD5sum: 94f13c18d0fc6ed22d7c1741f3f71a03
+SHA1: fb09c41bd76b2dc2eab2290724f990c5a2ebe8ac
+SHA256: c2ac004d72f8c09b93aafb3bcd3bcdbb2d6577700c5e51bd4fc4da82f20e2030
 Section: Tweaks
 Description: Protect your notifications!
-Author: smokin1337
-Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.blurification
-Icon: https://www.idevicehacked.com/depictions/com.smokin1337.blurification/icon.png
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.blurification
+Icon: https://idevicehacked.com/depictions/com.smokin1337.blurification/icon.png
 Name: Blurification
-Sileodepiction: https://www.idevicehacked.com/depictions/com.smokin1337.blurification/Blurification
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.blurification/Blurification
 
 Package: com.smokin1337.fuupdatebadge
 Version: 1.0.0
@@ -708,6 +708,25 @@ Author: smokin1337
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.fuupdatebadge
 Name: FUUpdateBadge
 
+Package: com.smokin1337.pluto
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1876
+Depends: com.spark.libsparkapplist, com.opa334.ccsupport
+Filename: noDebsHere/Smokin/com.smokin1337.pluto_1.0_iphoneos-arm.deb
+Size: 342058
+MD5sum: f06ba00f7fa32f135bb2459cb01976d0
+SHA1: b40bcd73542af5b2adac5e775ee7ae8a752ab9e2
+SHA256: 33357fba55a421e237f1f4265ddd1d70806912eba1e8a6e0aa7246deeb3da042
+Section: Tweaks
+Description: Disable notifications with ease, and hide your icons!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.pluto
+Icon: https://idevicehacked.com/depictions/com.smokin1337.pluto/icon.png
+Name: Pluto
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.pluto/Pluto
+
 Package: com.smokin1337.powerswitch
 Version: 1.0.1
 Architecture: iphoneos-arm
@@ -728,17 +747,17 @@ Name: PowerSwitch
 Package: com.smokin1337.powerswitch
 Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: smokin1337
+Maintainer: smokin1337 <smokin1337@gmail.com>
 Installed-Size: 580
 Depends: mobilesubstrate, com.midnightchips.ldrun
 Filename: noDebsHere/Smokin/com.smokin1337.powerswitch_1.0.3_iphoneos-arm.deb
-Size: 117858
-MD5sum: ea55f9f28a325cb6ce61841c6f117367
-SHA1: 33a05af7cb889370826d7521ce9af79852999418
-SHA256: 2a9766f3d26a02c333f2114e1c3e24931730d259b79a1780df0abe28b22033ae
+Size: 117764
+MD5sum: 3e582766f3877649fef6c731f9cb41d6
+SHA1: 793914ea0617f6deaf01885b222dc2a30527b4d5
+SHA256: c41c9d5e96a5172b13b1ad3af53b03517259bef717f2b781d5c3a9afccd454a2
 Section: Tweaks
 Description: An awesome button!
-Author: smokin1337
+Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.powerswitch
 Icon: https://www.idevicehacked.com/depictions/com.smokin1337.powerswitch/icon.png
 Name: PowerSwitch
@@ -777,6 +796,25 @@ SHA256: 8f78e7c2ba8239d1993781e3ecbcb944b557db9ba22ae281c3f7fd3a54c0d632
 Section: Tweaks
 Description: Silence everything and disable vibrations while unlocked or full time with a CC toggle !!
 Author: smokin1337
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.silentium
+Icon: https://idevicehacked.com/depictions/com.smokin1337.silentium/icon.png
+Name: Silentium
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.silentium/Silentium
+
+Package: com.smokin1337.silentium
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1688
+Depends: com.spark.libsparkapplist
+Filename: noDebsHere/Smokin/com.smokin1337.silentium_1.0.2_iphoneos-arm.deb
+Size: 210406
+MD5sum: ccba3b7aa1224c5a206a0bd5f32d38b4
+SHA1: 853cc495b6e70f554fa025b7552216f373dc5ddf
+SHA256: 5f997585e7bd8d70459fc9142e0fe4495662cea9874ea07ecfcffdf95fc2f44e
+Section: Tweaks
+Description: Silence everything and disable vibrations while unlocked or full time with a CC toggle !!
+Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.silentium
 Icon: https://idevicehacked.com/depictions/com.smokin1337.silentium/icon.png
 Name: Silentium
@@ -836,17 +874,17 @@ Name: SleepToggle
 Package: com.smokin1337.sleeptoggle
 Version: 1.0.3
 Architecture: iphoneos-arm
-Maintainer: smokin1337
+Maintainer: smokin1337 <smokin1337@gmail.com>
 Installed-Size: 732
 Depends: mobilesubstrate, com.opa334.ccsupport
 Filename: noDebsHere/Smokin/com.smokin1337.sleeptoggle_1.0.3_iphoneos-arm.deb
-Size: 95174
-MD5sum: f077660e8f61484986b27dca134d868d
-SHA1: 23f47397e7056dd115edfb58cfea65d8af68e5e2
-SHA256: 9622bb7a08404baee4731938aae75b78191c45471a5127049a54971ca0d3ec6a
+Size: 95166
+MD5sum: e15a644ad0533bd6a8b6a4815df68399
+SHA1: 9783b56851e81016763978004eed47d73ab45fdf
+SHA256: 6da49b60035d17f8a7f89f39851f2bfefdb77da2bcc3d8789a01b2781fe3a456
 Section: Tweaks
 Description: CC module to disable idle sleep/auto lock !
-Author: smokin1337
+Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.sleeptoggle
 Icon: https://idevicehacked.com/depictions/com.smokin1337.sleeptoggle/icon.png
 Name: SleepToggle
@@ -923,17 +961,17 @@ Name: SmartLight
 Package: com.smokin1337.smartlight
 Version: 1.0.4
 Architecture: iphoneos-arm
-Maintainer: smokin1337
+Maintainer: smokin1337 <smokin1337@gmail.com>
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: noDebsHere/Smokin/com.smokin1337.smartlight_1.0.4_iphoneos-arm.deb
-Size: 4854
-MD5sum: 85b8e915d5750480b9219e54f082555c
-SHA1: 33d9e5e8a68321560a49b028efe9176daa909680
-SHA256: 3f37142b9095623c713619894b122b5e3e8c07a15da10dff1bd895e1473888a9
+Size: 4864
+MD5sum: 95e11c2df8dccb4e2681eca18c8b806d
+SHA1: 0eee758f058992a2aa63f68db104cd81fb3f1e95
+SHA256: fee1def46a95802909eb8eb4681f76ca5e45ea780c09ab4e1360b77b270d8fe4
 Section: Tweaks
 Description: Activate flashlight with VolumeDown+Lock change brightness level with VolumeUp and VolumeDown!
-Author: smokin1337
+Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.smartlight
 Name: SmartLight
 Sileodepiction: https://www.idevicehacked.com/depictions/com.smokin1337.smartlight/SmartLight
@@ -1009,17 +1047,17 @@ Name: Togglow
 Package: com.smokin1337.togglow
 Version: 1.0.7
 Architecture: iphoneos-arm
-Maintainer: smokin1337
-Installed-Size: 1252
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1220
 Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Filename: noDebsHere/Smokin/com.smokin1337.togglow_1.0.7_iphoneos-arm.deb
-Size: 354422
-MD5sum: 9e0931b9a0d968f815008a74729a1466
-SHA1: 85a3a16de94dccaad8554ead2347e4c6e5ba7296
-SHA256: cc99c1d2f32c0f7f811bc453618a6c1745e29045fed19b4798ef0869e6234137
+Size: 348322
+MD5sum: e02feae445057f898b34950c1b003ae8
+SHA1: c2d8ecaafb930fa0748c44a13c5ba8174bd4fca6
+SHA256: 8a0cc40260589fd5e89484a51f4240350e2153a3e86c90b6c4c1bd1ae7bac758
 Section: Tweaks
 Description: Make the control center your own !
-Author: smokin1337
+Author: smokin1337 <smokin1337@gmail.com>
 Depiction: https://www.idevicehacked.com/depictions/?p=com.smokin1337.togglow
 Icon: https://www.idevicehacked.com/depictions/com.smokin1337.togglow/icon.png
 Name: Togglow

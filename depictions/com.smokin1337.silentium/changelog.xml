@@ -1,5 +1,16 @@
 <changelog>
 	<changes>
+		<version>1.0.2</version>
+		<change>Added small vibration for notifications</change>
+	</changes>
+	<changes>
+		<version>1.0.1</version>
+		<change>Added Silentium per app</change>
+		<change>Separated vibrate when ringing and silent to toggles</change>
+		<change>Added suppress banners</change>
+		<change>Added an option to mute only the ringer without silent/muting system sounds</change>
+	</changes>
+	<changes>
 		<version>1.0</version>
 		<change>Initial release</change>
 	</changes>

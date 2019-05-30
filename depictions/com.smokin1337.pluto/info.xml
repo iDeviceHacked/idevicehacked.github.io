@@ -1,0 +1,72 @@
+<package>
+	<id>com.smokin1337.pluto</id>
+	<name>Pluto</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>12.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+
+    <changelog>
+        <change>Initial Release</change>
+    </changelog>
+
+    <screenshots>
+    </screenshots>
+
+	<descriptionlist>
+
+		<description>Completely disable notifications or just hide them via mute switch, CC toggle or in selected apps</description>
+
+		<description><![CDATA[Options:<br/>
+		<ul>
+			<li>Disable sound/vibration(when enabled)</li></br>
+			<li>Disable banners(when enabled)</li></br>
+			<li>Select apps to disable notifications in</li></br>
+			<li>Choose apps to only disable banners</li></br>
+			 <li>Hide notifications animated</li></br>
+			 <li>Small vibration when Pluto is active and a notification arrives</li>
+		</ul>
+		]]></description>
+
+		<description>Hide icons on homescreen via double tap, autohide w/ timer, mute switch or CC toggle.</description>
+
+		<description><![CDATA[Options:<br/>
+		<ul>
+			<li>Hide icons with mute switch</li></br>
+			<li>Hide icons with CC toggle</li></br>
+			<li>Hide Icons with double tap</li></br>
+			<li>Hide icons by timer</li>
+		</ul>
+		]]></description>
+
+		<description>When Use Timer is enabled, the icons are hidden until you double tap the screen or move in and out of apps then autohide again after your designated time limit.</description>
+		<description>When icons are hidden by the switch or CC toggle double tapping will do nothing</description>
+
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+        <link>
+            <name>Buy smokin1337 a coffee</name>
+            <url>https://www.paypal.me/smokin1337</url>
+            <iconclass>fa fa-paypal</iconclass>
+        </link>
+	<link>
+		<name>Twitter</name>
+		<url>https://twitter.com/smokin1337</url>
+		<iconclass> fa fa-twitter</iconclass>
+		</link>
+    </links>
+</package>

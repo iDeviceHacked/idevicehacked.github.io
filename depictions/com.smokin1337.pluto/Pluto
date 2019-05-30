@@ -1,20 +1,26 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.silentium/header/Silentium_Header.png",
+  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.pluto/header/Pluto_Header.png",
   "tintColor": "",
   "tabs": [
     {
       "tabname": "Details",
       "views": [
         {
-          "title": "Silentium",
+          "title": "Pluto",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Turn off vibration and sound for notifications when unlocked or enable full time with a CC toggle.\n\n When enabled from setting your device will vibrate and make sounds as normal when locked, once unlocked it will disable vibrations and sounds for incoming notifications and disable vibrations for ringing and while the silent switch is on.\n\n When the CC toggle is enabled it disables everything above all the time while the toggle is enabled whether the device is locked or unlocked, when locked the display will light up like normal but without sound and vibration. (CC toggle state is remembered through a respring).\n\n Silent/Mute can be enabled with either as well from settings\n\n Suppress banners\n\n And enable Silentium in selected apps",
+          "markdown": "Completely disable notifications or just hide them via mute switch, CC toggle or in selected apps\n\n Options for notifications include: \n - Disable sound/vibration(when enabled)\n - Disable banners(when enabled)\n - Select apps to disable notifications in\n - Choose apps to only disable banners\n - Hide notifications animated\n - Small vibration when Pluto is active and a notification arrives",
+          "title": "markdown-description",
+          "useSpacing": true,
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Hide icons on homescreen via double tap, autohide w/ timer, mute switch or CC toggle. \n\n Icon options include: \n - Hide icons with mute switch\n - Hide icons with CC toggle\n - Hide Icons with double tap\n - Hide icons by timer\n\n When Use Timer is enabled, the icons are hidden until you double tap the screen or move in and out of apps then autohide again after your designated time limit. \n\n When icons are hidden by the switch or CC toggle double tapping will do nothing.",
           "title": "markdown-description",
           "useSpacing": true,
         },
@@ -39,12 +45,12 @@
         },
         {
           "title": "Version",
-          "text": "1.0.2",
+          "text": "1.0",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Released",
-          "text": "2019/05/17",
+          "text": "2019/05/30",
           "class": "DepictionTableTextView"
         },
         {
@@ -76,26 +82,6 @@
     {
       "tabname": "Changelog",
       "views": [
-	{
-           "title": "1.0.2",
-           "useBoldText": true,
-           "useBottomMargin": true,
-           "class": "DepictionSubheaderView"
-         },
-         {
-           "class": "DepictionMarkdownView",
-           "markdown": "Added small vibration for notifications"
-         },
-        {
-           "title": "1.0.1",
-           "useBoldText": true,
-           "useBottomMargin": true,
-           "class": "DepictionSubheaderView"
-         },
-         {
-           "class": "DepictionMarkdownView",
-           "markdown": "Added Silentium per app\n - Separated vibrate when ringing and silent to toggles\n - Added suppress banners\n - Added an option to mute only the ringer without silent/muting system sounds"
-         },
         {
            "title": "1.0",
            "useBoldText": true,
@@ -108,7 +94,7 @@
          },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/05/17</small>",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/03/24</small>",
           "useRawFormat": true
         }
       ],
