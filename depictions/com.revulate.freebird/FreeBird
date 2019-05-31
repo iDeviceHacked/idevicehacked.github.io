@@ -1,0 +1,168 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.togglow/header/FreeBird_Header.png",
+  "tintColor": "",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "FreeBird",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.jpg"
+            },
+	           {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/2.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/2.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/3.jpg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/3.jpg"
+            }
+          ],
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 550.8266666666667}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.jpg"
+              },
+  	           {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/2.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/2.jpg"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/3.jpg?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/3.jpg"
+              }
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "A simple, open sourced color customization tweak for Twitters night mode, with an optional true black night mode.",
+          "title": "markdown-description",
+          "useSpacing": true,
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Known Issues",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "markdown": "None",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "0.6",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "2019/02/07",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "Revulate",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Follow Me on Twitter",
+          "action": "https://twitter.com/Revulate",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+           "title": "0.6",
+           "useBoldText": true,
+           "useBottomMargin": true,
+           "class": "DepictionSubheaderView"
+         },
+         {
+           "class": "DepictionMarkdownView",
+           "markdown": "- Updated for 7.51\n - Updated Button Styles Options"
+         },
+        {
+          "title": "0.4",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Updated for arm64e\n - Removed oled toggle\n - Updated preferences"
+        },
+        {
+          "title": "0.3",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "- Cleaned up settings\n - Allowed custom BG color (Night Mode)\n - Custom DM colors (Night Mode)\n - Works with twttr (TestFlight for Twitter)"
+        },
+        {
+          "title": "0.1",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Initial Release"
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
