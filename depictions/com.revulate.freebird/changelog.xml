@@ -23,5 +23,13 @@
 		<change>updated preferences</change>
         
 	</changes>
+	
+	<changes>
+        
+		<version>0.6</version>
+		<change>Updated for 7.51</change>
+		<change>Updated Button Styles Options</change>
+        
+	</changes>
 
 </changelog>

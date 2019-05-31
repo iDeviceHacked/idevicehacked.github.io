@@ -1,7 +1,7 @@
 <package>
 	<id>com.revulate.freebird</id>
 	<name>FreeBird</name>
-	<version>0.4</version>
+	<version>0.6</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -32,9 +32,8 @@
         </screenshot>
     </screenshots>
 	<changelog>
-        <change>updated for arm64e</change>
-        <change>removed oled toggle</change>
-        <change>updated preferences</change>
+        <change>Updated for 7.51</change>
+        <change>Updated Button Styles Options</change>
 	</changelog>
 	<links>
         <link>

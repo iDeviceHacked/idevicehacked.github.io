@@ -602,6 +602,25 @@ Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
 Icon: file:///Library/PreferenceBundles/FreeBird.bundle/icon@3x.png
 Name: FreeBird
 
+Package: com.revulate.freebird
+Version: 0.6
+Architecture: iphoneos-arm
+Maintainer: Revulate <revulate1@gmail.com>
+Installed-Size: 408
+Depends: mobilesubstrate, me.nepeta.libcolorpicker,  ws.hbang.common (>= 1.11)
+Filename: noDebsHere/Rev/com.revulate.freebird_0.6_iphoneos-arm.deb
+Size: 120334
+MD5sum: df6d9866db31a789821a37905dce8d11
+SHA1: e550512bac70043cd140f0f14fb1cc1b66f8e183
+SHA256: ae07bffc402f817c462ae587a3f3d7e9a5dc74546138be25bf2abedcc07953c2
+Section: Tweaks
+Description: Simple color customization for Twitter
+Author: Revulate <revulate1@gmail.com>
+Depiction: https://www.idevicehacked.com/depictions/?p=com.revulate.freebird
+Icon: file:///Library/PreferenceBundles/FreeBird.bundle/icon@3x.png
+Name: FreeBird
+Sileodepiction: https://idevicehacked.com/depictions/com.revulate.freebird/FreeBird
+
 Package: com.smokin1337.barscape
 Version: 1.0
 Architecture: iphoneos-arm
