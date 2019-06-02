@@ -1,5 +1,12 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>Fixed icons not hiding properly when tapping</change>
+		<change>Separated hide notifications on lockscreen and notification center</change>
+		<change>You can now select number of taps required to hide/unhide icons</change>
+		<change>Added touch to reveal icons when using the timer</change>
+	</changes>
+	<changes>
 		<version>1.0</version>
 		<change>Initial release</change>
 	</changes>

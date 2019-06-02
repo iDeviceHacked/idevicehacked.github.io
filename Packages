@@ -746,6 +746,25 @@ Icon: https://idevicehacked.com/depictions/com.smokin1337.pluto/icon.png
 Name: Pluto
 Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.pluto/Pluto
 
+Package: com.smokin1337.pluto
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 1880
+Depends: com.spark.libsparkapplist, com.opa334.ccsupport
+Filename: noDebsHere/Smokin/com.smokin1337.pluto_1.0.1_iphoneos-arm.deb
+Size: 343504
+MD5sum: c15c302828721ac90bdd085a5c972648
+SHA1: 39e1e5ed763d5ee0160942c2150de7feecd711e5
+SHA256: 54eb6e70494e60222feafa1515c3390e8d92882de5cd81e856300766dbf94ddc
+Section: Tweaks
+Description: Disable notifications with ease, and hide your icons!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.pluto
+Icon: https://idevicehacked.com/depictions/com.smokin1337.pluto/icon.png
+Name: Pluto
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.pluto/Pluto
+
 Package: com.smokin1337.powerswitch
 Version: 1.0.1
 Architecture: iphoneos-arm

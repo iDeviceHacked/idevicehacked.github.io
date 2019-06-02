@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.togglow/header/FreeBird_Header.png",
+  "headerImage": "https://idevicehacked.com/depictions/com.revulate.freebird/header/FreeBird_Header.png",
   "tintColor": "",
   "tabs": [
     {
@@ -18,8 +18,8 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.jpg?size=640",
-              "fullSizeURL": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.jpg"
+              "url": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.png?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.png"
             },
 	           {
               "accessibilityText": "Screenshot",
@@ -38,8 +38,8 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.jpg?size=640",
-                "fullSizeURL": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.jpg"
+                "url": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.png?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.revulate.freebird/screenshots/1.png"
               },
   	           {
                 "accessibilityText": "Screenshot",

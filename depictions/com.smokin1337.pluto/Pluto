@@ -14,13 +14,19 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Completely disable notifications or just hide them via mute switch, CC toggle or in selected apps\n\n Options for notifications include: \n - Disable sound/vibration(when enabled)\n - Disable banners(when enabled)\n - Select apps to disable notifications in\n - Choose apps to only disable banners\n - Hide notifications animated\n - Small vibration when Pluto is active and a notification arrives",
+          "markdown": "Completely disable notifications or just hide them via mute switch, CC toggle or in selected apps\n\n Options for notifications include: \n - Disable sound/vibration(when enabled)\n - Disable banners(when enabled)\n - Hide notifications(when enabled)\n - Select apps to disable notifications in\n - Choose apps to only disable banners\n - Hide notifications animated\n - Small vibration when Pluto is active and a notification arrives",
           "title": "markdown-description",
           "useSpacing": true,
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Hide icons on homescreen via double tap, autohide w/ timer, mute switch or CC toggle. \n\n Icon options include: \n - Hide icons with mute switch\n - Hide icons with CC toggle\n - Hide Icons with double tap\n - Hide icons by timer\n\n When Use Timer is enabled, the icons are hidden until you double tap the screen or move in and out of apps then autohide again after your designated time limit. \n\n When icons are hidden by the switch or CC toggle double tapping will do nothing.",
+          "markdown": "Hide icons on homescreen via double tap, autohide w/ timer, mute switch or CC toggle. \n\n Icon options include: \n - Hide icons with mute switch\n - Hide icons with CC toggle\n - Hide Icons with taps(Number of taps can be changed via settings)\n - Hide icons by timer\n - Unhide icons by touching screen when using timer",
+          "title": "markdown-description",
+          "useSpacing": true,
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "When Use Timer is enabled, the icons are hidden until you tap or touch(if enabled) the screen or move in and out of apps then autohide again after your designated time limit. \n\n When icons are hidden by the switch or CC toggle double tapping will do nothing.",
           "title": "markdown-description",
           "useSpacing": true,
         },
@@ -45,7 +51,7 @@
         },
         {
           "title": "Version",
-          "text": "1.0",
+          "text": "1.0.1",
           "class": "DepictionTableTextView"
         },
         {
@@ -82,6 +88,16 @@
     {
       "tabname": "Changelog",
       "views": [
+        {
+           "title": "1.0.1",
+           "useBoldText": true,
+           "useBottomMargin": true,
+           "class": "DepictionSubheaderView"
+         },
+         {
+           "class": "DepictionMarkdownView",
+           "markdown": "- Fixed icons not hiding properly when tapping\n - Separated hide notifications on lockscreen and notification center\n - You can now select number of taps required to hide/unhide icons\n - Added touch to reveal icons when using the timer"
+         },
         {
            "title": "1.0",
            "useBoldText": true,
