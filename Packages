@@ -746,6 +746,25 @@ Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
 Name: NPurge
 Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
 
+Package: com.smokin1337.npurge
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.npurge_1.0.1_iphoneos-arm.deb
+Size: 53008
+MD5sum: f4c35e9bfc3e761069bc6f766989fa58
+SHA1: 9df11050ca1ddea79f2278d0514e754ee6d6fad5
+SHA256: ac9f7f39477e87ee2570ec1f7a37889821e2b19c3496492942ca329b3561e8a3
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
 Package: com.smokin1337.pluto
 Version: 1.0
 Architecture: iphoneos-arm
