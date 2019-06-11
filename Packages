@@ -727,6 +727,25 @@ Author: smokin1337
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.fuupdatebadge
 Name: FUUpdateBadge
 
+Package: com.smokin1337.npurge
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 704
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.npurge_1.0_iphoneos-arm.deb
+Size: 52468
+MD5sum: 2ee936b48d44812901c02dd3001b5a62
+SHA1: afed1734246c6f09b7315d3094f8c081e9c7e3ed
+SHA256: ea8dd199d8c3fa5416bacd648361a77b96301537d54e910332fc77d358853d55
+Section: Tweaks
+Description: Purge notifications by refreshing !
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.npurge
+Icon: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge.png
+Name: NPurge
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.npurge/NPurge
+
 Package: com.smokin1337.pluto
 Version: 1.0
 Architecture: iphoneos-arm
