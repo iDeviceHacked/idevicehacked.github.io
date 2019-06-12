@@ -77,6 +77,16 @@
       "tabname": "Changelog",
       "views": [
         {
+           "title": "1.0.3-2",
+           "useBoldText": true,
+           "useBottomMargin": true,
+           "class": "DepictionSubheaderView"
+         },
+         {
+           "class": "DepictionMarkdownView",
+           "markdown": "Fixed crashing on ios 11 for real and crashing on iOS 12"
+         },
+        {
            "title": "1.0.2",
            "useBoldText": true,
            "useBottomMargin": true,
