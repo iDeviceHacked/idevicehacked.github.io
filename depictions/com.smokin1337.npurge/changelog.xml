@@ -1,5 +1,15 @@
 <changelog>
 	<changes>
+		<version>1.0.4</version>
+		<change>Added the following options:</change>
+		<change>Show spinner</change>
+		<change>Color spinner</change>
+		<change>Show label</change>
+		<change>Label color</change>
+		<change>Label font size<change>
+		<change>Spinner/Label vertical position</change>
+	</changes>
+	<changes>
 		<version>1.0.3-2</version>
 		<change>Fixed crashing on iOS 11 for real and crashing on iOS 12</change>
 	</changes>

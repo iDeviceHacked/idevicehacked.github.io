@@ -77,6 +77,16 @@
       "tabname": "Changelog",
       "views": [
         {
+           "title": "1.0.4",
+           "useBoldText": true,
+           "useBottomMargin": true,
+           "class": "DepictionSubheaderView"
+         },
+         {
+           "class": "DepictionMarkdownView",
+           "markdown": "Added the following options:\n - Show spinner - Color spinner - Show label - Label color - Label font size - Spinner/Label vertical position"
+         },
+        {
            "title": "1.0.3-2",
            "useBoldText": true,
            "useBottomMargin": true,
