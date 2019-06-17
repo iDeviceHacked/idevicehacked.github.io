@@ -447,6 +447,24 @@ Author: Jim Andrews
 Depiction: https://www.idevicehacked.com/depictions/?p=com.idevicehacked.skilartheme
 Name: Skilar
 
+Package: com.idevicehacked.sleepaid
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: LucifersCircle <luciferscircle@gmail.com>
+Installed-Size: 444
+Depends: mobilesubstrate
+Filename: noDebsHere/Luci/com.idevicehacked.sleepaid_1.0_iphoneos-arm.deb
+Size: 18290
+MD5sum: 3376339f6cc5a1233ebe318b63505e21
+SHA1: 35e6877a826c067e1d87b225dd7ae5ef61767de9
+SHA256: 651bb1d1ea5d057a22da0ec9b07279e4a94c92cc92e38f4e3eee8e2c738d2bf3
+Section: Tweaks
+Description: Turn on Grayscale until alarm goes off!
+Author: LucifersCircle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.sleepaid
+Name: SleepAid
+Sileodepiction: https://idevicehacked.com/depictions/com.idevicehacked.sleepaid/SleepAid
+
 Package: com.idevicehacked.spdmlite
 Version: 0.0.1
 Architecture: iphoneos-arm

@@ -1,0 +1,29 @@
+{
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "views": [
+                {
+                "text": "View Package",
+                "action": "https://idevicehacked.com/depictions/?p=com.idevicehacked.sleepaid/",
+                "class": "DepictionButtonView"
+                },
+                {
+                "title": "Follow Developer on Twitter",
+                "action": "https://twitter.com/lucifers_circle",
+                "class": "DepictionTableButtonView"
+                },
+                {
+                "title": "Follow iDevice Hacked on Twitter",
+                "action": "https://twitter.com/idevice_hacked",
+                "class": "DepictionTableButtonView"
+                }
+
+            ],
+            "tabname": "Links"
+        }
+    ],
+    "class": "DepictionTabView",
+    "tintColor": "#6A8DFF",
+    "minVersion": "0.1"
+}
