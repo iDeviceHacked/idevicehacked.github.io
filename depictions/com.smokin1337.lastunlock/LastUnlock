@@ -1,20 +1,20 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.npurget/header/NPurge_Header.png",
+  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.npurge/header/NPurge_Header.png",
   "tintColor": "",
   "tabs": [
     {
       "tabname": "Details",
       "views": [
         {
-          "title": "NPurge",
+          "title": "LastUnlock",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Purge notifications on the lockscreen or notification center by refreshing(Pulling down until the spinner is complete)",
+          "markdown": "Show last unlock date and time on the lockscreen. This replaces the swipe up/press home to unlock text with the date and time of when the device was last unlocked,
           "title": "markdown-description",
           "useSpacing": true,
         },
@@ -44,7 +44,7 @@
         },
         {
           "title": "Released",
-          "text": "2019/06/10",
+          "text": "2019/06/16",
           "class": "DepictionTableTextView"
         },
         {
@@ -76,46 +76,6 @@
     {
       "tabname": "Changelog",
       "views": [
-        {
-           "title": "1.0.4",
-           "useBoldText": true,
-           "useBottomMargin": true,
-           "class": "DepictionSubheaderView"
-         },
-         {
-           "class": "DepictionMarkdownView",
-           "markdown": "Added the following options:\n - Show spinner - Color spinner - Show label - Label color - Label font size - Spinner/Label vertical position"
-         },
-        {
-           "title": "1.0.3-2",
-           "useBoldText": true,
-           "useBottomMargin": true,
-           "class": "DepictionSubheaderView"
-         },
-         {
-           "class": "DepictionMarkdownView",
-           "markdown": "Fixed crashing on ios 11 for real and crashing on iOS 12"
-         },
-        {
-           "title": "1.0.2",
-           "useBoldText": true,
-           "useBottomMargin": true,
-           "class": "DepictionSubheaderView"
-         },
-         {
-           "class": "DepictionMarkdownView",
-           "markdown": "Fixed crashing on ios 11 (Hopefully)"
-         },
-        {
-           "title": "1.0.1",
-           "useBoldText": true,
-           "useBottomMargin": true,
-           "class": "DepictionSubheaderView"
-         },
-         {
-           "class": "DepictionMarkdownView",
-           "markdown": "- Fixed compatibilty with latest Axon version\n - Removed the spinner when refreshing"
-         },
         {
            "title": "1.0",
            "useBoldText": true,

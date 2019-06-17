@@ -727,6 +727,24 @@ Author: smokin1337
 Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.fuupdatebadge
 Name: FUUpdateBadge
 
+Package: com.smokin1337.lastunlock
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 104
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.lastunlock_1.0_iphoneos-arm.deb
+Size: 3452
+MD5sum: 9a8b1743f3b0fe0193edc6b86358762c
+SHA1: 878e204509a3443430683d0175e1f261e51fc59a
+SHA256: 725da2c3abc5749cc5d5058344948cf6516eb9f1869597c9196ff985db706825
+Section: Tweaks
+Description: Last unlock date and time on the lockscreen!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.lastunlock
+Name: LastUnlock
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.lastunlocl/LastUnlock
+
 Package: com.smokin1337.npurge
 Version: 1.0
 Architecture: iphoneos-arm

@@ -1,7 +1,7 @@
 <package>
-	<id>com.smokin1337.npurge</id>
-	<name>NPurge</name>
-	<version>1.0.4</version>
+	<id>com.smokin1337.lastunlock</id>
+	<name>LastUnlock</name>
+	<version>1.0</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,12 +15,7 @@
 	<dependencies></dependencies>
 
     <changelog>
-			<change>Added the following options:</change>
-			<change>Show spinner</change>
-			<change>Color spinner</change>
-			<change>Show label</change>
-			<change>Label color</change>
-			<change>Label font size<change>
+			<change>Initial Release<change>
     </changelog>
 
     <screenshots>
@@ -28,7 +23,7 @@
 
 	<descriptionlist>
 
-		<description>Purge notifications on the lockscreen or notification center by refreshing(Pulling down until the spinner is complete)</description>
+		<description>Show last unlock date and time on the lockscreen. This replaces the swipe up/press home to unlock text with the date and time of when the device was last unlocked</description>
 
 	</descriptionlist>
 
