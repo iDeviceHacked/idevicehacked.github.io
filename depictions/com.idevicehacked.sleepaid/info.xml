@@ -16,6 +16,8 @@
 	<descriptionlist>
 		<description>Turn on Grayscale until alarm goes off! Includes a Control Center toggle if you have CCSupport.
         </description>
+        <description>***SleepAid*** was made to help keep you off your phone at night when you want to go to sleep by enabling greyscale. After enabling the tweak from either the preferences app, or the control center module you're device will be put into greyscale, and you will not be able to turn it off from the tweak settings. Once your morning alarm goes off the tweak will instantly disable greyscale! **SleepAid currently only supports iOS 12**. (If you want to use the CCModule you'll need to install CCSupport)
+</description>
 	</descriptionlist>
     <screenshots>
         <screenshot>
