@@ -1,0 +1,45 @@
+<package>
+	<id>com.idevicehacked.sleepaid</id>
+	<name>SleepAid</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>12.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Turn on Grayscale until alarm goes off! Includes a Control Center toggle if you have CCSupport.
+        </description>
+	</descriptionlist>
+    <screenshots>
+        <screenshot>
+            <description>Menu</description>
+            <image>menu.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Alert</description>
+            <image>alert.png</image>
+        </screenshot>
+        <screenshot>
+            <description>Module</description>
+            <image>module.png</image>
+        </screenshot>
+
+    </screenshots>
+	<changelog>
+        <change>Initial Release!</change>
+	</changelog>
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://www.idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+    </links>
+</package>
