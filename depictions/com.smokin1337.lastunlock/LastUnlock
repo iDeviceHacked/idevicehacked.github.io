@@ -1,6 +1,6 @@
 {
   "minVersion": "0.1",
-  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.npurge/header/NPurge_Header.png",
+  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.lastunlock/header/LastUnlock_Header.png",
   "tintColor": "",
   "tabs": [
     {
@@ -14,7 +14,7 @@
         },
         {
           "class": "DepictionMarkdownView",
-          "markdown": "Show last unlock date and time on the lockscreen. This replaces the swipe up/press home to unlock text with the date and time of when the device was last unlocked,
+          "markdown": "Show last unlock and respring date and time on the lockscreen. This replaces the swipe up/press home to unlock text with the date and time of when the device was last unlocked",
           "title": "markdown-description",
           "useSpacing": true,
         },
@@ -39,7 +39,7 @@
         },
         {
           "title": "Version",
-          "text": "1.0",
+          "text": "1.0.1",
           "class": "DepictionTableTextView"
         },
         {
@@ -76,6 +76,16 @@
     {
       "tabname": "Changelog",
       "views": [
+	{
+           "title": "1.0.1",
+           "useBoldText": true,
+           "useBottomMargin": true,
+           "class": "DepictionSubheaderView"
+         },
+         {
+           "class": "DepictionMarkdownView",
+           "markdown": "Resized font\n Added last respring date/time"
+         },
         {
            "title": "1.0",
            "useBoldText": true,

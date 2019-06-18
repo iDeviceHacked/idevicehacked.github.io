@@ -1,7 +1,7 @@
 <package>
 	<id>com.smokin1337.lastunlock</id>
 	<name>LastUnlock</name>
-	<version>1.0</version>
+	<version>1.0.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,7 +15,8 @@
 	<dependencies></dependencies>
 
     <changelog>
-			<change>Initial Release<change>
+	<change>Added last respring date/time</change>
+	<change>Resized font</change>
     </changelog>
 
     <screenshots>
@@ -23,7 +24,7 @@
 
 	<descriptionlist>
 
-		<description>Show last unlock date and time on the lockscreen. This replaces the swipe up/press home to unlock text with the date and time of when the device was last unlocked</description>
+		<description>Show last unlock and respring date and time on the lockscreen. This replaces the swipe up/press home to unlock text with the date and time of when the device was last unlocked</description>
 
 	</descriptionlist>
 

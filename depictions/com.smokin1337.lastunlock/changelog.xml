@@ -1,12 +1,9 @@
 <changelog>
-	<changes>
-		<version>1.0.2</version>
-		<change>Fixed crashing on iOS 11 (Hopefully)</change>
-	</changes>
+	
 	<changes>
 		<version>1.0.1</version>
-		<change>Fixed compatibilty with the latest Axon tweak version</change>
-		<change>Got rid of the spinner</change>
+		<change>Added last respring date/time</change>
+		<change>Resized font</change>
 	</changes>
 	<changes>
 		<version>1.0</version>
