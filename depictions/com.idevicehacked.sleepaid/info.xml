@@ -1,12 +1,12 @@
 <package>
 	<id>com.idevicehacked.sleepaid</id>
 	<name>SleepAid</name>
-	<version>1.0</version>
+	<version>1.1</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
-            <miniOS>12.0</miniOS>
-			<otherVersions>unsupported</otherVersions>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
@@ -35,7 +35,8 @@
 
     </screenshots>
 	<changelog>
-        <change>Initial Release!</change>
+        <change>Added iOS 11 support</change>
+        <change>Fixed greyscale not disabling on some devices</change>
 	</changelog>
 	<links>
         <link>
