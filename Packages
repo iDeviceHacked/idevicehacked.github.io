@@ -693,6 +693,25 @@ Icon: https://idevicehacked.com/depictions/com.smokin1337.barscape/icon.png
 Name: BarScape
 Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.barscape/BarScape
 
+Package: com.smokin1337.blackoutcc
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.blackoutcc_1.0_iphoneos-arm.deb
+Size: 9326
+MD5sum: 2722c909348d166ad24d3996f6524d1f
+SHA1: 7ead56a8bcb3d4d5f6c11f40a39bd7a8e570ab8b
+SHA256: fcfeb8988419caf79d457e510b892064aefea5c4ef7d275616f697011ed6ce1c
+Section: Tweaks
+Description: BlackOut your control center!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.blackoutcc
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.blackoutcc/icon.png
+Name: BlackOutCC
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.blackoutcc/BlackOutCC
+
 Package: com.smokin1337.blurification
 Version: 1.0
 Architecture: iphoneos-arm
