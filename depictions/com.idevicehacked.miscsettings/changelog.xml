@@ -202,4 +202,13 @@
         <change>Fix Dock issue with "Hide Today View"</change>
     </changes>
 
+    <changes>
+        <version>2.4.2</version>
+        <change>Fix background thread crash</change>
+        <change>Fix "Hide % Sign" - StatusBar</change>
+        <change>Fix "Hide Lightning (notch devices)" - StatusBar</change>
+        <change>Fix "Hide Battery Icon (notch devices)" - StatusBar</change>
+        <change>Re-added percentage text getting colored when battery icon is hidden (non notch devices)</change>
+    </changes>
+
 </changelog>

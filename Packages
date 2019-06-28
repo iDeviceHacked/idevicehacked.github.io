@@ -349,6 +349,24 @@ Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.miscsetting
 Name: MiscSettings
 Sileodepiction: https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/MiscSettings
 
+Package: com.idevicehacked.miscsettings
+Version: 2.4.2
+Architecture: iphoneos-arm
+Maintainer: Lucifers Circle <luciferscircle@gmail.com>
+Installed-Size: 552
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: noDebsHere/Luci/com.idevicehacked.miscsettings_2.4.2_iphoneos-arm.deb
+Size: 62962
+MD5sum: f480304b7eabd2d4854f6b7834f7f0dd
+SHA1: 448aaad589405c8df4571ae299a81ebf79fe8d59
+SHA256: 8885874cc85e03c18353011171705094f7df8f6d9a8c845c8448f89b8b4ca1fe
+Section: Tweaks
+Description: So far has 60+ Miscellaneous toggles!
+Author: Lucifers Circle <luciferscircle@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.idevicehacked.miscsettings
+Name: MiscSettings
+Sileodepiction: https://idevicehacked.com/depictions/com.idevicehacked.miscsettings/MiscSettings
+
 Package: com.idevicehacked.neostheme
 Version: 1.0
 Architecture: iphoneos-arm
