@@ -1,0 +1,58 @@
+<package>
+	<id>com.smokin1337.ccbg</id>
+	<name>CCBG</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+            <miniOS>11.0</miniOS>
+			<otherVersions>unsupported</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+
+    <changelog>
+        <change>Initial Release</change>
+    </changelog>
+
+    <screenshots>
+        <screenshot>
+            <description>CCBG Settings</description>
+            <image>screenshot1.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description>CCBG Settings</description>
+            <image>screenshot2.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description>CCBG Settings</description>
+            <image>screenshot3.PNG</image>
+        </screenshot>
+        <screenshot>
+            <description>CCBG Settings</description>
+            <image>screenshot4.PNG</image>
+        </screenshot>
+    </screenshots>
+
+	<descriptionlist>
+
+		<description>Color your control center's background !!</description>
+
+	</descriptionlist>
+
+	<links>
+        <link>
+            <name>Website!</name>
+            <url>https://idevicehacked.com</url>
+            <iconclass>fa fa-desktop</iconclass>
+        </link>
+	<link>
+		<name>Twitter</name>
+		<url>https://twitter.com/smokin1337</url>
+		<iconclass> fa fa-twitter</iconclass>
+		</link>
+    </links>
+</package>

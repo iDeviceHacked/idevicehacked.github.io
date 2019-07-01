@@ -766,6 +766,25 @@ Icon: https://idevicehacked.com/depictions/com.smokin1337.blurification/icon.png
 Name: Blurification
 Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.blurification/Blurification
 
+Package: com.smokin1337.ccbg
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: smokin1337 <smokin1337@gmail.com>
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: noDebsHere/Smokin/com.smokin1337.ccbg_1.0_iphoneos-arm.deb
+Size: 18240
+MD5sum: 002aedf68170e88f6cd82b14b80cffa4
+SHA1: e7d3ad2876169e15262067963a6ed191bab62d39
+SHA256: 7ef17ac7cb723d109751c9c26f8d3aa1d8e9003cbe22f53ea039158b82f32728
+Section: Tweaks
+Description: Color your control center background!
+Author: smokin1337 <smokin1337@gmail.com>
+Depiction: https://idevicehacked.com/depictions/?p=com.smokin1337.ccbg
+Icon: https://www.idevicehacked.com/depictions/com.smokin1337.ccbg/icon.png
+Name: CCBG
+Sileodepiction: https://idevicehacked.com/depictions/com.smokin1337.ccbg/CCBG
+
 Package: com.smokin1337.fuupdatebadge
 Version: 1.0.0
 Architecture: iphoneos-arm

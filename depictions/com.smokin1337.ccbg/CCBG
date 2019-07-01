@@ -1,0 +1,153 @@
+{
+  "minVersion": "0.1",
+  "headerImage": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/header/CCBG_Header.png",
+  "tintColor": "",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "CCBG",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 275.41333333333336}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot1.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot1.PNG"
+            },
+	{
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot2.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot2.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot3.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot3.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot4.PNG?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot4.PNG"
+            }
+          ],
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 550.8266666666667}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot1.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot1.PNG"
+              },
+	{
+              "accessibilityText": "Screenshot",
+              "url": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot2.jpeg?size=640",
+              "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot2.jpeg"
+            },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot3.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot3.PNG"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot4.PNG?size=640",
+                "fullSizeURL": "https://idevicehacked.com/depictions/com.smokin1337.ccbg/screenshots/screenshot4.PNG"
+              }
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "Color you control center's background !!",
+          "title": "markdown-description",
+          "useSpacing": true,
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Known Issues",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "markdown": "None",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+        {
+          "title": "Version",
+          "text": "1.0",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Released",
+          "text": "2019/06/30",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Developer",
+          "text": "smokin1337",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Follow Me on Twitter",
+          "action": "https://twitter.com/smokin1337",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 16,
+          "class": "DepictionSpacerView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+           "title": "1.0",
+           "useBoldText": true,
+           "useBottomMargin": true,
+           "class": "DepictionSubheaderView"
+         },
+         {
+           "class": "DepictionMarkdownView",
+           "markdown": "Initial Release"
+         },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019/06/30</small>",
+          "useRawFormat": true
+        }
+      ],
+      "class": "DepictionStackView"
+    }
+  ],
+  "class": "DepictionTabView"
+}
